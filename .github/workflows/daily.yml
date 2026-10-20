@@ -3,6 +3,12 @@ on:
   schedule:
     - cron: '15 23 * * *' # 07:15 Asia/Taipei (UTC+8)
   workflow_dispatch:
+    inputs:
+      reanalyze:
+        description: "重新生成既有文章的中文快報（最多8篇）"
+        required: false
+        type: boolean
+        default: false
 permissions:
   contents: write
 jobs:
@@ -26,6 +32,8 @@ jobs:
           SITE_URL: https://eran8575.github.io/medlit-pocket/
           MAX_AI_ARTICLES: '8'
           MAX_BACKFILL_AI: '3'
+          FORCE_REANALYZE: ${{ inputs.reanalyze || 'false' }}
+          MAX_REANALYZE_AI: '8'
         run: python update.py
       - name: Commit refreshed library
         run: |
