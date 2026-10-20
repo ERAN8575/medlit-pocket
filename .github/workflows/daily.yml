@@ -1,0 +1,35 @@
+name: Daily PubMed update
+on:
+  schedule:
+    - cron: '15 23 * * *' # 07:15 Asia/Taipei (UTC+8)
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Update PubMed and notify
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: gpt-4.1-mini
+          NCBI_EMAIL: ${{ secrets.NCBI_EMAIL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SITE_URL: https://eran8575.github.io/medlit-pocket/
+          MAX_AI_ARTICLES: '8'
+          MAX_BACKFILL_AI: '3'
+        run: python update.py
+      - name: Commit refreshed library
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/articles.json
+          git diff --cached --quiet || (git commit -m 'Update PubMed library' && git push)
