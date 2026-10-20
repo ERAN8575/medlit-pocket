@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-20T04:33:39.765091+00:00",
+  "generated_at": "2026-10-20T23:42:45.586174+00:00",
   "articles": [
+    {
+      "id": "42897913",
+      "title": "Challenging gender-based & obstetric violence: Medical students' evolving perspectives in OBGYN care.",
+      "journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+      "year": "2026",
+      "doi": "10.1002/ijgo.71425",
+      "abstract": "OBJECTIVE: Medical students undergo professional socialization during clinical rotations, which shapes their perceptions and responses to patient care. Obstetric and gender-based violence are pervasive issues in obstetrics and gynecology, where hierarchical dynamics may normalize unethical practices. Our study aimed to explore the perceptions, observations, learning experiences, and beliefs of students regarding gender-based and obstetric violence during their obstetrics and gynecology rotation in Mexico.\nMETHODS: We used a mixed-methods design, incorporating a pre- and post-rotation questionnaire with Likert-scale and open-ended questions. Our questionnaire assessed perceptions of respectful treatment, violence, self-competence, and emotional reactions. We applied the Wilcoxon test to evaluate statistical differences, and qualitative responses underwent open coding for thematic analysis.\nRESULTS: Of 100 students who completed both timepoints, familiarity with obstetric violence increased from 93% to 100%. Reports of encountering patients affected by violence rose significantly (24% to 85%, P < 0.001). Students observed increased instances of psychological abuse, medical malpractice, and violations of bioethical principles. Self-confidence in managing victims of sexual violence improved (1.85 vs. 3.09, P < 0.001), but students consistently reported sadness and anger when witnessing abuse. Perceptions of respectful treatment by healthcare staff, particularly nursing personnel, decreased significantly.\nCONCLUSIONS: The obstetrics and gynecology rotation significantly heightened the medical students' awareness of obstetric and gender-based violence, improved self-competence in managing affected patients, and revealed persistent emotional distress. Findings highlight the need for improved medical education emphasizing ethical role modeling, emotional support, and strategies to address the persistence of violent and unethical practices in clinical environments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42897913/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-20T23:42:45.585989+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42896157",
       "title": "Generative AI for Personalized Learning Platforms in Otolaryngology-Head and Neck Surgery Education: Scoping Review.",
