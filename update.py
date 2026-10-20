@@ -50,15 +50,17 @@ def fallback(a):
  return {'quick':'中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。','deep':'【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。','ai_status':'pending'}
 def analyze(a,client):
  if not client or not a['abstract']:return fallback(a)
- instruction='''你是醫學教育與質性研究方法專家。只根據提供的 PubMed 標題與英文摘要，以繁體中文產出 JSON 物件，恰好包含 quick、deep 兩個字串。禁止杜撰數據、主題、作者主張、研究細節或引用。英文摘要將由網站直接顯示原始 PubMed abstract，請不要在 quick 中翻貼英文。
-quick = 「快速閱讀｜AI整理中文摘要」，不是逐字翻譯，也不是只有三句重點。請將文章摘要重組成以下五個明確段落，各段落以標題開頭並換行：
-【研究背景與目的】說明研究要回答的問題及脈絡。
-【研究設計與對象】忠實交代研究方法、對象、樣本及場域（摘要有寫才列）。
-【主要研究發現】這是核心段落，優先完整整理摘要提到的結果、主題、數字或關聯；不要用籠統的「有改善」取代具體發現。
-【研究結論】呈現作者的結論及適用範圍。
-【研究啟發】以一兩句指出與軍陣醫學教育或質性研究的可能關聯，明確標示是延伸解讀。
-整體目標約500–850中文字，但若原始摘要資訊不足就縮短；絕不可為了湊字數編造細節。中文要自然流暢、適合手機閱讀，避免機械翻譯。英文原始摘要由網站另外呈現。
-deep = 「深度閱讀｜重要方法學」，重點放在這篇文章實際使用的研究方法，不要重複快速摘要。按文章類型調整：質性研究要討論研究取向（現象學、紮根理論、主題分析等）、取樣、資料來源、訪談或反思文本、編碼與主題建構、研究者反身性、可信度與可轉移性；量化研究要討論設計、對照、測量、統計、偏差；方法學文章要拆解其核心分析步驟、理論假設、適用情境與常見誤用。每一部分區分【摘要已明示】與【摘要未交代，需查全文】；再加【方法學評讀】和【應用於軍陣醫學學生心得研究的延伸建議】。只要摘要資訊足夠，寫約900–1600中文字；資訊不足時務必簡短，不能填補不存在的資訊。不得聲稱已閱讀全文。'''
+ instruction='''你是具備醫學教育、軍陣醫學及質性研究專長的科學新聞編輯。請只根據輸入的 PubMed title/abstract 生成合法 JSON 物件，只有 quick 和 deep 兩個字串欄位。禁止翻貼英文摘要、逐字翻譯、杜撰研究細節或誇大因果。
+quick：寫成繁體中文「研究快報」，像專業醫學新聞，不是翻譯的摘要，不要貼出英文 Abstract。使用以下結構：
+【一句話看重點】一到兩句直接告訴讀者這篇研究最重要的發現或主張。
+【為什麼值得關注】交代背景、研究缺口、研究動機，寫得易懂。
+【研究怎麼做】用自己的中文說清研究設計、對象、資料來源與分析方法；摘要沒寫的不能補。
+【研究發現了什麼】最重要段落。具體說明作者報告的主題、數據、比較或觀察結果；分點敘述也可以，但避免冗長英文句子。
+【研究代表什麼】區分作者結論和不能推論的事情。
+【對軍陣醫學教育研究的啟發】給出有用、審慎的研究應用想法，明確標為延伸解讀。
+約 600–950 個中文字，原文資訊少時就縮短。英文術語只在必要時括號附上，例如主題分析（thematic analysis）；禁止輸出完整英文摘要。
+deep：重點是「這篇文章重要的方法學」，約 900–1700 中文字（摘要不足則縮短）。以研究類型調整，質性研究評估研究取向、研究對象與抽樣、文本或訪談資料、編碼與主題建構、研究者反身性、可信度、轉移性；量化研究評估設計、對照、指標、統計與偏差；方法論文章說明其關鍵方法步驟、理論前提與常見誤用。清楚區分【摘要可確認】、【需查閱全文】、【方法學評讀】及【對軍陣醫學學生心得研究的應用】。絕不能說自己已閱讀全文。
+語氣專業但像精煉的醫學研究新聞，易於手機閱讀。'''
  response=client.chat.completions.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),response_format={'type':'json_object'},messages=[{'role':'system','content':instruction},{'role':'user','content':json.dumps({'title':a['title'],'journal':a['journal'],'abstract':a['abstract']},ensure_ascii=False)}],temperature=0.1,timeout=90)
  data=json.loads(response.choices[0].message.content)
  if not isinstance(data.get('quick'),str) or not isinstance(data.get('deep'),str):raise ValueError('AI JSON missing fields')
@@ -96,6 +98,16 @@ def main():
   if not a['tags']:a['tags']=['qual']
   a['priority']=a['journal'].lower() in PRIORITY
   articles[a['id']]=a
+ # Reanalyze previously generated summaries on demand (capped to protect API costs).
+ if client and os.getenv('FORCE_REANALYZE','false').lower() in ('true','1','yes'):
+  quota=int(os.getenv('MAX_REANALYZE_AI','8'))
+  candidates=[a for a in articles.values() if a.get('abstract') and a.get('ai_status')=='abstract_only']
+  candidates.sort(key=lambda a:(a.get('priority',False),a.get('updated','')),reverse=True)
+  for a in candidates[:quota]:
+   try:
+    a.update(analyze(a,client))
+    logging.info('Reanalyzed %s',a['id'])
+   except Exception as e:logging.warning('Reanalysis %s: %s',a['id'],e)
  # upgrade pending articles gradually if API key is configured
  if client:
   pending=[a for a in articles.values() if a.get('ai_status')=='pending' and a.get('abstract')]
