@@ -47,10 +47,12 @@ def fetch_articles(pmids):
   out.append({'id':pmid,'title':title,'journal':journal,'year':year,'doi':doi,'abstract':abstract,'url':f'https://pubmed.ncbi.nlm.nih.gov/{pmid}/','source':'PubMed abstract','updated':datetime.datetime.now(datetime.timezone.utc).isoformat()})
  return out
 def fallback(a):
- return {'quick':('【研究背景與問題】\n'+a['title']+'\n\n【原始摘要（英文，尚未完成AI分析）】\n'+(a['abstract'] or 'PubMed未提供摘要。')),'deep':('【研究資料】\n'+a['journal']+' ('+str(a['year'])+')；PMID '+a['id']+'\n\n【摘要原文】\n'+(a['abstract'] or 'PubMed未提供摘要。')+'\n\n【評讀提示】\n請核對全文的研究取樣、資料蒐集、分析方法、反身性、可信度與研究限制；本頁未推論摘要未提供的結果。'),'ai_status':'pending'}
+ return {'quick':'中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。','deep':'【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。','ai_status':'pending'}
 def analyze(a,client):
  if not client or not a['abstract']:return fallback(a)
- instruction='''你是醫學教育質性研究方法專家。只根據提供的 PubMed 標題與摘要，用繁體中文產出 JSON 物件，恰好含 quick、deep 兩個字串。quick 目標500–800中文字；deep目標1500–2200中文字，但資料不足時寧可短，不可灌水或編造。quick分段：研究背景、研究問題、設計/樣本、重要結果（只列摘要實際記載的數據/主題）、為何值得讀。deep分段：研究脈絡、研究問題、研究設計與樣本、資料蒐集與分析、核心結果逐項解讀、研究限制（明示/推論分開）、方法學評讀、軍陣醫學教學/學生反思資料的應用、下一步閱讀全文的查核清單。若文章是方法指引則調整結構。任何摘要沒說的細節明確標記「摘要未交代，需查全文」。不得捏造引言、訪談逐字稿、數值、效應量或作者主張。研究者建議需標示「延伸建議」。請不要稱已閱讀全文。'''
+ instruction='''你是醫學教育與質性研究方法專家。只根據提供的 PubMed 標題與英文摘要，以繁體中文產出 JSON 物件，恰好包含 quick、deep 兩個字串。禁止杜撰數據、主題、作者主張、研究細節或引用。英文摘要將由網站直接顯示原始 PubMed abstract，請不要在 quick 中翻貼英文。
+quick = 「快速閱讀｜中文摘要」，以忠實、清楚的中文呈現研究背景與目的、研究設計與對象、主要結果與結論、教育或臨床意義；優先完整翻譯並整理原始摘要資訊，目標約400–700中文字，摘要資訊少則適當縮短。避免空泛的閱讀建議取代摘要本身。
+deep = 「深度閱讀｜重要方法學」，重點放在這篇文章實際使用的研究方法，不要重複快速摘要。按文章類型調整：質性研究要討論研究取向（現象學、紮根理論、主題分析等）、取樣、資料來源、訪談或反思文本、編碼與主題建構、研究者反身性、可信度與可轉移性；量化研究要討論設計、對照、測量、統計、偏差；方法學文章要拆解其核心分析步驟、理論假設、適用情境與常見誤用。每一部分區分【摘要已明示】與【摘要未交代，需查全文】；再加【方法學評讀】和【應用於軍陣醫學學生心得研究的延伸建議】。只要摘要資訊足夠，寫約900–1600中文字；資訊不足時務必簡短，不能填補不存在的資訊。不得聲稱已閱讀全文。'''
  response=client.chat.completions.create(model=os.getenv('OPENAI_MODEL','gpt-4.1-mini'),response_format={'type':'json_object'},messages=[{'role':'system','content':instruction},{'role':'user','content':json.dumps({'title':a['title'],'journal':a['journal'],'abstract':a['abstract']},ensure_ascii=False)}],temperature=0.1,timeout=90)
  data=json.loads(response.choices[0].message.content)
  if not isinstance(data.get('quick'),str) or not isinstance(data.get('deep'),str):raise ValueError('AI JSON missing fields')
