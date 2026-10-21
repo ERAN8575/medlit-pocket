@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-20T23:42:45.586174+00:00",
+  "generated_at": "2026-10-21T23:45:17.985386+00:00",
   "articles": [
+    {
+      "id": "42902223",
+      "title": "Large-group virtual anatomy via a smart digital podium: a preliminary cross-sectional study of student perspectives toward remote anatomage teaching in a medical lecture hall.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10019-x",
+      "abstract": "BACKGROUND: The Anatomage virtual dissection table is conventionally deployed in small groups in the dissection laboratory, limiting simultaneous access to one cohort at a time. Remote streaming of the live Anatomage interface over an institutional local area network (LAN) to a smart digital podium in a large lecture theatre-termed Remote Anatomage Teaching (RAT)-represents an unexplored model for scaling virtual anatomy instruction to an entire medical cohort simultaneously.\nMETHODS: A cross-sectional study was conducted at Kasturba Medical College, Manipal, India. A single integrated basal nuclei lecture combining blackboard diagrams, PowerPoint slides, and live remote Anatomage streaming was delivered to 125 first-year MBBS students. A 13-item attitude questionnaire, developed de novo for this study, was completed anonymously by 94 students immediately post-session (response rate: 75.2%, 94/125); internal consistency of nine attitudinal preference items (the seven comparative items [Items 3, 4, 6-10], Interest in Anatomy [Item 11], and Curriculum Integration [Item 12], excluding Realism [Item 5]), used as a descriptive baseline reliability estimate, was Cronbach's α = 0.873.\nRESULTS: The RAT session was delivered without technical interruption throughout the 47-minute lecture. Among 94 respondents, 76.6% (72/94) rated RAT as more engaging or much more engaging than regular theory classes. RAT was preferred over PowerPoint-based lectures across all nine comparative pedagogical domains, with preferences ranging from 55.3% (self-paced learning) to 84.0% (curriculum integration). Realism compared to cadaveric dissection was endorsed by 81.9% (77/94). Three qualitative themes emerged from reflexive thematic analysis of 30 substantive free-text responses: visual engagement and retention, preference for blended delivery, and projection visibility as a technical constraint.\nCONCLUSIONS: Large-group RAT via a smart digital podium is technically feasible and elicits strongly favorable student perspectives across multiple pedagogical domains. This scalable model extends virtual anatomy technology to large lecture hall settings without additional hardware investment. A powered randomized controlled trial incorporating an active comparator arm is warranted as the definitive next step.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42902223/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-21T23:45:17.985186+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42897913",
       "title": "Challenging gender-based & obstetric violence: Medical students' evolving perspectives in OBGYN care.",
