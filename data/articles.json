@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-10-21T23:45:17.985386+00:00",
+  "generated_at": "2026-10-22T23:43:31.528554+00:00",
   "articles": [
+    {
+      "id": "42901600",
+      "title": "Stakeholder perspectives on sustainable antenatal point-of-care ultrasound (APOCUS) implementation in rural Australia: a qualitative study of professional body submissions and clinician focus groups.",
+      "journal": "BMJ open",
+      "year": "2026",
+      "doi": "10.1136/bmjopen-2026-120460",
+      "abstract": "BACKGROUND: Antenatal point-of-care ultrasound (APOCUS) may improve access to essential obstetric imaging in rural and remote settings where formal ultrasound services are limited. However, sustainable implementation requires accessible training, governance and accreditation pathways.\nOBJECTIVE: To explore stakeholder perspectives on the sustainable implementation of APOCUS training and practice in Australia.\nDESIGN: Qualitative descriptive study using online focus groups and invited written submissions from Australian professional organisations and colleges.\nSETTING AND PARTICIPANTS: Six online focus groups (including one pilot) were conducted with 35 clinicians with expertise in rural health, obstetrics, ultrasound, education and policy. Participants were purposively recruited to ensure professional diversity (doctors, midwives, nurses and sonographers). Written submissions were received from seven peak professional bodies.\nANALYSIS: Data collection and analysis were informed by the Australian National Strategic Framework for Rural and Remote Health and the COM-B Behaviour Change Wheel. Reflexive thematic analysis using a mixed inductive–deductive approach was undertaken. A comprehensive coding framework, supported by dual coding and kappa analysis, was applied across both datasets. Reporting followed the Consolidated Criteria for Reporting Qualitative Studies (COREQ) guidelines.\nRESULTS: Stakeholders identified interrelated barriers and enablers to implementing APOCUS across education and health systems. Key challenges included limited access to rural training, funding constraints, inconsistent governance and accreditation, workforce capacity, supervision requirements, inequitable professional recognition and scope of practice uncertainty. Recommended priorities included consistent national standards; modular, locally accessible training; flexible, multidisciplinary accreditation pathways; expanded supervision and mentoring networks; technology-enabled support; and integration into health profession education. Stakeholders also emphasised patient-centred models of care, stronger rural engagement and local planning, alignment with national rural health priorities, and further research to inform implementation, funding and policy.\nCONCLUSION: Stakeholder perspectives indicate that successful integration of APOCUS will require coordinated policy, workforce, training and governance strategies, including clear standards, defined scopes of practice, accessible education and accreditation pathways, equitable professional recognition and appropriate funding mechanisms. Technology-enabled support, expanded supervision networks and integration into existing models of care may facilitate scalable implementation. These findings provide a foundation for policy development, implementation strategies and future research evaluating the effectiveness, feasibility and sustainability of these approaches.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42901600/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-22T23:43:31.528292+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42902223",
       "title": "Large-group virtual anatomy via a smart digital podium: a preliminary cross-sectional study of student perspectives toward remote anatomage teaching in a medical lecture hall.",
