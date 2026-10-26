@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-25T23:40:30.256663+00:00",
+  "generated_at": "2026-10-26T23:45:06.814089+00:00",
   "articles": [
+    {
+      "id": "42929498",
+      "title": "Medical Students' Experience of Death and Near-Death of a \"Patient\" During Simulation: A Qualitative Study.",
+      "journal": "Simulation in healthcare : journal of the Society for Simulation in Healthcare",
+      "year": "2026",
+      "doi": "10.1097/SIH.0000000000000980",
+      "abstract": "INTRODUCTION: This study explores medical students' perceived learning, emotional responses, and sense of preparedness following simulated death and near-death scenarios to understand how learners interpret these emotionally challenging simulation experiences. Simulation-based medical education empowers students to develop clinical skills in a safe environment, including dealing with critical scenarios involving a patient's death. While these simulations may evoke intense emotional responses, they may also provide thought-provoking learning experiences that promote deeper reflection and introspection.\nMETHODS: We adopted an interpretative qualitative approach. Thirteen final-year medical students were recruited using a purposive sampling technique. They were exposed to simulation sessions involving death and near-death using a high-fidelity manikin. A semistructured interview was conducted, and the data were analyzed using thematic analysis. The trustworthiness of the data was ensured through credibility, transferability, dependability, and confirmability criteria.\nRESULTS: Five main themes emerged from simulation experiences, i.e emotional responses to simulated death, learning through simulated death, impact on motivation, realism and immersion, and challenges during simulated death. Participants described emotions such as sadness, guilt, and acceptance of death as part of the learning process. Simulation-based learning provided a platform for self-reflection, empathy, safe practice, and preparation for real-life scenarios. Challenges such as limited knowledge and skills, difficulties in leadership and teamwork, and emotional management were identified as subthemes within the challenges theme.\nCONCLUSION: Simulated death may prompt emotional, motivational, and professional reflection among students, while also revealing the need for stronger educational support within simulation-based training. Incorporating structured debriefing and psychological support could help learners better navigate emotionally complex simulation experiences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42929498/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-26T23:45:06.813997+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "42926368",
       "title": "\"An Even Playing Field\": Non-Clinical Simulation for Leadership Development Among Pediatric Interns.",
