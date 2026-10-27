@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-10-26T23:45:06.814089+00:00",
+  "generated_at": "2026-10-27T23:44:58.573971+00:00",
   "articles": [
+    {
+      "id": "42944729",
+      "title": "Large Language Model-Powered 3D Avatars to Train Shared Decision-Making in Undergraduate Medical Students: Design and Mixed Methods Acceptance Study.",
+      "journal": "JMIR formative research",
+      "year": "2026",
+      "doi": "10.2196/102449",
+      "abstract": "BACKGROUND: Shared decision-making (SDM) is a core competency in patient-centered care, yet it is challenging for physicians. Simulation-based education with standardized patients (SPs) offers valuable practice opportunities for undergraduate medical education (UME), but is limited by cost, scalability, and variable feedback quality. Advances in large language model (LLM) technology and virtual patient (VP) design present a promising pathway toward accessible, realistic, and high-quality SDM skill training.\nOBJECTIVE: This study aimed to develop LLM-powered, real-time interactive 3D avatars for SDM training in UME and to evaluate their acceptance among undergraduate medical students.\nMETHODS: We conducted a descriptive, cross-sectional mixed methods study at KU Leuven, Belgium (November-December 2025). The avatar system was developed through an iterative, interdisciplinary collaboration between medical educators, SDM experts, software developers, user experience designers, and AI engineers, grounded in prior work on physicians' educational needs and SDM learning mechanisms. Development comprised prototype case authoring, usability testing with medical students, and iterative refinement. The final system is a web-based platform featuring real-time, LLM-powered spoken dialogue with diverse, photorealistic 3D patient avatars; layered prompts configuring avatar personality, clinical scenario, and difficulty; an educator panel for case authoring; and automated AI-generated formative feedback structured around 6 phases of SDM. After using the system for 1 month, a convenience sample of UME students completed a 9-item, 5-point Likert scale questionnaire grounded in the technology acceptance model (TAM), assessing perceived usefulness, perceived ease of use, and intention to use. Optional open-text responses were narratively analyzed to triangulate these findings.\nRESULTS: Of 25 recruited participants, 24 were included in the analysis. Internal consistency was acceptable for perceived usefulness (α=0.76) and intention to use (α=0.78), but not for perceived ease of use (α=0.69). All construct means exceeded the scale midpoint of 3, suggesting high overall acceptance. Students rated perceived usefulness highest (mean 4.43, SD 0.50), followed by intention to use (mean 4.42, SD 0.59), and perceived ease of use was the lowest (mean 3.81, SD 0.68). Fourteen participants provided open-text responses. These highlighted the value of a safe, low-pressure environment for practicing communication without patients or peers present; reported mixed experiences with avatar realism, with reservations directed at behavioral rather than physical realism; and identified technical difficulties (microphone issues, freezing, and crashes) as the most frequent area for improvement.\nCONCLUSIONS: LLM-powered, real-time interactive 3D avatars are feasible and well-accepted tools for SDM training in UME. Students found the system educationally valuable and intended to use it again. Technical reliability and behavioral realism should be prioritized in future development. The modular architecture and automated feedback pipeline support scalable deployment across disciplines, institutions, and languages. Larger, multi-institutional studies with objective learning outcome measures are needed to establish efficacy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42944729/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-27T23:44:58.573341+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42934829",
+      "title": "Teaching medical care in mass casualty incidents through advanced clinical simulation.",
+      "journal": "Advances in simulation (London, England)",
+      "year": "2026",
+      "doi": "10.1186/s41077-026-00459-2",
+      "abstract": "INTRODUCTION: The threat of intentional mass casualty incidents remains high, making healthcare response a priority. The Hartford Consensus and the THREAT protocol (Threat suppression, Hemorrhage control, Rapid Extrication to safety, Assessment by medical providers, Transport to definitive care) establish recommended actions. A key objective is training civilians as \"immediate responders\" for hemorrhage control. However, this emergency care training is often limited in medical schools. Francisco de Vitoria University incorporates clinical simulation, including emergency medicine content in the fifth year. This study aims to assess learning outcomes from an activity designed to familiarize students with the Hartford Consensus and THREAT protocol.\nMATERIALS AND METHODS: Simulation Activity Development: Students gathered in an enclosed area. Basic principles of action during a terrorist attack were explained. A simulated attack unfolded, requiring students to escape, hide, or fight, and assist victims according to protocol. Wounded individuals were transported to a meeting point for a debriefing, followed by a final group meeting.\nLEARNING OUTCOME ASSESSMENT: Students completed a questionnaire at the beginning and end of the activity, including technical and subjective questions about perceived preparedness. Statistical analysis used the Chi-square test to compare response frequencies. 112 fifth-year medical students completed the online questionnaire.\nRESULTS: Seventy-one pre-activity and 41 post-activity questionnaires were completed. Perceived preparedness significantly improved: initially, 66.2% felt \"no\" prepared, which decreased to 4.9% after the activity (p < 0.001). Correct responses to \"first thing to do in an attack\" increased from 19.4% to 92.7% (p < 0.001). Understanding \"improvised means\" rose from 85.9% to 100% (p = 0.042). No statistically significant differences were observed for more technical questions like hemorrhage or cardiac arrest.\nDISCUSSION: Teaching through simulated environments offers undeniable learning benefits. While curriculum integration faces, simulation is a valuable tool in emergency training. Our cost-effective instructional methods proved successful, as shown by survey data. These engaging experiences facilitate knowledge acquisition. Replicating real-life conditions helps students appreciate inherent challenges. We conclude that using a simulated environment at the undergraduate level to train students as first responders in mass casualty incidents is an effective educational strategy.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934829/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-27T23:44:58.573306+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42934522",
+      "title": "Growing Proficiency in Tic Disorder Care and Skills (GP-TiCS): a thematic analysis of patient and professional group experiences in primary care for primary tic disorders.",
+      "journal": "BMC primary care",
+      "year": "2026",
+      "doi": "10.1186/s12875-026-03496-y",
+      "abstract": "BACKGROUND: Around 300,000 people in the UK are thought to be living with Tourette syndrome (TS). Many people with tics and their families report negative experiences when approaching their general practitioner (GP) for advice and support. Limited education during medical training coupled with a lack of National Institute for Health and Care Excellence (NICE) guidelines for tic disorders (TD) creates clinical challenges for healthcare professionals (HCPs). Building on the results of an international systematic review of healthcare experiences for tics, this study aimed to further explore patient and professional experiences in primary care in England, specifically.\nMETHODS: A thematic analysis was conducted on interviews with adults with tics (n = 5), parents of children and young people (CYP) with tics (n = 5), GPs (n = 6), and secondary care HCPs working with people with tics (n = 4).\nRESULTS: The Factors Impacting GPs' Knowledge and Education of Tics theme suggested that limited education and guidance made it more difficult for GPs to support people presenting with tics yet also considers how surmounting pressures and expectations on primary care may exceed the responsibility and capabilities of GPs. Inconsistent Availability of Support for Tics Across the Country continues to be an issue for GPs making referrals to services and for people seeking support, while secondary HCPs report receiving unclear referrals with limited information which makes service allocation more difficult. The Experiences of Primary Care for Tics theme explores how the wider impact of living with tics is often left unexplored, while stigma, communication, and signposting were all identified areas for improvement.\nCONCLUSION: The results suggest accessible and appropriate education opportunities for GPs may improve experience for people presenting with tics by increasing GP knowledge and awareness of tics. This study precedes the development of an online learning resource for GPs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42934522/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-27T23:44:58.573250+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42929498",
       "title": "Medical Students' Experience of Death and Near-Death of a \"Patient\" During Simulation: A Qualitative Study.",
