@@ -1,6 +1,98 @@
 {
-  "generated_at": "2026-10-29T23:50:51.180137+00:00",
+  "generated_at": "2026-10-30T23:49:25.825967+00:00",
   "articles": [
+    {
+      "id": "42962066",
+      "title": "Medical Students' Perceptions of Retrieval-Augmented Generation and Large Language Models: Dyadic Interview and Exploratory Survey Study.",
+      "journal": "JMIR formative research",
+      "year": "2026",
+      "doi": "10.2196/106157",
+      "abstract": "BACKGROUND: There is evidence of rapid adoption of large language models (LLMs) in undergraduate medical education, with medical students using them to support their learning. This raises concerns about the accuracy of LLM-generated information that students are learning from. Retrieval-augmented generation (RAG), which grounds an LLM in curated materials, may be a strategy to improve the accuracy of this information.\nOBJECTIVE: This study explored medical students' perceptions after using an online tool, NotebookLM, that uses RAG.\nMETHODS: A cohort of 284 second-year medical students at Bristol Medical School were encouraged to use NotebookLM over a period of 4 months (March 2025 to June 2025) to help them learn course content. Following this, volunteers were recruited to share their perspectives through interviews and a survey that was open for 4 months (June 2025 to September 2025). A total of 9 individuals participated: 2 through interviews and 7 through the survey. Qualitative data were analyzed using reflexive thematic analysis and supplemented by Likert scale data.\nRESULTS: NotebookLM was perceived as more reliable than standard LLM responses by interview participants, mainly due to the transparency of and control over information sources. Reliability ratings from survey participants were more mixed, but none rated unreliable. Students described it as an accessible, on-demand learning resource, which they perceived as improving efficiency and supporting self-directed study. They reported continued use of strategies to cross-check generated information. Participants demonstrated some awareness of ethical concerns, but it was unclear whether this altered their practice.\nCONCLUSIONS: In this small, exploratory study, students described NotebookLM as improving trust in LLM outputs while maintaining their flexibility. The findings suggest that RAG may be a strategy to support students who use LLMs. However, further research is needed to formally evaluate RAG vs standard LLMs, including the impact of RAG on accuracy, curricular alignment, and the ability of students to meet learning outcomes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42962066/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-30T23:49:25.825440+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42959439",
+      "title": "When Words Shape Care: Educating First-Year Medical Students on Identifying and Replacing Bias in Electronic Health Documentation.",
+      "journal": "MedEdPORTAL : the journal of teaching and learning resources",
+      "year": "2026",
+      "doi": "10.15766/mep_2374-8265.11646",
+      "abstract": "INTRODUCTION: Although medical education increasingly addresses bias in patient care, less attention has been paid to biased language in clinical documentation within the Electronic Health Record (EHR), a critical concern as patients have increasing access to their records. Because biased language can influence clinicians' perceptions and negatively affect patient relationships, focused medical student training is needed to promote equitable, patient-centered care.\nMETHODS: We implemented a one-hour workshop on biased language in medical records using case-based discussions. First-year students (MS1s) completed pre- and postsurveys assessing their ability to identify biased language. Results were analyzed using paired t-tests, descriptive statistics, and thematic analysis.\nRESULTS: Sixty-nine MS1s attended the workshop; 68 completed the presurvey (98.5%), and 63 the postsurvey (91.3%). Students demonstrated significant improvement in their ability to identify biased language in patient cases (P < .001) and survey scores (P < .001). Significant improvements were also observed in students' ability to identify the word \"claims\" as biased language (P < .001), identify language that defined patients by their illness (P < .001), and recognize negative patient descriptions (P < .001). Students valued the workshop's use of examples of biased language and neutral language alternatives, and many recommended incorporating this training into the medical school curriculum.\nDISCUSSION: The workshop improved MS1s' recognition of biased language in EHR documentation. Incorporating documentation bias training early in medical school may strengthen students' awareness of biased language and support more patient-centered documentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42959439/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-30T23:49:25.825391+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42958325",
+      "title": "Psychiatric education in medical training: a scoping review of curricular innovations, teaching strategies, and assessment methods.",
+      "journal": "International journal of mental health systems",
+      "year": "2026",
+      "doi": "10.1186/s13033-026-00724-x",
+      "abstract": "BACKGROUND: Mental disorders contribute substantially to global disease burden, yet persistent deficiencies remain in medical trainees' readiness to identify, diagnose, and treat patients with mental health conditions. Main barriers include stigma, outdated curricula, insufficient clinical practice, and regional differences in mental health services.\nOBJECTIVES: This scoping review systematically mapped existing research on educational innovations, learning approaches, and evaluation instruments in psychiatric education for medical learners (2015-2026), with formal quality appraisal using a JBI-adapted tool.\nMETHODS: Following JBI methodology and PRISMA-ScR guidelines, a systematic search was conducted across MEDLINE, Embase, PsycINFO, and Scopus. The PCC model guided eligibility. Two reviewers independently selected articles and extracted data. A ten-item JBI-adapted quality appraisal checklist was applied to all included studies. The evidence base comprised 34 primary empirical studies (77.3%) and 10 secondary or contextual sources (22.7%).\nRESULTS: Of 3,682 articles identified, 44 met inclusion criteria 34 primary empirical studies (77.3%) and 10 secondary sources (22.7%). Most originated from the United States (54.5%), focusing on undergraduate learners (88.6%). Quality appraisal revealed only 34.1% used validated measures, 20.5% included follow-up, and 18.2% fully met control group criteria. Thematic analysis identified five themes: curricular innovations, educational approaches, assessment methods, Kirkpatrick-classified outcomes, and implementation barriers/facilitators. While all 44 reported Level 1 and Level 2 outcomes, measured in primary studies and discussed in secondary sources, no studies measured Level 3 behavioral change or Level 4 patient outcomes.\nCONCLUSIONS: The absence of Level 3 and Level 4 evidence represents a major limitation and priority for future research; it does not imply health systems cannot invest in psychiatric education, but that the evidence base has not yet demonstrated translation to improved clinical behaviors or patient outcomes. Future research should prioritize longitudinal and system-level evaluation with validated behavioral and patient-level outcome measures.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958325/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-30T23:49:25.825359+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42958292",
+      "title": "Fostering empathy and narrative competence through oral history videos in community-based medical education: a mixed-methods study.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10057-5",
+      "abstract": "BACKGROUND: Empathy and narrative competence are essential components of patient-centered care and professional identity formation in medical education. However, empathy often declines during medical training, and conventional communication programs may foster performed rather than authentic empathy. Narrative medicine offers a promising framework for cultivating humanistic understanding in medical education. Central to this approach is narrative competence, defined as the ability to recognize, absorb, interpret, and act upon the stories of others. This study explored how viewing and discussing oral history videos of local older adults could foster empathy and narrative competence among medical students in a community-based educational context.\nMETHODS: A convergent mixed-methods design with qualitative priority was employed. Twenty-seven fifth- and sixth-year medical students at Tottori University participated in a 60-minute session during their one-week community-based clinical placement. Participants viewed a 20-minute oral history video from a regional series featuring older residents' life stories, followed by a reflective group discussion. Empathy was assessed using the Japanese version of the Interpersonal Reactivity Index (IRI) before and after the session. Written reflections were thematically analyzed to explore experiential learning.\nRESULTS: The total IRI score showed a small, non-significant increase (91.25 to 92.69; t = 0.82, p = 0.42, Cohen's d = 0.15). Thematic analysis identified nine categories, including recognizing the significance of listening to narratives, respecting individuality, recognizing patients' social and historical contexts, and reconsidering assumptions about older adults and patient care. Students described emotional resonance, reflective insight, and renewed awareness of patients' values and life histories.\nCONCLUSIONS: Although quantitative measures revealed minimal change, qualitative findings suggested short-term reflective engagement with patients' life histories, values, and social contexts. Oral history-based narrative education may enrich community-based medical training by linking empathy, reflection, and narrative listening, and may offer a concise approach for supporting context-sensitive, patient-centered care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958292/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-30T23:49:25.825298+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42958281",
+      "title": "MassCas tabletop game as a training tool in mass casualty incidents for undergraduate medical students: a quasi-experimental study with knowledge assessment at 6-month follow-up.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10054-8",
+      "abstract": "INTRODUCTION: Mass casualty incidents (MCI) require a coordinated prehospital response from multiple healthcare teams. Undergraduate medical students rarely receive systematic MCI training, and some of the methods that have shown good results so far, full-scale simulations and extended reality (XR), tend to be expensive, logistically demanding, and not always reproducible across centres. The aim is to measure the change in knowledge scores from baseline to 6-month follow-up after a brief, low-cost gamified tabletop session, including the differential effect of sex and active role assignment, and to measure student experience with the game.\nMETHODS: Quasi-experimental, single-group pretest/follow-up study with a knowledge assessment six months after the intervention; no immediate post-intervention knowledge test was administered. A total of 119 medical students from the Universidad de Oviedo took part in a 2-hour session using the MassCas tabletop game. Self-perception was measured with a 27-item self-efficacy questionnaire (Cronbach α = 0.926), covering methodology, knowledge acquisition, and skills acquisition (Likert 1-10). A 10-item knowledge test was administered before (n = 119) and six months after the session (n = 95), without any study material in between. Attrition was assessed by comparing measured baseline characteristics between respondents and non-respondents to the 6-month assessment. Effect sizes were calculated as r (Wilcoxon) and Cohen's d. Sex and role assignment (active vs. passive) were explored as subgroup factors.\nRESULTS: Self-efficacy scores were high in all three dimensions: methodology (Median = 10; IQR = 2), knowledge acquisition (Median = 10; IQR = 1), and skills acquisition (Median = 9; IQR = 2). Knowledge scores were markedly higher at 6-month follow-up than at baseline: median pre-test 4 (IQR = 2) versus post-test 7 (IQR = 2); Wilcoxon p < 0.001, r = 0.76, d = 1.19 (95% CI: 0.86-1.54). Among 63 email-matched pairs, 88.9% improved (r = 0.81, d = 1.44). Respondents and non-respondents to the post-test did not differ in pre-test score, sex, age, or role assignment (all p > 0.10), with respect to these measured characteristics; differences in unmeasured characteristics cannot be excluded. Students with an active role rated methodology and skills dimensions somewhat higher; the largest difference was found for leadership (p = 0.007). Female students rated methodology slightly higher than males (p = 0.006). No statistically significant differences in 6-month knowledge scores were detected by role or sex. Prior MCI training hours were not related to self-efficacy scores. Qualitative analysis pointed to interactivity, visual format, and practical applicability as the main strengths, while excessive group size was the most frequently mentioned weakness.\nCONCLUSIONS: After a single 2-hour session with the MassCas tabletop game, knowledge scores in undergraduate medical students were substantially higher at 6-month follow-up than at baseline, without any study material provided in between (d = 1.19), together with highly favorable self-reported perceptions of the methodology and of knowledge and skills acquisition. A low-cost, logistically simple methodology that does not require specialized equipment may be a feasible option where resources are limited. Active role assignment was associated with slightly higher skills perception, while no statistically significant difference in 6-month knowledge scores was detected between active and passive participants. These findings support further evaluation and implementation of gamified tabletop exercises in undergraduate medical curricula as an accessible and potentially scalable strategy for MCI preparedness.\nTRIAL REGISTRATION: ISRCTN56871134. Registered 23rd Jun, 2026 (Retrospectively registered).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42958281/",
+      "source": "PubMed abstract",
+      "updated": "2026-10-30T23:49:25.825244+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "42954182",
       "title": "Negotiating obligation and aspiration over time: A longitudinal qualitative study of regional quota medical students' reflective accounts.",
