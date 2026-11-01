@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-31T23:46:35.843905+00:00",
+  "generated_at": "2026-11-01T23:46:42.031183+00:00",
   "articles": [
+    {
+      "id": "42965077",
+      "title": "Perceived Impact of Early On-Call Exposure on General Medical Council Outcomes Among Graduates: A Project in an English Foundation School.",
+      "journal": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.117865",
+      "abstract": "BACKGROUND: Transitioning from medical school to Foundation training is widely recognised as a challenging stage, with new doctors often reporting underpreparedness for clinical responsibilities. Early exposure to on-call shifts during undergraduate training may help address this gap.\nAIM: This study evaluated Foundation doctors' perceptions of how early on-call experience during United Kingdom medical school related to their preparedness and to their development of professional knowledge, skills, and values and behaviours, as defined in the General Medical Council Outcomes for Graduates.\nMETHODS: A convergent parallel mixed-methods design was used. A survey of 71 Foundation Year 1 doctors in an English Foundation School achieved 19 responses (26.7%). Quantitative data were collected using Likert-scale questions and analysed descriptively and with exploratory one-sample Wilcoxon signed-rank tests against a neutral response, while qualitative data from open-ended questions underwent thematic analysis.\nRESULTS: Of the 19 participants, 18 (94.7%) had undertaken on-call placements, predominantly in years 4 and 5. Perceptions were generally positive, with the highest mean Likert scores for knowledge (3.56) and skills (3.44), and lower scores for preparedness (3.22) and professional values (3.22); however, none of the four statements differed significantly from neutral (p = 0.057-0.235). Thematic analysis highlighted perceived benefits, including exposure to acute cases, improved confidence, and enhanced decision-making. Challenges included variability in supervision, limited teaching during night shifts, and difficulty adapting to out-of-hours schedules.\nCONCLUSION: Respondents generally perceived undergraduate on-call exposure positively, particularly for knowledge and skills, although these findings were not statistically significant and views on professional values and behaviours were less consistent. Perceived educational value varied according to supervision and context. Larger comparative studies are needed to determine whether structured on-call placements improve preparedness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42965077/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-01T23:46:42.031096+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42964673",
+      "title": "Pilot Mixed-Methods Evaluation of Simulation-Based Focused Cardiac Ultrasound Teaching for Final-Year Medical Students.",
+      "journal": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.117192",
+      "abstract": "Background Point-of-care ultrasound (POCUS) is increasingly used within emergency and acute care, yet undergraduate exposure to focused bedside echocardiography remains variable. Simulation may provide an opportunity for students to develop practical ultrasound skills while integrating findings into clinical assessment and decision-making. This study evaluated the feasibility and acceptability of a simulation-based bedside echocardiography teaching programme for final-year medical students and explored differences in confidence and knowledge between pre- and post-session respondents. Methodology A mixed-methods educational evaluation was undertaken with final-year medical students during their Preparation for Practice placement at a UK teaching hospital. The two-hour programme combined teaching on ultrasound principles and standard echocardiographic views with supervised image acquisition and simulation-based peri-arrest scenarios involving cardiac arrest, massive pulmonary embolism and pericardial tamponade. Thirty students were invited and 10 attended. Anonymous questionnaires assessed self-reported confidence and knowledge immediately before and after the session, and a five-question multiple-choice quiz objectively assessed knowledge. We also collected qualitative free-text feedback post-session. Confidence reflected participants' own perceived confidence across three domains of bedside echocardiography and was not assessed externally or used as a measure of objective competence. As questionnaires were anonymous, pre- and post-session responses were unpaired. Self-reported confidence scores were compared using the Mann-Whitney U test. Results Nine students completed the pre-session questionnaire, and seven completed the post-session questionnaire. Mean confidence scores were higher among post-session respondents (9.86/15; median, 10) than among pre-session respondents (3.67/15; median, 4), with a statistically significant difference between groups (U = 0.0, P < 0.001). Mean knowledge scores were also higher among post-session respondents (4.71/5 vs. 4.22/5), although baseline scores were already high. Qualitative feedback was positive, with students particularly valuing the clinical relevance of the teaching and the integration of echocardiography into realistic emergency scenarios. Participants identified additional supervised scanning opportunities as an area for future development. Conclusions This preliminary evaluation suggests that a short, simulation-based bedside echocardiography teaching programme is feasible to deliver within an undergraduate prep-for-practice placement and acceptable to participating final-year medical students. Higher confidence and knowledge scores were observed among post-session respondents; however, the small sample size and unpaired questionnaire design prevent conclusions regarding individual learner improvement or intervention efficacy. Larger studies incorporating paired responses, objective assessment of ultrasound competence and longitudinal follow-up are required to evaluate the effectiveness and retention of this educational approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42964673/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-01T23:46:42.031051+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "42962066",
       "title": "Medical Students' Perceptions of Retrieval-Augmented Generation and Large Language Models: Dyadic Interview and Exploratory Survey Study.",
