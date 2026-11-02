@@ -1,6 +1,189 @@
 {
-  "generated_at": "2026-11-01T23:46:42.031183+00:00",
+  "generated_at": "2026-11-02T23:50:07.605292+00:00",
   "articles": [
+    {
+      "id": "42970415",
+      "title": "Beyond Successful Training: First Battlefield Use of Tactical Combat Casualty Care for All Service Members by Mobilized Personnel.",
+      "journal": "Military medicine",
+      "year": "2026",
+      "doi": "10.1093/milmed/usag502",
+      "abstract": "BACKGROUND: Tactical Combat Casualty Care for All Service Members (TCCC-ASM) aims to prepare military personnel to provide self-aid and buddy aid in combat. However, the extent to which acquired TCCC-ASM skills are personally applied during real combat remains poorly understood. This study evaluated the influence of first combat experience on the practical application of TCCC-ASM among mobilized personnel during the Russo-Ukrainian War.\nMETHODS: A multicohort observational study was conducted between August 2022 and May 2026. Data from 5 independent cohorts were integrated, including educational assessments, structured surveys, operational observations, medical evacuation records, and rehabilitation data. The primary endpoint was the reported or directly observed application of TCCC-ASM skills in identified TCCC-relevant combat situations. Personal application of acquired TCCC-ASM skills was quantified using the Training-to-Performance Index (TP-index), a descriptive measure developed specifically for this study.\nRESULTS: A total of 1,961 participants were included. Although all participants successfully completed TCCC-ASM training, 539 of 1,082 service members with combat experience (50%) contributed 1 identified index TCCC-relevant combat situation. Among 327 wounded personnel, self-aid was performed by 71 individuals (22%), whereas in the remaining 78%, the corresponding interventions were performed by other personnel through buddy aid. The TP-index was 71/539 (0.13; 95% confidence interval, 0.10-0.16), indicating limited personal application of acquired TCCC-ASM skills across identified TCCC-relevant combat situations. Major barriers to self-aid included severe pain, inability to recall procedures, panic reactions, and limited visibility; prolonged evacuation was also frequently encountered. First combat experience was associated with reassessment of training relevance and increased perceived need for refresher training.\nCONCLUSIONS: A measurable gap exists between successful completion of TCCC-ASM training and personal application of acquired skills in combat. This phenomenon, defined as the Training-to-Performance Gap, highlights the limitations of relying solely on educational outcomes when evaluating military medical training. The proposed TP-index provides a descriptive measure of personal application of acquired TCCC-ASM skills in combat and, together with the observed Training-to-Performance Gap, supports consideration of refresher training following first combat experience.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42970415/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604336+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": true
+    },
+    {
+      "id": "42969959",
+      "title": "From theory to practice: a \"Clarify-Bridge-Practice\" seminar model for graduate medical trainees entering cardiovascular research.",
+      "journal": "Advances in physiology education",
+      "year": "2026",
+      "doi": "10.1152/advan.90076.2026",
+      "abstract": "Graduate students in clinical medicine often possess advanced theoretical knowledge but struggle to translate it into testable hypotheses and feasible experimental designs-a \"knowing-doing\" gap particularly pronounced in cardiovascular physiology. To address this, we developed and evaluated a \"Clarify-Bridge-Practice\" (CBP) seminar model in a cardiovascular course with 87 graduate students across three cohorts (2023-2025). The intervention comprised three 80-minute seminars embedded within a 12-week course, covering: (1) causal inference and bias control, (2) critical literature synthesis, and (3) hypothesis-driven experimental design. Each seminar followed a three-phase structure: Clarify (15-minute case-driven lecture distilling core concepts), Bridge (20-minute structured scaffolding tools externalizing research reasoning), and Practice (45-minute team-based application to realistic cardiovascular cases, culminating in a mock grant defense). Outcomes were assessed via a research literacy scale, core knowledge test, rubric-scored proposals, and thematic analysis of interviews. Research literacy scores increased from 58.7 (SD = 9.3) to 78.5 (SD = 7.0) (P < 0.001); knowledge test accuracy rose from 51.8% (SD = 12.9%) to 84.5% (SD = 9.2%) (P < 0.001). Rubric scores (max 5) ranged from 3.8 (feasibility) to 4.5 (writing quality). Qualitative data indicated that scaffolding tools reduced cognitive load, while peer critique and mock defenses fostered deeper reasoning and a shift toward a researcher identity. The CBP model appears to bridge the knowing-doing gap for graduate students entering cardiovascular research, offering a structured, replicable pedagogy applicable to other clinical and translational science training contexts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969959/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604306+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968769",
+      "title": "Junior Doctors' Perceptions of Critical Care Education in Medical School and the Association with Confidence in Core Clinical Skills: A Survey of Graduates in Queensland, Australia.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02797-2",
+      "abstract": "Confidence in critical care skills is essential for junior doctors. However, exposure to anaesthetics and critical care during medical school remains limited. This study evaluates how perceptions of undergraduate critical care teaching influence junior doctors' confidence in core clinical skills. A cross-sectional survey was distributed to junior doctors across Queensland, Australia. Quantitative data captured exposure to anaesthetics, perceived quality of teaching, and confidence in skills such as bag-mask ventilation (BMV) and pre-anaesthetic assessment. Qualitative data explored factors influencing career interest in critical care. Quantitative analysis was performed using chi-square testing, and qualitative responses underwent thematic analysis. Sixty junior doctors completed the survey. Most reported 0-2 weeks of anaesthetic placement, and 48.3% rated their teaching as \"intermediate.\" Despite limited exposure, 61.7% reported confidence performing BMV, and 50% in pre-anaesthetic assessments. Higher perceived quality of teaching was significantly associated with greater confidence in BMV (p = 0.009) and pre-anaesthetic assessment (p = 0.008). Placement duration alone did not correlate with BMV confidence but did correlate with pre-anaesthetic assessment confidence (p = 0.004). Qualitative analysis identified themes relating to lifestyle, shift work, speciality exposure and competing interests in other specialties. l Perceived quality of undergraduate critical care education was associated with increased confidence in core skills. Placement duration alone may not improve confidence in high-risk procedures such as BMV. Implementing standardised learning objectives, structured placements, and earlier clinical exposure may improve preparedness, support safer clinical practice, and better inform career choices among junior doctors.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968769/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604283+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968758",
+      "title": "Localized Debriefing Assessment for Simulation in Healthcare (DASH): Medical Student Engagement and Debriefing Assessment Validity.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02825-1",
+      "abstract": "UNLABELLED: Debriefing is an essential component of simulation-based education; the Debriefing Assessment for Simulation in Healthcare (DASH) is a behaviorally-anchored rating scale that evaluates debriefing quality within 6 elements. DASH was validated with trained raters evaluating simulation debriefings; the student version (DASH-SV) has not been validated. Reported DASH-SV scores cluster on the high end of the 7-point rating scale and may not accurately reflect debriefing quality. We modified the DASH-SV with localized instructions to improve student understanding and rating accuracy. We hypothesize that the localized version (DASH-LSV) will lower score inflation, yielding more accurate scores and useful feedback for simulation faculty development. Medical students at the University of Hawaii were sorted into two balanced groups. After participating in routine faculty-facilitated simulation scenarios/debriefings, group DASH-SV completed the original student version and group DASH-LSV completed the localized version. These anonymous evaluations were completed via an online survey embedded in the standard post-course feedback form. Surveys included attention-check questions. Group DASH-LSV rated debriefers lower than group DASH-SV across a multitude of DASH behaviors. Group DASH-LSV answered the attention check question correctly at a higher rate (91%) compared to group DASH-SV (82%) (p = 0.005). Our localized DASH-SV resulted in lower rates of score inflation compared to the original for select debriefing behaviors. Students who used the localized DASH-SV exhibited greater attentiveness. The localized DASH-SV may be a more accurate tool for student assessment of debriefing quality and support meaningful faculty feedback to improve debriefing skill and education quality.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02825-1.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968758/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604259+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968752",
+      "title": "Virtual Operating Theatre Simulation: Development and Evaluation of a Web-Based Learning Tool for Medical Students.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02809-1",
+      "abstract": "INTRODUCTION: Preparing medical students for the operating theatre (OT) is challenging due to limited access and patient safety considerations. Virtual learning tools offer a safe and scalable method to introduce perioperative concepts. This study describes the development and evaluation of a web-based virtual OT program for undergraduate medical students.\nMETHODS: A mixed-methods evaluation was conducted with Year 3 and Year 5 medical students. Knowledge acquisition was assessed using pre- and post-tests, while perceptions were evaluated using a structured questionnaire and open-ended feedback. Internal consistency was examined using Cronbach's alpha, and quantitative analyses included paired and independent t-tests. Qualitative comments were descriptively grouped into themes.\nRESULTS: Both cohorts demonstrated significant knowledge improvement following the virtual OT program (p < .001). Semester 9 students achieved higher post-test scores, reflecting the influence of prior clinical exposure. Perception scores were positive, with strong internal consistency for usability (α = 0.90), audio-visual quality (α = 0.93), and usefulness (α = 0.82). Qualitative feedback highlighted clarity, flexibility, and preparatory value as key strengths, while identifying glitches, image resolution, and device compatibility as areas for refinement.\nDISCUSSION: The virtual OT program enhanced knowledge and was positively received as a preparatory and reinforcement tool. It aligns with global patient safety priorities and shows potential for broader adoption, including in nursing and interprofessional education.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968752/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604232+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968737",
+      "title": "Virtual Reality as a Preparatory Educational Tool in Non-VR Trauma Simulation for Medical Students: A Qualitative Content Analysis.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02822-4",
+      "abstract": "BACKGROUND: Simulation-based medical education (SMBE) is a well-established and effective method for clinical training, yet its implementation is often resource-intensive and logistically demanding. Virtual reality (VR) has emerged as a promising educational tool, offering immersive, multisensory simulations that may support both procedural and cognitive skill development. In educational context where students must prepare for complex scenarios, VR may serve as a preparatory educational tool. Thus, exploring such simulation formats is well justified to enhance training outcomes.\nAIM: To explore medical students' experiences of using VR as preparation for a subsequent non-VR trauma simulation.\nMETHODS: Thirty-two medical students in their seventh semester who were assigned to use a VR application prior to a scheduled non-VR trauma simulation, participated in this study. Eight focus-group interviews were conducted immediately after the trauma simulation. Data were analysed using qualitative content analysis.\nRESULTS: The findings were categorised into four categories: Perceived educational effect, Practical user experience, Comparison of VR and other educational forms, and Areas for improvement in the VR application. The students described the VR application as an engaging and motivating learning method that supported autonomous preparation. However, the VR application was not perceived as sufficient to replace traditional educational formats. Key limitations included low interactivity, limited realism, and lack of cognitive flexibility. The participants proposed improvements, such as dynamic patient responses, expanded roles, and increased complexity in order to better reflect clinical practice.\nCONCLUSIONS: The VR application shows potential as a flexible and accessible preparatory complement to SMBE. However, in its current form, it was not perceived as a suitable standalone learning method. The identified limitations relate to the design and scope of the specific VR application studied rather than to inherent limitations of VR technology. Student perspectives offer important insights into how preparatory VR may support motivation, early cognitive rehearsal and familiarization with simulation workflows, and should be actively considered in the development of VR-based educational tools.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968737/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604185+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968727",
+      "title": "Beyond the Checklist: Developing Effective Communication in a South African Multilingual Clinical Training Programme.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02816-2",
+      "abstract": "INTRODUCTION: Effective communication is a core graduate attribute (GA) in health professions education, yet its development is fragmented and under-theorised in under-resourced and multilingual contexts, which are typical of the Global South, where postcolonial histories and structural inequities continue to shape educational practice.\nMETHOD: We investigated how effective communication is understood, experienced and developed in a South African Clinical Technology programme, using a qualitative design underpinned by Engeström's Activity Theory as an interpretive lens. Interviews and focus groups were conducted with final-year students (n = 10), recent graduates (n = 5), academic educators (n = 4), and clinical educators (n = 6), and thematic analysis was applied.\nRESULTS: Four themes emerged: (1) effective communication as a situated, adaptive practice; (2) Barriers to effective communication (linguistic, cultural, structural); (3) Role modelling and relational dynamics; and (4) Adaptability and resilience in workplace communication. Effective communication development was largely relational and experiential rather than shaped by formal curriculum, with students learning communication through immersion and mentorship amid systemic challenges. Structural misalignments between formal curricular goals and clinical realities constrained students' communication practice and confidence.\nCONCLUSION: For educators, the findings suggest practical steps: 1) reconceptualise effective communication as a situated, socially mediated practice; (2) embed multilingual and multimodal communication opportunities into routine clinical teaching and assessment; (3) strengthen alignment and dialogue between universities and clinical training sites; and (4) prioritise faculty development to support inclusive role modelling and psychologically safe learning environments. Re-conceptualising effective communication as a situated, socially mediated practice (instead of a generic skill), enables intentional curriculum design and assessment that better prepare graduates for the complex socio-cultural clinical environments of the Global South.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968727/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604158+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968719",
+      "title": "Gen Z Medical and Physician Assistant Student Recommendations for Medical School Wellness Programming.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02815-3",
+      "abstract": "Despite medical school efforts to promote student wellness, more work is needed to better meet the needs of Generation Z medical learners, particularly in the post-COVID era. This study reports qualitative analysis of an open-ended question included in a larger anonymous online survey, exploring student perspectives regarding medical school-based wellness initiatives. A total of 1,423 students from 9 universities across the state of Florida [8 allopathic and 2 osteopathic medicine programs, and 4 physician assistant (PA) programs] completed the survey. Among respondents, 505 medical and 60 PA students offered comments specifically related to wellness programming/resources. Using thematic analysis, five major themes emerged: 1) enhance wellness activities, 2) revamp wellness education, 3) expand financial assistance, 4) enhance campus spaces and social interaction, and 5) expand access to mental healthcare. Students recommended schools: promote engaging structured activities supporting mental, emotional, and/or physical wellness; modify wellness education to enhance relevance, effectiveness, and engagement; reduce financial strain by offering targeted support for food, educational costs, and living expenses; create a supportive campus environment by improving physical spaces and fostering social connection; and provide better access to mental health counseling to help manage stress and other challenges. Student recommendations to support wellness varied in feasibility given resource constraints (i.e., limited time, lack of funding), highlighting the challenges faced by medical schools in supporting their learners. As medical schools consider implementing new programs or resources based on these recommendations, it will be important to evaluate and communicate the expected cost-benefit and applicable constraints.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968719/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604128+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42968111",
+      "title": "Shaping the future doctor: evaluating clinical competence, professionalism, and social accountability among the inaugural medical graduates of the university of global health equity, Rwanda.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10074-4",
+      "abstract": "BACKGROUND: Globally, medical education is shifting toward competency-based and socially accountable models that emphasize not only clinical proficiency but also ethical behavior and responsiveness to community needs. This shift must also address systemic challenges such as uneven supervision and limited clinical exposure. This study examined self-reported procedural confidence, stakeholder perceptions of clinical competence, professionalism, communication, and social accountability among the University of Global Health (UGHE) first cohort (2025) of medical graduates, who were trained under a competency-based, socially accountable curriculum.\nMETHODS: A mixed-methods cross-sectional study was conducted among interns, supervisors, nurses, and hospital directors at five hospitals representing both urban and rural contexts. A structured survey captured interns' self-reported procedural confidence across 48 core procedures, while 16 focus group discussions (≈22 h) explored stakeholder perceptions of interns' clinical performance, professionalism, teamwork, communication, and social accountability. Quantitative and qualitative data were analyzed through descriptive statistics and thematic analysis, respectively, and integrated through triangulation.\nRESULTS: Interns reported moderate to high self-reported confidence in common routine and emergency procedures, including intravenous line insertion, wound care, infection prevention, oxygen administration, and patient stabilization. Lower confidence was reported for more complex or less frequently performed procedures, including lumbar puncture, pleural tap, fracture reduction, and vacuum-assisted delivery. Qualitative analysis generated four key themes: supervised clinical exposure as the foundation for procedural confidence; professionalism, humility, and respectful teamwork as markers of workplace readiness; socially accountable care through patient advocacy and adaptation to resource constraints; and interns' contribution to service delivery through improved communication, workflow, and team coordination. Across sites, supervisors and nursing leaders described interns as respectful, reliable, collaborative, ethical, and willing to seek guidance when faced with uncertainty. Limited exposure to advanced procedures and variability in supervision remained important challenges.\nCONCLUSIONS: The study suggests that competency-based, socially accountable medical education can produce graduates who are perceived by colleagues and supervisors as clinically capable, ethically grounded, and able to contribute meaningfully to patient care and health-system functioning in resource-constrained settings. However, strengthening procedural confidence requires increased clinical exposure, structured supervision, timely feedback, and supportive workplace-based learning environments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42968111/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604102+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42957312",
+      "title": "How digitalisation and emerging artificial intelligence shape cultural adaptability and lifelong learning among postpartum caregivers: a qualitative study in southern China.",
+      "journal": "BMJ open",
+      "year": "2026",
+      "doi": "10.1136/bmjopen-2026-122698",
+      "abstract": "OBJECTIVES: To explore how digitalisation and emerging artificial intelligence (AI) shape cultural adaptability and lifelong learning among professional postpartum caregivers (yuesao) in China.\nDESIGN: A descriptive thematic qualitative study using semi-structured interviews, analysed through Braun and Clarke’s six-phase thematic analysis and informed by cultural-historical activity theory.\nSETTING: A vocational school specialising in postpartum healthcare in a coastal city of Guangdong Province, southern China.\nPARTICIPANTS: We invited 16 practising yuesao (0.5–5 years of experience) and 5 trainers (3–10 years of experience). Participants were purposively sampled for diversity in age, educational level and years of experience. All had used Panda Cloud Classroom as part of their training.\nINTERVENTIONS: None.\nRESULTS: Three core themes emerged: (1) cultural adaptability as negotiated cultural capital in performing zuo yuezi, involving balancing tradition and modernity, regional knowledge and emotional labour; (2) hybrid digital—in-person training constrained by a persistent digital divide related to literacy and infrastructure and (3) informal and formal pathways for lifelong learning, including peer communities and certification programmes. Digital platforms improved access and flexibility, yet human instructors remained essential for resolving tradition-modernity tensions and managing emotional labour with families. Participants reported only minimal exposure to basic AI features such as content recommendations; their views on advanced applications (eg, regionally tailored adaptive systems) were therefore speculative and aspirational, not evidence of demonstrated benefit.\nCONCLUSIONS: Digital tools enhance flexibility in yuesao training but cannot fully replace human instructors in culturally sensitive caregiving. Unresolved contradictions between national digitalisation policies and unequal infrastructure limit expansive learning. Findings support tiered digital literacy programmes and formalised mentorship rather than premature reliance on AI. Because this is a single-site qualitative study, the findings are transferable to similar contexts rather than generalisable. Future research should include employing families and cross-regional comparisons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42957312/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-02T23:50:07.604052+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42965077",
       "title": "Perceived Impact of Early On-Call Exposure on General Medical Council Outcomes Among Graduates: A Project in an English Foundation School.",
