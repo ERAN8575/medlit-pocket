@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-02T23:50:07.605292+00:00",
+  "generated_at": "2026-11-03T23:51:30.763440+00:00",
   "articles": [
+    {
+      "id": "42974109",
+      "title": "Mapping Complexity Lenses in Interprofessional Education and Collaborative Practice: A Scoping Review.",
+      "journal": "Advances in medical education and practice",
+      "year": "2026",
+      "doi": "10.2147/AMEP.S647535",
+      "abstract": "PURPOSE: Complexity theory is increasingly applied in interprofessional education and collaborative practice (IPECP). Yet it is often unclear what researchers mean by \"complexity\", where it is positioned in the research process, how it informs design, analysis or interpretation, and what claims can reasonably be made from the evidence presented. This scoping review mapped how empirical IPECP studies use explicit-complexity lenses and synthesized the evidence into a moves-mechanisms-outcomes typology.\nMETHODS: A scoping review was conducted using JBI guidance and reported in accordance with PRISMA-ScR. Peer-reviewed empirical IPECP studies were included if they specified an explicit-complexity lens and substantively operationalized complexity concepts in relation to IPECP. Data were charted and analyzed using descriptive counts and thematic analysis, then synthesized into a moves-mechanisms-outcomes typology.\nRESULTS: Seventeen studies published between 2016 and 2026 met the inclusion criteria, with 10 published in 2023 or later. Complexity was most often positioned in conceptual framing and interpretation, with less consistent use as an analytic framework. Complexity-informed tools and resources were the most common move type (9/17), followed by system-level curriculum or micro-curriculum design (5/17). Across move types, adaptation/feedback, interdependence/networks, boundary dynamics and sensemaking/uncertainty formed the core mechanism set. Reported outcomes clustered at program/curriculum, team and student levels, with fewer studies reporting broader organizational or system-level change.\nCONCLUSION: Complexity was used more consistently to frame and interpret IPECP than to provide evidence of organizational or system-level change over time. The resulting moves-mechanisms-outcomes typology offers a flexible scaffold for making the links between complexity-informed activities, change processes and reported outcomes more explicit.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42974109/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-03T23:51:30.763335+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42970415",
       "title": "Beyond Successful Training: First Battlefield Use of Tactical Combat Casualty Care for All Service Members by Mobilized Personnel.",
