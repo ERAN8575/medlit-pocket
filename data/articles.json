@@ -1,6 +1,98 @@
 {
-  "generated_at": "2026-11-03T23:51:30.763440+00:00",
+  "generated_at": "2026-11-04T23:54:44.966382+00:00",
   "articles": [
+    {
+      "id": "42981519",
+      "title": "Comparison of AI and Manual Coding of Medical Students' Reflections: An Asynchronous Discussion Board Exploration.",
+      "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
+      "year": "2026",
+      "doi": "",
+      "abstract": "INTRODUCTION: The use of generative artificial intelligence (AI) for medical education research remains controversial. Although AI has the potential to revolutionize qualitative research analysis, concerns regarding its validity and accuracy remain barriers to its use in research. We sought to compare AI-generated qualitative coding with human coding.\nMETHODS: As part of a mandatory course, third-year medical students watched 2 health care-related videos and responded to prompts on a virtual discussion board. Students' posts were anonymized. Human coders met multiple times over a 4-month period to create a code list, generate themes, and produce an explanatory model. Generative AI also was asked to identify the main themes. Three external reviewers with expertise in qualitative research compared each pair of human-coded and AI-generated themes.\nRESULTS: Human coders required nine 60-minute meetings to code students' posts, whereas AI completed the analysis in approximately 30 seconds. Consensus among the external reviewers was that the pairs of themes were not the same or similar.\nCONCLUSIONS: AI required substantially less time and effort than human coders. Although most reviewers concluded that AI-generated themes were not comparable to human-generated themes, this finding was not unanimous. Generative AI may facilitate and accelerate qualitative research in medical education; however, concerns regarding the validity and contextual interpretation of AI-generated analyses must be addressed before its widespread use in qualitative medical education research.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42981519/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-04T23:54:44.966208+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42980832",
+      "title": "From theory to therapy: the development of therapy scripts in medical students.",
+      "journal": "European journal of clinical pharmacology",
+      "year": "2026",
+      "doi": "10.1007/s00228-026-04213-5",
+      "abstract": "PURPOSE: Therapeutic reasoning is a complex process prone to errors, particularly among junior doctors under time pressure. While experienced clinicians often rely on Type 1 (intuitive) thinking via therapy scripts, little is known about how these scripts develop during medical training. Insight into how therapy scripts develop and evolve could inform Clinical Pharmacology and Therapeutics (CPT) education and improve the safety of early-career prescribing.\nMETHODS: We carried out a qualitative think-aloud study with 15 medical students from years 2, 4, and 6. Students completed a diabetes case while verbalizing their reasoning, and then created a concept map and reflective questions. Transcripts were analysed using abductive thematic analysis, guided by Cook's therapy script framework and knowledge encapsulation theory. Concept maps were evaluated for structural complexity and richness of reasoning. Results were compared across the three groups of students, to investigate differences in therapy script development.\nRESULTS: Therapy script development progressed from fragmented, mechanism-focused reasoning in second-year students to integrated, patient-centred reasoning in sixth-year students. Fourth-year students combined both forms of reasoning. Concept maps revealed that structural complexity and higher-level explanatory connections increased with training.\nCONCLUSION: Therapy scripts develop gradually, with increasing integration and contextual sensitivity, during undergraduate medical training. Concept mapping supports reflection and reveals gaps in knowledge, complementing traditional teaching methods. Educational strategies that promote early, structured, and reflective reasoning may accelerate therapy script formation, improve metacognitive awareness, and reduce the gap between undergraduate training and safe, effective prescribing in clinical practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980832/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-04T23:54:44.966190+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42980147",
+      "title": "Simulating Science Communication for Vulnerable Populations: A Project-Based Learning Exercise in Undergraduate Medical Microbiology.",
+      "journal": "FEMS microbiology letters",
+      "year": "2026",
+      "doi": "10.1093/femsle/fnag139",
+      "abstract": "While undergraduate medical education relies heavily on traditional lectures to deliver foundational biomedical sciences, standard models frequently isolate pathogens and mechanisms from the socio-economic realities of healthcare and community communication. To address this gap, we implemented and evaluated a project-based active learning intervention conducted in a classroom setting in a Medical Microbiology course, challenging students to synthesize complex scientific literature and design educational brochures tailored for socially vulnerable populations. At the end of the academic semester, student perceptions were evaluated through an anonymous mixed-methods survey completed by 51 participants. The quantitative outcomes revealed high student satisfaction, with participants perceiving the instructions as highly transparent and the cognitive challenge as well-balanced. Notably, most of the students reported that the project successfully consolidated core microbiological content, while also stating that focusing on vulnerable communities significantly expanded their understanding of how social determinants impact infectious diseases. This strong positive feedback was also present in the thematic analysis of the open-ended responses, which showed that students highly valued practicing the translation of technical medical jargon into accessible, community-friendly language within this simulated exercise, which was conducted among peers and instructors. The primary challenges reported were operational, centered on group coordination and managing the heavy academic workload typical of the end of the semester. Overall, our findings suggest that integrating brochure design and public health context into the basic science curriculum effectively anchors microbiology to clinical and humanistic realities, fostering preliminary communication skills, teamwork, and social responsibility better than standard expository lessons.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42980147/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-04T23:54:44.966170+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42978968",
+      "title": "Communication Skills Training Using Simulation for Integrating Adverse Childhood Experiences into Adult Primary Care Visits for Students.",
+      "journal": "MedEdPORTAL : the journal of teaching and learning resources",
+      "year": "2026",
+      "doi": "10.15766/mep_2374-8265.11648",
+      "abstract": "INTRODUCTION: Adverse childhood experiences (ACEs) can affect health and well-being throughout the lifespan. Trauma-informed care (TIC) integrates trauma understanding and resists retraumatization through fostering a safe and healing environment. This 3-hour workshop taught trainees competency-based TIC skills to identify potential signs of ACEs and other trauma in their adult patients and sensitively incorporate the impact of these experiences into their care.\nMETHODS: After completing prereadings, third-year medical students (MS3) and second-year physician assistant students (PA2) attended a lecture about TIC and observed a demonstration of a patient interaction. Students then completed a simulated longitudinal outpatient visit with a simulated patient (SP). The four cases of adult primary care patients presented with (1) depression and knee pain, (2) medically unexplained symptoms, (3) chronic back pain, and (4) substance use issues resulting in chronic disease. No SPs initially disclosed trauma, but all had significant ACEs. A faculty member observed the simulation, giving immediate feedback on performance. Workshops were evaluated by students in pre- and postsurveys measuring self-assessed knowledge about TIC, confidence applying TIC principles, and perceived importance of TIC.\nRESULTS: One hundred and sixty-seven students completed this training, with 92 completing both pre- and postsurveys. T-test analyses indicated significant improvements across self-reported knowledge, importance, and confidence following the training, with the largest increase in confidence in trauma inquiry (+1.06 on a 1-4 scale).\nDISCUSSION: This simulation training enhanced students' understanding of ACEs' influence on adult health outcomes and strengthened perceived ability to apply TIC principles, including incorporating trauma inquiry into longitudinal care.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978968/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-04T23:54:44.966151+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42978877",
+      "title": "Ethical aspects of triage in civil and military contexts: a qualitative research of physicians' attitudes and knowledge regarding ethics in triage scenarios in.",
+      "journal": "Frontiers in medicine",
+      "year": "2026",
+      "doi": "10.3389/fmed.2026.1938455",
+      "abstract": "BACKGROUND: Triage in the medical context is a screening procedure used to determine resource distribution in situations of severe restriction of medical resources. Originally, triage was designed as a method to ascertain the treatment priority of wounded soldiers on battlefields. However, ethical discussions about clinical triage were raised during the COVID-19 pandemic. In the focus stood prioritization of care in situation of limited resources.\nOBJECTIVE: The purpose of our investigation was comparison of experiences and ethical attitudes towards triage among military and civil physicians. To date, there is no research available on this topic.\nMETHODS: We conducted 26 semi-structured, qualitative, exploratory interviews among military and civilian physicians in Germany. All the interviews were digitally audio-recorded, transcribed and anonymized. We analyzed the transcripts via the structured qualitative content analysis method.\nRESULTS: Triage scenarios bring distinctive ethical challenges for the attending physicians. Military and civil physicians share a similar approach to solve the ethical conflicts arousing in such situations. Triage situation does not allow for an individual medical gold standard in the treatment of patients; therefore, the principles of autonomy, beneficence and nonmaleficence should be subordinated to the principle of social justice. Because of restriction of the patient's autonomy, the final decision-making authority lies with medical professionals. Pre-clinical triage conditions also restrict patient-physician relationship.\nCONCLUSION: The ethical justification of triage follows the imperatives of life-preservation and maximization of the number of survivors. According to interviewed physicians, in both pre-clinical and clinical triage situations, medical decisions should aim rather at maximizing the well-being of the collective - whether of wounded or of a society - than at maximizing the well-being of an individual patient. Restriction of patient autonomy regarding treatment discontinuation - ex-post triage - is unavoidable in a pandemic situation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42978877/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-04T23:54:44.966107+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42974109",
       "title": "Mapping Complexity Lenses in Interprofessional Education and Collaborative Practice: A Scoping Review.",
