@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-11-04T23:54:44.966382+00:00",
+  "generated_at": "2026-11-05T23:54:50.798347+00:00",
   "articles": [
+    {
+      "id": "42987316",
+      "title": "Evaluating an AI-Powered Patient Simulator for Communication Skills Training: One-Year Randomized Controlled Trial.",
+      "journal": "Journal of medical Internet research",
+      "year": "2026",
+      "doi": "10.2196/91886",
+      "abstract": "BACKGROUND: Clinical communication skills are a core yet complex competency in medical education and practice. However, early-stage medical students often struggle to apply communication frameworks in practice due to limited opportunities for structured simulation training. Generative AI (GenAI)-supported training has the potential to offer a scalable and innovative approach for clinical communication skills training.\nOBJECTIVE: This study examined the longitudinal development of medical students' clinical communication skills over 1 academic year and investigated whether AI-powered simulation contributed to differential improvement relative to conventional training. In addition, the study explored motivational, behavioral, and affective mechanisms associated with communication skills development.\nMETHODS: A nonblinded randomized controlled design was used at a medical school in the United Kingdom, with students assigned either to the control group (n=28, 56%) or to the AI group (n=22, 44%), who practiced with SimPatient, a patient-simulator chatbot accessed through a web browser. Communication skills performance was assessed using standardized objective structured clinical examinations (OSCE) scores relative to the pass marks to enable comparison across time points. Paired t tests and difference-in-differences (DID) analyses were conducted between groups and over time to examine changes in communication skills. Latent change score modeling was used to identify predictors of communication skills change. Sentiment analysis was conducted on 6120 comments from AI-student conversations. Finally, a system quality survey was used to assess participants' feedback on the AI-powered simulator.\nRESULTS: Latent change score modeling showed that gains in intrinsic motivation and behavioral learning were significant predictors of students' communication skills change. The AI group showed a greater descriptive increase in communication skills than the control group, yet the between-group difference was not statistically significant. Within the AI group, consultations whose lexical tone trended more strongly toward resolution (consultation tone) were descriptively associated with communication skills improvement; given the small subsample (n=17), this finding is reported as exploratory. The AI group's confidence level in AI use was negatively associated with communication skills improvement, while the group nevertheless reported a generally high level of satisfaction with the system.\nCONCLUSIONS: In this study, medical students' clinical communication skills increased over the academic year, with this development most strongly associated with their motivation and behavioral engagement; the AI-supported group did not differ significantly from conventional training. The simulator responded appropriately and provided a usable environment for practicing foundational communication behaviors but was limited in capturing the affective complexity, vulnerability, and narrative unpredictability of real clinical encounters. In conclusion, this study suggests that GenAI holds promise for supporting foundational clinical communication training and providing positive practice environments, thereby fostering motivation and behavioral engagement.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42987316/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797938+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42985017",
+      "title": "Regulation and Ethical Frameworks for AI in Health Professions Education: A Critical Narrative Review.",
+      "journal": "Journal of advances in medical education & professionalism",
+      "year": "2026",
+      "doi": "10.30476/jamp.2026.110257.2340",
+      "abstract": "INTRODUCTION: Integrating artificial intelligence (AI)-particularly generative AI and large language models (LLMs)-into health professions education offers substantial pedagogical opportunities, while highlighting critical gaps in existing ethical and regulatory frameworks. This critical narrative review examines how contemporary literature conceptualizes and addresses these challenges.\nMETHODS: Publications from 2020-2025 were identified through searching PubMed, Scopus, and ERIC, focusing on AI, medical and health professions education, ethics, governance, and regulation. The initial search yielded 452 records; following two-stage screening (title/abstract and full-text review), thirty-four sources met the pre-defined inclusion criteria. These sources, including empirical studies, systematic reviews, policy documents, and conceptual papers, were included. Reflexive thematic analysis was used to synthesize the findings, while SANRA (Scale for the Assessment of Narrative Review Articles) informed the weighting of sources, which were categorized into high-, moderate-, and low-weight tiers.\nRESULTS: Four themes emerged: 1) a regulatory vacuum marked by policy lag and fragmented institutional responses; 2) reinterpretation of autonomy, beneficence, nonmaleficence, and justice in relation to opaque, datadriven systems, 3) generative AI's impact on scholarship, authorship, and academic integrity; and 4) equity, bias, and professional identity formation in AImediated learning environments. Integrating these themes with crosssector frameworks and the NIST AI Risk Management Framework, the review develops a riskbased governance taxonomy for AI in Health Professions Education, distinguishing low, medium and highrisk educational use cases.\nCONCLUSION: This synthesis indicates that current literature favors evolving beyond reactive policies. Consequently, we propose a theoretical shift toward risk-proportionate governance. We suggest that human-in-the-loop pedagogy should be prioritized as a conceptual framework to guide future research and policy development, rather than presenting it as a validated outcome.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42985017/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797910+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42984700",
+      "title": "Gradual Transformation toward Expertise: A Grounded Theory of Clinical Medical Teachers' Development Process.",
+      "journal": "Journal of advances in medical education & professionalism",
+      "year": "2026",
+      "doi": "10.30476/jamp.2026.110120.2334",
+      "abstract": "INTRODUCTION: Expertise is an experiential capability that cannot be acquired through formal education alone; rather, it develops through sustained reflection and iterative practice. Despite the importance of expert clinical faculty, the process of attaining this educational expertise has not been systematically conceptualized. This study was conducted to develop a paradigmatic model of the educational competency development process in clinical medical faculty and identify its dimensions, components, and interrelationships.\nMETHODS: This qualitative grounded theory study was conducted in 2024-2025 at Iran University of Medical Sciences using the Corbin and Strauss approach (2015). A total of 15 participants, including 13 clinical faculty members (with at least five years of teaching experience and recognized teaching competence) and 2 medical students, were initially recruited through purposive sampling. Snowball sampling was used solely as a recruitment technique to identify additional information-rich participants. As we collected and analyzed data, we used theoretical sampling. This helped us refine the categories and reach theoretical saturation. Data were collected through semi_structured, in-depth interviews lasting 30-50 minutes (mean: 45 minutes). All interviews were audio-recorded and transcribed verbatim. Data were analyzed concurrently with data collection using the constant comparative method, including open coding, category development, contextual analysis, and theoretical integration. Rigor was ensured through prolonged engagement with the data, member checking, peer debriefing, and the maintenance of an audit trail.\nRESULTS: Data analysis led to the emergence of the core category, \"Gradual Transformation toward Expertise,\" which explains how clinical faculty members evolve from expert clinicians into transformative educators. This process is dynamic, non-linear, and highly context-dependent. Five interrelated themes describe this developmental trajectory: 1) reflection and competence development, 2) experiential learning and clinical observation, 3) mentorship and knowledge transfer, 4) motivational and contextual influences, and 5) barriers and professional transformation. The process was shaped by six contextual factors: a) the complex and dynamic nature of clinical education; b) the need for continuous competency development; c) generational differences in teaching and learning styles; d) workload and competing clinical responsibilities; e) the necessity of integrating practical experience with scientific evidence; and f) an organizational culture that prioritizes treatment over education. Additionally, causal conditions such as multiple professional pressures and generational gaps further influenced the pace and direction of this transformation. Overall, the findings depict expertise development as a gradual, evolving process through which faculty members reconcile their clinical and educational roles to become effective and transformative clinical educators.\nCONCLUSION: Clinical teacher expertise develops through a dynamic interplay of individual effort, experiential learning, and environmental factors. This transformation requires personal commitment to lifelong learning and reflection, supported by organizational initiatives such as faculty development programs, mentoring, and aligned incentive systems. The proposed grounded theory provides a practical framework for designing professional development initiatives and fostering educational settings that enhance expertise in similar non-Western contexts.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42984700/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797885+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42983731",
+      "title": "Dual-edged swords: a qualitative study of protective and risk factors shaping mental health among Chinese health professions students.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10111-2",
+      "abstract": "BACKGROUND: Mental health challenges among health professions students are a global concern, yet how these challenges manifest within socio-cultural contexts like China remains underexplored. This study utilised Bronfenbrenner's ecological systems theory to investigate the risk and protective factors influencing the mental health of health professions students in China.\nMETHODS: This qualitative study employed reflexive thematic analysis to examine the experiences and perspectives of 30 undergraduates from clinical medicine, nursing, pharmacy, and allied health programmes. Participants were selected by purposive sampling and data were collected using semi-structured individual in-depth interviews.\nRESULTS: During the data analysis, five interconnected themes were identified. Within each theme, participants described factors operating as risks, as protective resources, or as dual-edged forces depending on context. The themes are: (1) Academic Pressure and Interpersonal Dynamics within Immediate Environments (Microsystem); (2) Fragmentation and Dysfunction within Support Networks (Mesosystem); (3) Institutional Logics and Structural Constraints (Exosystem); (4) The Internalisation of Macro-Cultural Values and Behavioural Guidance (Macrosystem); and (5) Chronological Interactions and the Reshaping of Developmental Trajectories (Chronosystem).\nCONCLUSIONS: The findings reveal a complex transaction across all ecological levels, highlighting that student mental health is predominantly shaped by systemic and cultural forces beyond the individual. This study provides a foundational ecological model for understanding these challenges and suggests that future research quantitatively examine the interactions between these themes, compare experiences across different health disciplines, and evaluate the effectiveness of support interventions tailored to specific ecological levels.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983731/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797859+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42983721",
+      "title": "From fragmentation to integration: rethinking nutrition education in undergraduate medical curriculum in Pakistan through a mixed-methods study.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10040-0",
+      "abstract": "BACKGROUND: Nutrition plays a central role in the prevention and management of both communicable and noncommunicable diseases, yet its integration within undergraduate medical education remains inconsistent. This study aimed to assess the current status of nutrition education in MBBS programs in Pakistan and to propose a structured framework for curriculum enhancement.\nMETHODS: A mixed methods study was conducted in Rawalpindi and Islamabad, Pakistan. The study included a structured review of the Pakistan Medical and Dental Council MBBS curriculum 2024, a cross-sectional survey of 242 final-year medical students from four medical colleges, and in-depth interviews with 13 faculty members across key disciplines. The sample size for the quantitative component was calculated using OpenEpi, based on a population of 650 students. Data were collected using a structured questionnaire and a semi-structured interview guide. Quantitative data were analyzed using descriptive and inferential statistics, while qualitative data were analyzed using thematic analysis. Findings from all components were triangulated.\nRESULTS: The curriculum review demonstrated that nutrition content is present but remains fragmented, with limited clinical integration and lack of defined competencies. Among students, 88.4 percent recognized the importance of nutrition in medical education, while only 28.1 percent perceived the curriculum as adequate. Exposure to nutrition was highest in community medicine (80.2 percent) and biochemistry (53.7 percent), but substantially lower in clinical disciplines such as internal medicine (28.9 percent) and pediatrics (36.4 percent). Teaching was predominantly lecture-based (78.5 percent), with limited use of interactive methods. Students reported moderate confidence in general nutrition knowledge but low preparedness for managing nutrition-related conditions. Qualitative findings highlighted gaps in integration, assessment, and clinical application, along with a need for structured curriculum reform.\nCONCLUSION: Despite recent curricular advancements, nutrition education in undergraduate medical training remains insufficiently integrated and clinically oriented. The proposed competency-based framework offers a practical approach to strengthening nutrition education within existing curricular structures, with the potential to improve clinical preparedness and align medical training with population health needs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983721/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797833+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42983440",
+      "title": "How does creative enquiry enable us to deal with uncertainty?",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10060-w",
+      "abstract": "BACKGROUND: Uncertainty is an inherent and pervasive feature of medical practice. Here, uncertainty refers to the subjective perception and affective experience encountered by medical students and clinicians. Difficulties in managing uncertainty are associated with impaired communication in shared decision-making and may contribute to clinical burnout. Despite longstanding recognition of its importance, including recent UK curricular reforms focused on \"managing uncertainty,\" it remains insufficiently addressed in medical practice. This study seeks to address this gap by examining how creative enquiry may support both learners and clinicians in engaging with uncertainty in practice.\nMETHODS: We undertook a qualitative study using semi-structured interviews with ten participants (five medical students; five clinicians, comprising four general practitioners and one infectious disease specialist) with prior experience of creative enquiry. Participants were recruited through convenience sampling from a creative-enquiry student-selected component (SSC) and clinician networks. Interviews were conducted online, audio-recorded, and transcribed verbatim. Data were analysed inductively using Braun and Clarke's reflexive thematic analysis, supported by NVivo 14. Student participants had completed the SSC in preclinical years and were interviewed during clinical training. Creative enquiry activities included engagement with patient-generated creative work, arts-based practices (e.g. photography, collage, creative writing, sculpture), and facilitated group dialogue.\nRESULTS: Three analytically related dimensions were generated: Issues, Processes, and Effects. Participants described uncertainty as intensified by binary epistemic cultures and the marginalisation of emotional experience. Creative enquiry involved engagement with indeterminate processes characterised by the absence of singular correct outcomes and the unpredictability of creative production. These processes enabled emotional processing, supporting participants to \"digest\" affective responses, and fostered a stance of \"permission to play,\" legitimising experimentation and imperfection. Repeated engagement contributed to the normalisation of uncertainty, with parallels drawn to exposure. Reported effects included restoration of voice and recognition, reduction in the emotional burden of uncertainty, and enhanced reflexivity. Participants described an expanded capacity for perspective-taking and more complex conceptualisations of practice (\"seeing medicine in three dimensions\").\nCONCLUSIONS: This study extends current understandings of uncertainty in medical education by identifying creative enquiry as a practice that integrates epistemic and affective engagement. We propose a Personal, Protective, and Embracing (PPE) framework, through which creative enquiry supports (i) articulation and emotional processing (Personal), (ii) containment and respite (Protective), and (iii) acceptance and constructive engagement with uncertainty (Embracing). These findings contribute to the operationalisation of \"managing uncertainty\" as a curricular competency and support further theoretically informed and empirical investigation of creative pedagogies in medical education.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983440/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797806+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42983389",
+      "title": "Integrating nutrition counseling into clinical skills training: a simulation-based interprofessional education program for medical and nursing students.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10108-x",
+      "abstract": "BACKGROUND: The increasing prevalence of diet-related chronic diseases highlights the urgent need for effective nutrition education in health professions training. This study evaluated a simulation-based interprofessional education (IPE) program designed to enhance nutrition counseling knowledge and self-efficacy among medical and nursing students.\nMETHODS: A multimethod study was conducted with 89 medical and nursing students. Participants were recruited through university announcements and class meetings. Participation was voluntary and did not affect grades. No financial incentives were offered. Participants completed a 4-week program consisting of: (1) online nutrition modules, (2) interprofessional team-based learning sessions, and (3) standardized patient simulations. Quantitative measures included pre- and post-intervention assessments of nutrition knowledge, counseling self-efficacy, and interprofessional attitudes. Effect sizes (Cohen's d) were calculated for all comparisons. Qualitative data were collected through six focus groups with a purposive subsample of 24 participants and analyzed using inductive thematic analysis until saturation was reached.\nRESULTS: Participants demonstrated significant improvements in nutrition knowledge (mean difference: 2.39, 95% CI [1.69, 3.10], Cohen's d = 0.73, p < 0.001) and counseling self-efficacy (mean difference: 16.52, 95% CI [14.99, 18.05], Cohen's d = 2.31, p < 0.001). Interprofessional attitudes also showed positive changes, particularly in teamwork and collaboration domains. Qualitative analysis revealed three main themes: (1) increased confidence in nutrition counseling, (2) appreciation for interprofessional perspectives, and (3) recognition of nutrition's role in comprehensive patient care. Participants valued the simulation component as particularly effective for skill development.\nCONCLUSIONS: Participation in this simulation-based interprofessional education program was associated with short-term improvements in nutrition counseling knowledge and self-efficacy among health professions students. The integration of online learning, team-based activities, and standardized patient encounters provides a comprehensive approach to nutrition education. These findings offer preliminary evidence that this model may help address the gap in clinical nutrition training. Further research with controlled designs and longer follow-up is warranted.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42983389/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-05T23:54:50.797756+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "42981519",
       "title": "Comparison of AI and Manual Coding of Medical Students' Reflections: An Asynchronous Discussion Board Exploration.",
