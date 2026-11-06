@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-11-05T23:54:50.798347+00:00",
+  "generated_at": "2026-11-06T23:50:20.716766+00:00",
   "articles": [
+    {
+      "id": "42993682",
+      "title": "Artificial intelligence hallucinations in large language models for medical education and healthcare: a scoping review of detection, mitigation, and governance.",
+      "journal": "Medical education online",
+      "year": "2026",
+      "doi": "10.1080/10872981.2026.2756806",
+      "abstract": "BACKGROUND AND OBJECTIVE: Generative artificial intelligence (AI) and large language models (LLMs) are increasingly used in medical education and healthcare. Yet AI hallucinations-plausible but inaccurate, unsupported, or fabricated information or citations-may compromise educational integrity, clinical judgment, patient safety, and trust. This scoping review mapped evidence on their nature, detection and validation, mitigation, and educational and governance implications.\nMETHODS: This scoping review was conducted in accordance with the Joanna Briggs Institute methodology and informed by the Arksey and O'Malley framework. Reporting followed the PRISMA Extension for Scoping Reviews. PubMed/MEDLINE, Scopus, IEEE Xplore, and Web of Science were systematically searched for English-language sources published from January 1, 2018, to July 31, 2026. Study selection and data extraction were independently performed by two reviewers. Findings were synthesized using descriptive thematic analysis.\nRESULTS: Of 2,051 identified records, 21 sources were included in the final synthesis after duplicate removal and screening. These included five empirical or model-evaluation studies and 16 review, conceptual, or opinion-based sources. The analysis identified five main themes and 13 subthemes: (1) conceptualization and manifestations of AI hallucinations in healthcare; (2) detection, assessment, and validation of hallucinations; (3) mitigation strategies for improving the reliability of generative AI outputs; (4) educational implications and critical AI literacy; and (5) governance, accountability, and trustworthy implementation in healthcare. Retrieval-augmented generation, structured prompt design, output-verification methods, and human oversight were among the most frequently identified approaches for reducing hallucination-related risks.\nCONCLUSION: AI hallucinations are not merely technical errors; they represent a multidimensional challenge to the safe and responsible use of LLMs in medical education and healthcare. Reducing their risks requires a multilayered approach that includes evidence-based validation, human oversight, critical AI literacy, redesign of educational assessment, and transparent governance and accountability frameworks.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42993682/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-06T23:50:20.716643+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42989678",
+      "title": "Conference on Medical Education and Research Writings during Arbaeen at College of Medicine, University Warith Al-Anbiyaa, and University of Karbala 22-23 and 26 July 2026.",
+      "journal": "JPMA. The Journal of the Pakistan Medical Association",
+      "year": "2026",
+      "doi": "10.47391/JPMA.26-77",
+      "abstract": "An academic programme spanning three days took place in Karbala, Iraq on 22-23 and 26 July 2026, linking medical education and training in scientific writing to the service orientation of the Arbaeen pilgrimage. Workshops held at the College of Medicine, University of Warith Al-Anbiyaa and at the College of Medicine, University of Kerbala brought together Iraqi and Pakistani educators and clinicians to discuss responsible artificial intelligence, qualitative research, scientific writing, curriculum integration, regenerative medicine, precision geriatric care, radiology, surgery, and disaster management. Practical workshops enabled participants to move away from information transfer to application. A critical synthesis revealed four interlinked themes: service and scholarship as an integrated continuum; learning by doing; responsible innovation; and academic solidarity across borders. The programme provided a forum for future mentorship and collaboration in research but future events will need to include prospective evaluation and follow-up of the results of the academic activities. These areas can shape the planning and evaluation of future conferences.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989678/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-06T23:50:20.716621+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42989174",
+      "title": "Mentor and mentee experiences of the NMC-CBME mentorship programme in India: a two-centre qualitative study.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10132-x",
+      "abstract": "BACKGROUND: India's National Medical Commission mandated a formal mentorship programme within competency-based medical education for all MBBS students. However, evidence regarding how mentors and mentees experience this programme remains limited. This study explored the perceptions and experiences of both groups across two geographically and demographically distinct tertiary-care institutions.\nMETHODS: A two-centre parallel qualitative study was conducted at Site A (Jharkhand) and Site B (Arunachal Pradesh). Mentee perspectives were collected through eight focus group discussions (four/site) with MBBS students. Mentor perspectives were explored through in-depth interviews (15 at Site A & 24 at Site B). Focus Group Discussion (FGD) data were analysed using inductive thematic analysis (Braun and Clarke), while In Depth Interviews (IDI) data were analysed using framework analysis. Site-level analyses were conducted independently and integrated through cross-site thematic comparison. Reporting followed COREQ guidelines.\nRESULTS: 39 mentors and 56 mentees participated. Nine thematic domains emerged. Eight were convergent across both sites: structural and implementation inadequacies; scheduling deficiencies and boundary violations; differential academic support quality; psychosocial support potential constrained by structural barriers; mentor unpreparedness and quality variability; hierarchical communication barriers; phase-specific mentorship needs; and an accountability vacuum with absent feedback mechanisms. One theme (cultural and contextual specificity) was unique to Site B. Across all data sources, participants endorsed mentorship in principle but described implementation as structurally inadequate. Informal communication channels and social interactions, organically adopted at Site B, appeared to mitigate some gaps that participants at Site A identified as desired improvements.\nCONCLUSIONS: This study concludes that the convergence of findings across two sites suggests that these implementation challenges may reflect broader features of the programme; however, this interpretation should be considered an analytical inference requiring confirmation in broader settings. Strengthening mentorship requires protected time, structured mentor training, explicit confidentiality safeguards, separation of mentoring from summative evaluation, and institutional recognition. Findings further indicate that context-sensitive adaptation is essential, particularly for minority and tribal student populations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42989174/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-06T23:50:20.716578+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42987316",
       "title": "Evaluating an AI-Powered Patient Simulator for Communication Skills Training: One-Year Randomized Controlled Trial.",
