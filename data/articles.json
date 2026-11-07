@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-06T23:50:20.716766+00:00",
+  "generated_at": "2026-11-07T23:47:36.311448+00:00",
   "articles": [
+    {
+      "id": "42994680",
+      "title": "Learning through Caregiving: A Qualitative Study of Reflections From a Medical Student Elective for New Parents.",
+      "journal": "Academic pediatrics",
+      "year": "2026",
+      "doi": "10.1016/j.acap.2026.103752",
+      "abstract": "OBJECTIVE: Many new parents in medicine, particularly medical students, do not feel supported by their institutions. One structural support present in most pediatric residencies is a new parent elective; however this is rarely available for students. This study seeks to better understand the lived experience of medical students during a new parent/caregiving elective at the University of Minnesota to learn how we can better support student parents.\nMETHODS: We conducted a retrospective qualitative study of students' written reflections during a caregiving elective, using reflexive thematic analysis through an inductive approach to identify common patterns and ideas within the dataset.\nRESULTS: We analyzed 54 reflections from 16 students (39% of invited participants (n=41)). We found three themes: 1) Students' experiences of the common challenges of early parenthood prompts or leads to personal transformation; 2) Students rely on relationships from inside and outside of medicine to find support and community; and 3) The intersections of parenthood, patienthood, and medical training influence how students interact with the medical system and contribute to their identities as future physicians. As students experienced parenting, they often related these experiences to their medical training in ways that likely affect their growing identities as future physicians.\nCONCLUSIONS: Student parents who participated in this caregiving elective described common experiences of becoming a parent and utilized these experiences to develop skills that will help them become better doctors. They also appreciated support from this elective. Additional institutional support may better facilitate their emerging parent and physician identities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42994680/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-07T23:47:36.311353+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42993682",
       "title": "Artificial intelligence hallucinations in large language models for medical education and healthcare: a scoping review of detection, mitigation, and governance.",
