@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-11-07T23:47:36.311448+00:00",
+  "generated_at": "2026-11-08T23:49:08.049780+00:00",
   "articles": [
+    {
+      "id": "42998907",
+      "title": "Large language models in radiology education: a systematic review of applications and learning outcomes.",
+      "journal": "Current problems in diagnostic radiology",
+      "year": "2026",
+      "doi": "10.1067/j.cpradiol.2026.10.016",
+      "abstract": "RATIONALE AND OBJECTIVES: This systematic review aimed to map how large language models (LLMs) are used in radiology education, grade their reported outcomes, and appraise evidence quality.\nMATERIALS AND METHODS: We searched PubMed, Europe PMC, and ERIC (November 2022-October 2026) for original studies of LLMs in the radiology education of medical students or residents, including educator-rated LLM materials intended for them. Two reviewers screened titles and abstracts independently. Studies were grouped by application, outcomes were graded with a modified Kirkpatrick framework, and quality was assessed with the Medical Education Research Study Quality Instrument (MERSQI).\nRESULTS: Twenty-two studies (23 reports) were included. Twelve involved residents, five medical students, two mixed groups, and three had no learners. Applications were question generation (n = 7), feedback on learners' work (n = 6), content generation and tutoring (n = 4), simulation or personalized curricula (n = 2), and learners' own use (n = 3). LLM-generated questions matched expert questions on recall items but were weaker on clinical-reasoning items, and their apparent quality partly depended on human selection. Report feedback was moderately to highly accurate and generally welcomed. Only three studies measured learning; the rest evaluated LLM output, learner reactions, or case exposure, and none measured behavior. Mean MERSQI was 9.6 of 18 (range 6.0-12.5); 18 studies were single-center, and one was randomized.\nCONCLUSION: LLMs produce usable teaching materials, but evidence that they improve learning is limited and of low to moderate quality. They should be supervised until controlled multicenter studies are available.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42998907/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-08T23:49:08.049545+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "42995263",
+      "title": "Surgery Is Not a Place: Time-to-Scalpel, Surgical Throughput, and Dynamic Load Balancing in Large-Scale Combat Operations.",
+      "journal": "Military medicine",
+      "year": "2026",
+      "doi": "10.1093/milmed/usag491",
+      "abstract": "INTRODUCTION: Modern combat casualty care emphasizes rapid evacuation to surgical capability as a proxy for timely operative intervention. In large-scale combat operations (LSCO), however, high casualty density and finite surgical throughput may delay care even after arrival. We evaluated how operative capacity and casualty routing influence time-to-scalpel (TTS) during sustained combat.\nMATERIALS AND METHODS: This non-human subjects study developed a Division-scale discrete-event simulation representing an 18,000-person force, 9 evacuation origins, three Role 2 facilities each containing a full forward resuscitative and surgical detachment (FRSD) with two operating tables, and one Role 3 facility with four operating tables. The campaign lasted 36 days, with individual 30-day mortality follow-up. Eight casualty densities ranged from 1 to 15 combat casualties per 1,000 personnel per day. Four routing tactics were evaluated: Primary, Alternate, Bypass, and Smart, which prioritized surgical access for the highest-acuity patients. Mean TTS was the primary outcome; mean, median, and 95th-percentile TTS were conditional on operative start. Other outcomes included access among all surgical candidates and combat 30-day case fatality rate (CFR). Routing comparisons used 20 seed-matched replications per scenario with Holm adjustment. Bypass sensitivity analyses at densities 3, 9, and 15 varied delay-related mortality penalties by ±20% and replaced each FRSD with one forward resuscitative and surgical squad (FRSS).\nRESULTS: The main experiment included 920 replications across 32 scenarios. At density 15, mean TTS was 136.24 hours with Primary, 19.24 with Bypass, and 82.53 with Smart. Both bypass-capable tactics reduced mean TTS relative to Primary at densities 7-15 (adjusted P < .05). Under Primary, the mean fraction of preoperative delay attributable to surgical queueing exceeded 50% at density 9. Compared with Bypass, Smart shortened urgent-cohort TTS at all tested densities but lengthened TTS among the remaining surgical patients at densities 5-15 (all adjusted P < .05). Smart also had higher CFR at density 9 (+0.307 percentage points; adjusted P = .016) but lower CFR at density 15 (-0.544 percentage points; adjusted P = .010). FRSSs increased TTS and CFR at all 3 sensitivity densities (all adjusted P < .05). Substantial surgical delays persisted under both mortality-penalty assumptions.\nCONCLUSIONS: Under the modeled LSCO conditions, operative congestion increasingly drove delay to surgery. Load balancing casualty routing tactics may preserve operative access more effectively than fixed proximity-based routing alone. However, prioritizing surgical access for the highest-acuity patients does not uniformly improve access or mortality across the casualty population.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42995263/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-08T23:49:08.049494+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "sim"
+      ],
+      "priority": true
+    },
     {
       "id": "42994680",
       "title": "Learning through Caregiving: A Qualitative Study of Reflections From a Medical Student Elective for New Parents.",
