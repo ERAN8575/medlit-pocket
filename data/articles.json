@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-08T23:49:08.049780+00:00",
+  "generated_at": "2026-11-09T23:51:25.941791+00:00",
   "articles": [
+    {
+      "id": "43000359",
+      "title": "From XR-derived performance metrics to an objective performance score in point-of-care ultrasound.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10034-y",
+      "abstract": "BACKGROUND: Point-of-care ultrasound (POCUS) quality depends on operator proficiency. As POCUS training expands, scalable approaches to performance evaluation are needed. Current performance evaluation relies largely on examiner-intensive Objective Structured Clinical Examinations (OSCE). Extended Reality (XR) technologies offer opportunities to capture objective performance metrics and provide the digitization needed to support automated and standardised performance evaluations. The objective of this study was to explore the use of XR-derived performance metrics and examine how an automated performance score using these metrics relates to OSCE performance.\nMETHODS: Medical students (novices), physicians with limited ultrasound experience (intermediates), and experienced physicians and sonographers (experts) performed a cardiac ultrasound task on a phantom, while using a phone as a probe and wearing a HoloLens that immerses them in an XR environment. They were tasked to obtain four cardiac POCUS views. OSCE was scored by two independent experts. Probe trajectories were derived from the phone and were used to extract kinematic metrics, such as time, path length, straightness index, and dimensionless squared jerk. These were complemented with image quality surrogates (position and angle deviation), and gaze behaviour (gaze shifts to the display). A metric-based performance score was constructed using multivariable regression and compared with OSCE scores.\nRESULTS: Ninety participants were included (34 novices, 31 intermediates, 25 experts). The OSCE scoring demonstrated excellent inter-rater reliability (ICC 0.97) and clear discrimination across experience levels. Kinematic and gaze metrics aligned with experience level and OSCE performance, whereas image quality surrogates showed weaker associations. Factor analysis of the XR-derived performance metrics identified two underlying domains of technical performance; probe handling and image quality, with gaze behaviour emerging as a distinct construct. The automated performance score showed a moderate to good correlation with OSCE performance (ρ = 0.69). Replacing XR-derived image quality surrogates with expert-rated image quality substantially improved associations (ρ = 0.91).\nCONCLUSIONS: XR-derived, automated performance scoring represents a promising, scalable approach for formative feedback and early-stage screening, particularly in novice learners, while reducing examiner burden. These findings lay the foundation for further development toward fully automated ultrasound performance tracking. Further validation is required before use in high-stakes or fully automated assessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43000359/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-09T23:51:25.941562+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "42998907",
       "title": "Large language models in radiology education: a systematic review of applications and learning outcomes.",
