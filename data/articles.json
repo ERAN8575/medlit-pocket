@@ -1,6 +1,133 @@
 {
-  "generated_at": "2026-11-11T23:58:49.903830+00:00",
+  "generated_at": "2026-11-12T23:56:10.153975+00:00",
   "articles": [
+    {
+      "id": "43017675",
+      "title": "Point-of-care ultrasound use in the Canadian Armed Forces: Current practices, barriers, and opportunities for integration.",
+      "journal": "Journal of military, veteran and family health",
+      "year": "2026",
+      "doi": "",
+      "abstract": "INTRODUCTION: Point-of-care ultrasound (POCUS) enables real-time diagnostic imaging to support clinical decision-making and procedural safety. Its use is particularly relevant in military environments, where access to conventional imaging is often limited or unavailable. This study assessed current POCUS use, training and perceived barriers among Canadian Armed Forces (CAF) clinicians to guide future integration across clinical and operational contexts.\nMETHODS: A cross-sectional survey was distributed to CAF clinicians between Sep. 6 and Nov. 24, 2024. The survey collected data on clinician demographics, POCUS training, device access, clinical applications, frequency of use, perceived barriers, and preferred modalities of future instruction. Descriptive statistics were used to summarize survey responses. The study received ethics approval from the Montfort Hospital Research Ethics Board and endorsement from the Surgeon General Health Research Program.\nRESULTS: A total of 112 clinicians completed the survey. Respondents included medical officers (61%), medical specialist officers (17%), physician assistants (16%), and nurse practitioners (6%). Prior POCUS training was reported by 73% of respondents, primarily through civilian courses and peer-led instruction. Only 59% reported current access to a POCUS device. Trauma (95%), cardiac (76%), and lung (72%) assessments were the most common applications. Barriers included limited device access (58%), insufficient training (41%), skill decay, and absence of institutional standards. POCUS use varied by clinical role and was less frequent in operational deployments.\nDISCUSSION: This study identified variability in POCUS training, access, and use across the CAF. A coordinated strategy involving clinical and non-clinical stakeholders may support more consistent implementation across CAF health care settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017675/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.153091+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43017658",
+      "title": "Educators' insights on integrating artificial intelligence into medical curricula: a qualitative study.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2026",
+      "doi": "10.1097/MS9.0000000000005720",
+      "abstract": "BACKGROUND: Artificial intelligence (AI) is transforming medical education by offering innovative solutions for teaching and learning. However, integrating AI into medical curricula, particularly in low-resource settings like Sudan, presents both unique challenges and promising opportunities. The current research aimed to provide actionable insights for implementing AI in resource-constrained contexts.\nOBJECTIVES: This study explores the perceptions of educators regarding AI integration in medical education, focusing on challenges, opportunities, and actionable strategies in resource-constrained environments.\nMETHODOLOGY: A qualitative design was employed, involving 24 semi-structured interviews with educators from diverse backgrounds. Data were analyzed using Clarke's six-step thematic analysis framework.\nRESULTS: Five key themes emerged: perceptions of AI in medical education, challenges in AI integration, opportunities for curriculum development and collaboration, teaching strategies for AI adoption, and recommendations for implementation. Educators highlighted the transformative potential of AI while identifying barriers such as infrastructure limitations, faculty expertise gaps, and ethical concerns. Opportunities included enhancing teaching and research, fostering global collaborations, and embedding AI into curricula.\nCONCLUSION: Effective integration of AI in medical education requires addressing resource constraints, improving faculty training, and embedding ethical considerations. This study provides actionable insights for leveraging AI to advance medical education, particularly in low-resource settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017658/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.153067+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43017023",
+      "title": "Active duty service members' experiences navigating musculoskeletal health throughout their military careers: a qualitative interview study.",
+      "journal": "Frontiers in sports and active living",
+      "year": "2026",
+      "doi": "10.3389/fspor.2026.1910200",
+      "abstract": "INTRODUCTION: Musculoskeletal injury (MSK-I) and pain (MSK-P) pose a substantial burden to Active Duty Service Members (ADSM) and are a leading cause of medical encounters and lost duty days. Evidence indicates that barriers exist to musculoskeletal (MSK) health care-seeking, which can result in exacerbation of MSK conditions (e.g., MSK-I, MSK-P), chronic pain, and greater healthcare costs. The objective of this qualitative study was to interview ADSM about their experiences navigating MSK health during their military careers to inform the development of tools and resources that better equip ADSM and military medical providers to prevent and manage MSK conditions.\nMETHODS: Semi-structured individual interviews were conducted with male and female ADSM (n = 60). Interviews assessed ADSMs' experiences with MSK-I/P during military service, the use of military resources to maintain MSK health, and barriers and facilitators to seeking care for MSK-I/P. Interviews lasted 20-60 min, were conducted in-person or over video conference, and were audio recorded and transcribed. Transcript data were analyzed using applied thematic analysis (ATA).\nRESULTS: Participants included male (n = 31) and female (n = 29) ADSM (age=38 ± 10 years, 16 ± 9 years of service) representing all military branches except for the Space Force. The ATA resulted in seven themes: military impact, care-seeking, Military Health System (MHS), prevention and optimization, leadership, mental health, and gender.\nDISCUSSION: ADSM revealed that while the military culture promotes physical fitness, it also encourages a \"push through pain\" mentality, leading to delayed care due to fears of career repercussions or being seen as weak or a burden to one's unit. Additionally, ADSM pointed to certain challenges within the MHS, including long wait times, inconsistent access to specialized care, and a perception that some providers dismiss ADSM pain. Results revealed additional areas of investigation and intervention, such as a bidirectional link between MSK-P and mental health, and identified gender-specific challenges, such as a lack of resources for women's health issues like postpartum MSK conditions. Overall, the findings identified opportunities for systemic and cultural changes to destigmatize MSK issues, prioritize prevention and proactive care-seeking, and improve healthcare access for MSK conditions during military service.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43017023/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.153043+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43016047",
+      "title": "Specialty-Driven Divergence in Cardiac Imaging (Coronary Computed Tomography Angiography and Single-Photon Emission Computed Tomography) Utilization Following the 2021 Chest Pain Guideline at a Large Military Medical Center.",
+      "journal": "Military medicine",
+      "year": "2026",
+      "doi": "10.1093/milmed/usag516",
+      "abstract": "INTRODUCTION: Coronary computed tomography angiography (CCTA) received a strong recommendation in the 2021 Chest Pain Guideline as a first-line test for the evaluation of stable chest pain in patients without known coronary artery disease; however, real-world adoption remains variable. Within the Military Health System, imaging decisions directly affect operational readiness. We evaluated changes in the utilization of CCTA versus single-photon emission computed tomography (SPECT) myocardial perfusion imaging before and after guideline publication at a large military medical center.\nMATERIALS AND METHODS: We conducted a retrospective cohort study of 15,772 CCTA or SPECT studies performed for the evaluation of suspected coronary artery disease from 2018 through 2023 at Joint Base San Antonio. Studies were stratified into pre-guideline (on or before October 31, 2021) and post-guideline (on or after November 1, 2021) periods. The primary outcome was imaging modality (CCTA versus SPECT), analyzed by ordering specialty, sex, and age. Chi-square testing, repeat-testing characterization, and generalized estimating equations logistic regression were performed.\nRESULTS: Overall, 41.3% of studies were CCTA and 58.7% were SPECT. Among cardiologists, the proportion of CCTA studies increased from 50% to 61% after guideline publication, whereas CCTA use among non-cardiology specialties declined from 36% to 25%, reaching a quarterly nadir of 12.6% in quarter 2 of 2022. Cardiology ordering was the strongest independent predictor of CCTA use (odds ratio 1.90, 95% CI, 1.76-2.05; P < .001). The post-guideline period alone was not independently associated with increased CCTA use (odds ratio 0.98, P = .69). Younger age strongly favored CCTA, and repeat testing most commonly involved SPECT-to-SPECT sequences.\nCONCLUSIONS: Publication of the 2021 Chest Pain Guideline was not associated with a uniform increase in CCTA adoption. Provider specialty, rather than the guideline period itself, was the dominant factor associated with modality selection, highlighting the need for targeted education and decision-support interventions to improve evidence-based imaging utilization.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43016047/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.153016+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": true
+    },
+    {
+      "id": "43015793",
+      "title": "Defensive adoption and the intermediate coding threshold in generative AI usage among medical postgraduates: a cross-sectional mixed-methods study.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10039-7",
+      "abstract": "BACKGROUND: The integration of generative artificial intelligence (GenAI) in medical research presents both methodological opportunities and pedagogical challenges. While traditional technology acceptance models characterize anxiety as a barrier to adoption, high-pressure academic environments may instead foster a \"defensive adoption\" mechanism. This study investigates the structural relationships among AI anxiety, agentic literacy, and usage intentions, and identifies distinct user profiles among medical postgraduates.\nMETHODS: This cross-sectional mixed-methods study analyzed 414 valid responses from medical postgraduates in China. The self-developed Agentic Literacy scale underwent expert content validation, cognitive interviews, and pilot testing prior to the main survey. The analytical framework comprised two stages. First, structural equation modeling (SEM) tested the hypothesized causal pathways, while controlling for prior programming experience. Second, latent profile analysis (LPA) identified heterogeneous subgroups based on user patterns. Quantitative findings were triangulated with a qualitative thematic analysis of open-ended responses to capture the cognitive mechanisms underlying different adoption profiles.\nRESULTS: Participants primarily engaged with GenAI for basic text processing, with 17.4% utilizing tools for deep methodological tasks. SEM analysis indicated a pattern consistent with defensive adoption, where higher AI anxiety was associated with greater intention to use GenAI ([Formula: see text] = 0.254, P < 0.001). Furthermore, deeper use was associated with higher agentic literacy, which emerged as the strongest observed correlate for crossing the intermediate coding threshold. LPA identified three distinct profiles: Agentic Innovators (high literacy, high anxiety), Moderate Adopters, and Detached Users (low literacy, low anxiety). Qualitative analysis revealed that \"Detached Users\" focused on safety and hallucination auditing, whereas \"Agentic Innovators\" leveraged AI for complex code orchestration, confirming that anxiety was associated with adoption only when paired with competency.\nCONCLUSION: In this cross-sectional sample, higher academic AI anxiety was associated with stronger intention to use GenAI, while deeper use was more closely associated with agentic literacy. Surpassing the intermediate coding threshold may require specific training in AI orchestration rather than mere technological access.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015793/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.152989+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43015787",
+      "title": "Metacognitive team-based learning for creative problem-solving in Indian medical undergraduates: a single-arm pre-post quasi-experimental mixed-methods study.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10157-2",
+      "abstract": "BACKGROUND: Metacognitive and team-based strategies can strengthen problem-solving; however, many Indian medical undergraduates remain reliant on rote memorisation with limited exposure to structured, creativity-focused pedagogy. Structured interventions combining metacognitive training with collaborative, multidisciplinary teaching remain scarce in Indian undergraduate medical education. This study aimed to design, implement, and evaluate the Creative Problem-Solving Skills through Metacognition (CPSSM) module, a novel three-phase intervention for first-year MBBS students.\nMETHODS: A single-arm, pre-post, quasi-experimental, mixed-methods study was conducted at AIIMS Rajkot, India, during the 2024-2025 academic year. After obtaining ethical clearance and prospective trial registration, all 50 first-year MBBS students were recruited by universal sampling and 49 completed the intervention. Participants underwent three sequential phases: integrated teaching, case-based discussion, and collaborative model-making, delivered by a multidisciplinary faculty team. They were allocated to ten heterogeneous groups by stratified, non-random allocation based on baseline Metacognitive Awareness Inventory cut-off bands. The pre-specified primary outcome was post-intervention problem-solving accuracy, and the secondary outcomes included self-perceived creativity, group metacognition, and domain knowledge. Quantitative data were analysed using t-tests and ANOVA, with effect sizes and 95% confidence intervals. Qualitative feedback was analysed using descriptive content analysis informed by the Braun and Clarke thematic framework. No comparison group was included; therefore, the findings are reported as associations rather than causal effects.\nRESULTS: Students with high baseline metacognitive awareness showed a significant within-group gain in problem-solving accuracy (28.59 to 30.87; mean difference = 2.28; p < 0.001; Cohen's d = 1.53); the moderate-awareness group's gain was smaller and non-significant. Female students outperformed males in problem-solving accuracy at both time points (pre-test: p < 0.01, d = 0.90). Self-perceived creativity was higher in the high metacognition group than in the moderate-metacognition group (59.09 vs. 52.72; p = 0.01). Thematic analysis identified teamwork, motivation, and growing confidence as the principal perceived gains, alongside coordination and resource-related challenges. Creativity was rarely cited spontaneously, despite being a primary intended outcome.\nCONCLUSIONS: Participation in the CPSSM module was associated with modest gains in problem-solving accuracy, which was most evident among students with stronger baseline metacognitive awareness. These findings support the feasibility of structured, metacognition-driven, team-based learning in early medical education; however, controlled, multi-site studies are needed before broader effectiveness can be claimed.\nTRIAL REGISTRATION: Clinical Trials Registry-India, CTRI/2025/02/080559. This study was registered prospectively on February 14, 2025.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015787/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.152960+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43015714",
+      "title": "From technique to sensitivity: the transformation of clinical and ethical reasoning in physiotherapy students in the context of chronic neurodegenerative diseases.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10077-1",
+      "abstract": "BACKGROUND: The evolution of Physiotherapy requires a shift from the biomedical model towards bioethical and humanistic approaches. This study explores how final-year students perceive their professional role when dealing with patients with complex neurodegenerative conditions, where traditional technical success is challenged by the irreversibility of the deterioration.\nMETHODS: Qualitative research based on interpretative description. Thirty final-year students from the University of Almería (Spain) took part, divided into five working groups. Three training sessions and discussions were held on Amyotrophic Lateral Sclerosis (ALS), Alzheimer's disease, stroke and Rett syndrome. The data were analysed using thematic analysis and triangulation by researchers external to the study, with reflexivity ensured through logbooks.\nRESULTS: A shift in clinical reasoning was identified, with sensitivity taking precedence over technique. Students redefined therapeutic success in terms of \"comfort\" and support, valuing \"microscopic achievements\" such as the preservation of dignity and the alleviation of distress. Of particular note is the ability to adapt ethical principles according to the patient's cognitive integrity (autonomy in ALS versus protection in Alzheimer's) and the integration of the carer as an inseparable part of the therapeutic process.\nCONCLUSION: Future physiotherapists perceive humanization and the empathetic interpretation of non-verbal cues as essential therapeutic tools. Unlike previous studies focused on clinical experience, this research explores pre-clinical ethical maturation, offering a unique perspective on the educational foundation and humanistic predisposition of future graduates prior to their immersion in the healthcare system. It is imperative that academic curricula formally integrate competencies in bioethics, palliative care and emotional management to prepare graduates for extreme vulnerability and prevent early professional burnout.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015714/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-12T23:56:10.152910+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43011998",
       "title": "Sweet Success: Using Candy Land to Explore Gamification in Medical Education.",
