@@ -1,6 +1,100 @@
 {
-  "generated_at": "2026-11-12T23:56:10.153975+00:00",
+  "generated_at": "2026-11-13T23:51:53.252020+00:00",
   "articles": [
+    {
+      "id": "43024674",
+      "title": "Enhancing diagnostic and intervention-related skills with adaptive feedback: Study protocol for a simulation-based learning study on symptoms of learning and behavioural difficulties.",
+      "journal": "PloS one",
+      "year": "2026",
+      "doi": "10.1371/journal.pone.0361425",
+      "abstract": "BACKGROUND: This project uses simulated digital case scenarios to analyse diagnostic and intervention-related skills of teacher, school psychology, and medical students concerning primary school children's difficulties in mathematics and their hyperactive, inattentive and impulsive behaviours. Here, the conditions for an effective use of macro- and micro-adaptive feedback - powered by natural language processing (NLP) methods - compared to static feedback will be the focus. The aim is to identify effective types of feedback for students who differ in their prior diagnostic and intervention-related knowledge.\nMETHODS/DESIGN: We compare three groups of university students (medical students, school psychology students, and pre-service teachers) with varying professional specialisations and corresponding knowledge bases as learning prerequisites using simulated digital case scenarios. In validation study 1a, we analyse students' case processing and validate our measures for students' prior knowledge. Furthermore, the results are used for informing the design and refinement of micro- and macro-adaptive feedback. Validation study 1b investigates static, macro-adaptive, and micro-adaptive feedback. In Study 2, by using \"think aloud\"-methods and trace data, we investigate to what extent learners benefit differently from the processing of digital case scenarios in the absence of any feedback and what kind of cognitive, metacognitive, motivational learning processes occur. In study 3, we investigate how the form of feedback in the digital case scenarios affects students' acquisition of new diagnostic and intervention-related skills and how students process the different forms of feedback. Finally, Study 4 examines the extent to which different forms of feedback are helpful for students with low vs. high prior knowledge.\nDISCUSSION: This project will analyse which benefits feedback with different degrees of adaptivity can provide for learning diagnostic reasoning and the planning of related interventions, especially when considering potential interaction effects with learners' varying prior professional as well as diagnostic and intervention-related knowledge and diagnostic processing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43024674/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-13T23:51:53.251595+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43023777",
+      "title": "Caring for Patients Anywhere, Anyhow: How Emergency Department Crowding and Boarding Shapes Professional Identity in Emergency Medicine Training.",
+      "journal": "The western journal of emergency medicine",
+      "year": "2026",
+      "doi": "10.5811/westjem.64726",
+      "abstract": "INTRODUCTION: Emergency department (ED) boarding is a well-documented crisis associated with adverse patient outcomes, healthcare worker burnout, and moral injury. Although prior work has documented operational and educational impacts, including reductions in resident productivity and procedural exposure, less is known about how sustained boarding shapes professional identity formation. We sought to explore how sustained ED boarding shapes the learning experiences and professional identity formation of emergency medicine (EM) residents, as perceived by both residents and the attending physicians who train them.\nMETHODS: Using a constructivist paradigm, we conducted a qualitative study using semi-structured interviews with residents and attending physicians from a 4-year EM residency program with rotations across 5 clinical sites, between July and August 2025. Two researchers independently coded transcripts and iteratively refined a shared codebook, continuing until additional interviews were unlikely to add new insight, guided by the concept of information power. We used reflexive thematic analysis, treating researchers' clinical and analytic judgment as a resource for identifying patterns of meaning, and prioritized participants' own construction of meaning over the frequency of any single idea, consistent with an interpretive phenomenological approach.\nRESULTS: We interviewed 13 emergency physicians: 6 residents and 7 attending physicians (range: 1-30+ years after residency). Three overarching themes emerged: (1) Educational challenges and opportunities-boarding fragments diagnostic ownership, narrows the acuity spectrum, and limits authentic undifferentiated encounters, although attending physicians adapt through structured hypotheticals and micro-teaching); (2) Shifts in the clinical environment-operational and structural adaptations create educational dead space, constrain the therapeutic alliance, and generate role ambiguity around boarded patients); and (3) Moral strain and suffering-moral injury and combined suffering is not peripheral to training but embedded within it, shaping how residents interpret professional responsibility and integrity. The three themes exist in a triangular relationship, with suffering at the foundation.\nCONCLUSION: Boarding appeared to function as a formative context for professional identity formation, not merely a disruptive one. Residents described learning systems-level practice, advocacy, and emotional regulation, often through loss and moral injury, alongside attending physicians navigating the same. These findings suggest that recognizing boarding as a structural condition of training may reorient the responsibility of graduate medical education: formalizing adaptive teaching strategies, creating structured opportunities to process moral strain, and committing to advocacy that treats boarding as the educational crisis it is.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43023777/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-13T23:51:53.251576+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43021419",
+      "title": "Feasibility and perceived educational value of extended reality trauma simulation for emergency medical teams in a multinational training context.",
+      "journal": "Advances in simulation (London, England)",
+      "year": "2026",
+      "doi": "10.1186/s41077-026-00418-x",
+      "abstract": "BACKGROUND: Large-scale civil military medical live simulation exercises such as NATO Centre of Excellence for Military Medicine's (NATO MILMED COE) Vigorous Warrior (VW) series provide authentic environments to test interoperability and clinical performance of Emergency Medical Teams (EMTs). However, such exercises are resource intensive, logistically demanding, and infrequent, raising challenges for sustained workforce readiness. Extended Reality (XR) has emerged as a complementary modality with potential to extend access to trauma training, reduce costs, and support distributed learning. This study aimed to examine the educational feasibility of XR trauma simulation when embedded in multinational large scale live simulation.\nMETHODS: We conducted an educational feasibility study during Vigorous Warrior 2024 in Hungary, embedded within NATO MILMED COE's multinational large scale medical live simulation. Twenty-five EMT members from three countries (physicians, anaesthesiologists, nurses, and radiographers) participated in an XR-based penetrating chest trauma scenario using the MilExTS XR platform (Meta Quest 3 headset). Feasibility outcomes were evaluated across recruitment, implementation, usability, acceptability and perceived educational value using session logs, post-simulation surveys (Likert scales 1-5), and open-ended qualitative feedback. Data were analysed descriptively and thematically, in line with published feasibility frameworks for medical education.\nRESULTS: Recruitment and completion thresholds were fully achieved (100% participation, 100% survey completion). Acceptability was high, with 88% of participants rating XR as good or excellent for trauma training and indicating willingness to use it in future education. Two-thirds (66%) endorsed XR for enhancing teamwork, while 68% valued opportunities for individual decision-making practice in a safe environment. Usability findings were mixed: 56% of participants rated scenario realism as average or below, cited limited physiological fidelity, lack of tactile feedback, headset navigation challenges, and insufficient role differentiation. Qualitative data supported XR's perceived educational value while identifying areas requiring further technological and pedagogical development.\nCONCLUSION: XR trauma simulation demonstrated educational feasibility, high acceptability, and perceived learning value when embedded within a complex multinational large scale live simulation exercise. While limitations in realism and interface design remain, XR shows promise as a complementary modality for interprofessional trauma training. Further research should progress to efficacy testing, cost-effective analysis and curricular integration before wider adoption.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43021419/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-13T23:51:53.251557+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43019027",
+      "title": "Integrating U.S. embassy visits into global health education: student reflections on diplomacy-focused experiential learning.",
+      "journal": "Medical education online",
+      "year": "2026",
+      "doi": "10.1080/10872981.2026.2762625",
+      "abstract": "BACKGROUND: U.S. embassy visits offer a unique opportunity to examine the intersection of diplomacy and healthcare yet are rarely incorporated into health professions education. This study examined student reflections following a U.S. Embassy visit in North Macedonia to inform the integration of diplomacy-focused experiential learning into global health curricula.\nMETHODS: Twenty-one Ohio State University undergraduates (12 females; mean age=19.48±0.60 years) participated in an experiential learning activity at the U.S. Embassy-Skopje, North Macedonia, which included discussions with embassy personnel on diplomacy and healthcare delivery within a diplomatic setting, as well as an Embassy Health Unit tour. Immediately following the visit, students completed a structured written reflection describing a meaningful or surprising aspect of the experience and its influence on their understanding of diplomacy, healthcare, or international collaboration. Reflections were analyzed using Braun and Clarke's reflexive thematic analysis. Themes were developed through iterative coding and refinement, with the second author independently reviewing the thematic framework to confirm interpretations and achieve consensus.\nRESULTS: Reflexive thematic analysis identified three major themes-Expanding Conceptions of Diplomacy and the U.S. Foreign Service, Recognizing Healthcare as a Diplomatic Enterprise, and Broadening Professional Identity through Exposure to Global Health Careers-each comprising two related subthemes.\nDISCUSSION: Student reflections highlighted adaptability, resilience, cross-cultural communication, teamwork, and flexibility while revealing progression from knowledge to understanding to professional identity. The embassy visit expanded students' understanding of diplomacy while introducing previously unrecognized career pathways. Drawing on these findings, we propose a conceptual framework comprising four interconnected learning domains, suggesting that embassy visits provide a valuable component of global health education abroad.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43019027/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-13T23:51:53.251536+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43015011",
+      "title": "Evaluating learning formats in international collaborative nursing education on professional agency in perioperative sustainability: protocol for a mixed-methods, randomised pilot study.",
+      "journal": "BMJ open",
+      "year": "2026",
+      "doi": "10.1136/bmjopen-2026-124998",
+      "abstract": "INTRODUCTION: Perioperative care is a highly resource-intensive component of healthcare, with operating theatres consuming substantial energy and generating considerable waste and emissions. Sustainable perioperative practice is therefore essential to reduce environmental impact. However, there is limited understanding of how competencies in sustainable practice can be developed within operating theatre nursing education. In particular, little attention has been given to how educational interventions shape students’ professional agency in relation to sustainability. Collaborative Online International Learning (COIL) offers a pedagogical approach that supports reflective and intercultural learning and may offer opportunities to foster professional agency for sustainability. This protocol describes a mixed-methods, randomised, feasibility pilot study that aims to assess the feasibility and acceptability of implementing and evaluating two learning formats in international collaborative learning in theatre nursing education, while also generating preliminary insights into how these formats may influence students’ reflective work and expressions of professional agency.\nMETHODS AND ANALYSIS: A 90-minute synchronous online seminar focusing on sustainable theatre nursing practice across perioperative care phases will be delivered as part of the curriculum to operating theatre nursing students at Karolinska Institutet (Sweden) and Oslo Metropolitan University (Norway). Students will be randomly allocated (1:1) to one of two formats: (1) phase-specific COIL, in which small groups focus on a single perioperative phase, followed by whole-group sharing across phases, with documentation in a digital space; or (2) cross-phase COIL, in which small groups address all phases, document their work using a self-selected format and subsequently engage in whole-group comparison. A pragmatic sample of 24–36 students is anticipated. Primary outcomes are feasibility and acceptability indicators, including consent rates, questionnaire completion and follow-up rates, intervention fidelity, participant engagement and the feasibility of repeated questionnaire administration. Qualitative data, including collaborative outputs and observer field notes, will be analysed using reflexive thematic analysis informed by a conceptual model of professional agency and sustainability competence. Comparative analyses will explore differences in the complexity of students’ expressions of professional agency across learning formats. Quantitative data will include students’ perceptions of intercultural collaboration and learning, as well as attitudes towards sustainability in the operating theatre, assessed before the seminar and 1 week later. Because questionnaire responses are anonymous and cannot be linked at the individual level, baseline and follow-up data will be analysed as independent aggregate datasets. Quantitative findings will therefore be interpreted descriptively and will not be used to assess individual-level changes over time. Integration of qualitative and quantitative findings will be conducted at the interpretation stage using a triangulation approach.\nETHICS AND DISSEMINATION: The study has been approved by the Norwegian Agency for Shared Services in Education and Research (reference number 266740). In Sweden, the study was reviewed by the Swedish Ethical Review Authority (reference number 2026-00252-01), which concluded that the study did not require formal ethical approval under the Swedish Ethical Review Act and issued an advisory opinion. Participation in the research component is voluntary, and informed consent will be obtained. All data will be de-identified prior to analysis. Findings will be disseminated through peer-reviewed publications and conference presentations and will inform the design of a future randomised controlled trial (RCT) of an educational intervention aimed at supporting sustainable practice in operating theatre nursing education.\nSTUDY REGISTRATION: Open Science Framework (OSF; 10.17605/OSF.IO/YMF6V). Protocol version: 2.0 (23 September 2026), incorporating clarifications made prior to intervention delivery and outcome data collection.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43015011/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-13T23:51:53.251493+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43017675",
       "title": "Point-of-care ultrasound use in the Canadian Armed Forces: Current practices, barriers, and opportunities for integration.",
