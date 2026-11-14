@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-13T23:51:53.252020+00:00",
+  "generated_at": "2026-11-14T23:48:47.509324+00:00",
   "articles": [
+    {
+      "id": "43031767",
+      "title": "Effectiveness of Simulation-Based Training with Patients with Intellectual Disabilities on Students' Attitudes, Inclusive Health Practices, and Empathy.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02858-6",
+      "abstract": "BACKGROUND: Medical and nursing students often feel insufficiently prepared to care for individuals with intellectual disabilities. Simulation-based education represents an innovative approach by enabling direct contact in a safe learning environment with patient-centred feedback.\nOBJECTIVE: This study evaluates the effectiveness of a simulation-based intervention involving real expert patients with mild to moderate intellectual disabilities on students' relational and communication practices, immediately after the intervention and at six-week follow-up. Students' satisfaction was also assessed.\nMETHOD: A quasi-experimental study was conducted with 115 medical and nursing students assigned to either an experimental or waitlist control group. The experimental group participated in a simulation session involving an expert patient with intellectual disability. Measures of attitudes, empathy, and representations and practices in inclusive health were collected pre- and post-intervention. The experimental group also completed a satisfaction questionnaire and a 6-week follow-up survey.\nRESULTS: Fifty-eight students participated in the intervention and 57 formed the control group. Among the experimental group, 43 completed the follow-up. Compared with the control group, the intervention group showed significant improvements in affective and behavioural attitudes, representations and practices in inclusive health, and empathy towards intellectual disability. These effects were maintained at six weeks except for empathy. Students also reported increased comfort and confidence. Satisfaction with the intervention was high, and students highlighted the value of involving individuals with intellectual disabilities in the simulation.\nCONCLUSION: Simulation-based education involving expert patients improves students' self-reported attitudes toward individuals with intellectual disabilities, empathy, and inclusive healthcare practices. It represents a promising approach to promote more inclusive and patient-centred healthcare.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02858-6.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031767/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-14T23:48:47.509191+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43031741",
+      "title": "Reframing Professionalism Through Executive Function: A Multi-Institutional Analysis of Professionalism Lapses in Medical Education.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02912-3",
+      "abstract": "BACKGROUND: Professionalism is a core competency in medical education, yet challenges persist in translating professionalism expectations into observable, assessable, and teachable behaviors. Executive function (EF), a set of cognitive processes that support planning, self-regulation, emotional control, and adaptive behavior, may offer a complementary framework for understanding how professional behaviors may be enacted in practice.\nMETHODS: We conducted a multi-institutional mixed-methods exploratory study examining professionalism concerns through an EF lens. Medical educators were surveyed regarding professionalism lapses observed among learners in undergraduate and graduate medical education. Responses from 80 participants representing 64 institutions were coded into predefined EF domains using a structured coding framework. Descriptive analyses examined EF frequencies, regional distributions, and co-occurring EF domains. Open-ended responses underwent reflexive thematic analysis to explore broader perspectives regarding professionalism.\nRESULTS: Participants reported 425 professionalism concerns, yielding 646 EF coding occurrences. The most frequently identified EF domains were metacognition (18.0%), planning/prioritizing (17.0%), response inhibition (14.4%), and emotional control (13.5%). Common EF pairings included emotional control with response inhibition and metacognition with planning/prioritizing. Reflexive thematic analysis of 30 open-ended responses identified five themes: Professionalism as a Socio-Cultural Construct, Longstanding Professionalism Challenges Within Medical Education, Professionalism Behaviors Consistent with Executive Function Processes, Modern Professionalism Challenges, and the COVID-19 Pandemic as an Inflection Point.\nCONCLUSIONS: Professionalism concerns clustered around identifiable EF domains. An EF-informed framework may help operationalize professionalism by linking expectations to observable behaviors and may support more specific feedback, coaching, and assessment while preserving professionalism as a complex socio-cultural construct.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02912-3.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031741/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-14T23:48:47.509176+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43031695",
+      "title": "Cripping the Transition to Practice: A Longitudinal Qualitative Analysis of Disabled Doctors' First Year Experiences.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02873-7",
+      "abstract": "INTRODUCTION: The transition from medical student to doctor is demanding. Although research has explored preparedness and wellbeing, disabled doctors' experiences remain underexamined, risking a homogenised understanding of a process that is likely experienced unevenly across learner groups.\nMATERIALS AND METHODS: We conducted a longitudinal qualitative study using a phenomenological approach, following six disabled final-year medical students through their first year of postgraduate practice in the UK. All six completed interviews before and shortly after starting work, four completed a third interview, and two completed all four interviews. The 18 interviews were analysed using reflexive thematic analysis, with crip theory informing interpretation.\nRESULTS: We constructed four themes: negotiating legitimacy and belonging, living with the fluctuating pace of clinical practice, access work as ongoing labour, and seeking survivable futures. Belonging rose and fell across placements, access arrangements were repeatedly renegotiated, and fluctuations in pace shaped wellbeing and participants' sense of professional legitimacy. Difficulties did not follow a consistent trajectory of decline. Rather, participants developed strategies for navigating recurring tensions, often at significant personal cost. By the end of the year, some were orienting career planning toward contexts where practice felt sustainable.\nDISCUSSION: Transition for disabled doctors was recurrent and context dependent, with changing placements requiring renewed negotiation of disability legitimacy and access. PGME support should reduce the individualised labour of maintaining adjustments across rotations and address how expectations concerning pace and productivity shape supervision and judgements of competence.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02873-7.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031695/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-14T23:48:47.509160+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43026161",
+      "title": "Does the adult divisional clinical examination still reflect how physicians practise? A qualitative study of Royal Australasian College of Physicians Fellows' and trainees' perceptions.",
+      "journal": "Internal medicine journal",
+      "year": "2026",
+      "doi": "10.1111/imj.70667",
+      "abstract": "BACKGROUND: The Royal Australasian College of Physicians' (RACP) clinical examination remains a high-stakes barrier assessment for physician trainees in Australia and Aotearoa New Zealand. Its bedside long case and short case tasks are largely unchanged, despite a renewed basic training curriculum and advancing clinical practice, raising the question of whether the clinical examination still reflects how physicians practise.\nAIMS: To explore fellows' and trainees' perceptions of how well the clinical examination's bedside tasks align to contemporary physician practice.\nMETHODS: Purposive then snowball sampling recruited 10 fellows and five trainees across Australia and Aotearoa New Zealand. Semi-structured interviews, conducted until information power was reached, were analysed using reflexive thematic analysis.\nRESULTS: The long case was consistently valued as an authentic test of physician practice. Short case alignment was specialty-dependent: neurology was perceived as having enduring validity, whereas cardiology least reflected modern practice. Participants described real-world practice as hypothesis-driven rather than a formulaic, system-based routine and valued the clinical examination not only as an assessment of competence but as a shared experience that shapes professional identity.\nCONCLUSION: To our knowledge, this is the first study to assess the clinical examination through Kane's extrapolation inference. This work suggests a shift towards hypothesis-driven short case examination, prioritising manoeuvres because they reflect contemporary clinical management; it could enhance the clinical examination's validity while retaining the long case as the most valid component. Reform must also recognise the clinical examination's dual role in assessing competence and forming professional identity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43026161/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-14T23:48:47.509118+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43024674",
       "title": "Enhancing diagnostic and intervention-related skills with adaptive feedback: Study protocol for a simulation-based learning study on symptoms of learning and behavioural difficulties.",
