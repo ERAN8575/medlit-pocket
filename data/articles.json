@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-14T23:48:47.509324+00:00",
+  "generated_at": "2026-11-15T23:56:31.744106+00:00",
   "articles": [
+    {
+      "id": "43032910",
+      "title": "Preparedness of osteopathic medical students to address vaccine hesitancy: training and confidence.",
+      "journal": "Journal of osteopathic medicine",
+      "year": "2026",
+      "doi": "10.1515/jom-2026-0110",
+      "abstract": "CONTEXT: Vaccine hesitancy poses a growing threat to public health, contributing to measles resurgences and declining childhood vaccination coverage in the United States. Although physicians remain among the most trusted sources of vaccine information, formal training in vaccine communication is not consistently integrated into medical curricula. Osteopathic medical education emphasizes whole-person, patient-centered care, which closely aligns with the skills required for effective vaccine counseling. However, the preparedness of osteopathic medical students for vaccine-related communication has not been well characterized.\nOBJECTIVES: This study aimed to assess osteopathic medical students' perceptions of their curricular preparation for vaccine-related communication, as well as clinical-year students' real-world experiences and confidence in addressing vaccine hesitancy during rotations.\nMETHODS: A prospective cross-sectional anonymous online survey was administered via Research Electronic Data Capture (REDCap) to medical students enrolled in Doctor of Osteopathic Medicine (DO) programs across the United States. Participants were recruited through Student Osteopathic Medical Association (SOMA) communication channels and institutional listservs. The survey assessed demographics, clinical exposure to vaccine discussions, confidence in addressing vaccine hesitancy, curricular preparation, and perceived training needs utilizing 5-point Likert-scale items. Ordinal logistic regression and Welch's t tests compared preclinical (Osteopathic Medical Student [OMS]-1/2) vs. clinical (OMS-3/4) students, OMS-3 vs. OMS-4 students, and clinical vaccine discussion groups. Odds ratios (ORs) and p values were calculated on 95 % confidence intervals (CIs) between groups.\nRESULTS: A total of 1,415 osteopathic medical students completed the survey. Overall, 87.1 % reported no formal vaccine communication training, with 88.6 % of OMS1/2 students and 85.3 % of OMS3/4 students agreeing or strongly agreeing that vaccine communication should be formally included in their curriculum. Compared with preclinical students, clinical students were less likely to report adequate curricular preparation for addressing vaccine hesitancy (OR=0.67, 95 % CI [0.55, 0.81;] p<0.001), but reported greater agreement with having learned communication strategies to handle emotionally charged conversations (p<0.001), and greater confidence in addressing patient vaccine concerns (1.47, [1.21, 1.79;] p<0.001). OMS-4 students reported greater confidence than OMS-3 students in counseling vaccine-hesitant patients (1.85, [1.32, 2.58;] p<0.001). Most vaccine discussions occurred during family medicine rotations, with a larger total number of vaccine discussions in all clinical rotations associated with greater confidence (p<0.001). Qualitative themes from open-ended responses highlighted students' desire for simulation-based training, standardized patient encounters, and myth-specific communication tools, while expressing skepticism toward passive didactic approaches.\nCONCLUSIONS: Osteopathic medical students recognize vaccine hesitancy as a routine clinical challenge, agree that additional training in counseling would be helpful, and although clinical exposure builds confidence, this may occur unevenly and without structured design; formal training would help build this competence earlier and more equitably. Evidence-based tools, including motivational interviewing, simulation, and standardized patient encounters, align closely with osteopathic principles of whole-person care. Integrating these approaches into required curricula represents a practical and necessary step toward preparing future physicians to navigate both vaccine-related conversations and difficult conversations effectively.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032910/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-15T23:56:31.743642+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43032108",
+      "title": "Becoming a Doctor Together: Collaborative Learning as a Mediational Space for Professional Identity Formation in Medical Education.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02933-y",
+      "abstract": "Professional identity formation has become a concern in medical education, within sociocultural perspectives emphasizing participation, interaction, and meaning-making. Although collaborative learning is used in undergraduate curricula, its role in shaping identity trajectories, especially during early training, remains insufficiently understood. This study explored how medical students in early stages of an integrated curriculum based on collaborative learning construct and narrate their identities as learners and future professionals. We conducted a qualitative study within an interpretive paradigm using focus groups with 45 students transitioning from preclinical to clinical training. Data were analyzed following grounded theory principles through iterative coding, constant comparison, and category development. Students described collaborative learning as a cross-cutting element shaping both how they learned and who they were becoming. Four dimensions were identified: perception of the curriculum, knowledge construction in groups, personal transformation as learners, and professional projection. Across these dimensions, identity development emerged as a dynamic, tension-laden process characterized by negotiation, adaptation, and narrative reconstruction. Collaborative learning environments functioned not only as spaces for cognitive interdependence but also as contexts in which students were recognized as participants in a community of practice and constructed continuity between past experiences, present participation, and future professional aspirations. These findings suggest that collaborative learning can be understood as a mediational space for professional identity formation, where becoming a doctor is shaped through collective practices and narrative processes. This perspective extends sociocultural understandings of identity by showing that learning together is central not only to what students know, but to who they become.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032108/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-15T23:56:31.743617+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43032035",
+      "title": "\"It Felt Like Practicing Telemedicine While Learning About It\": A Reflexive Thematic Analysis of Medical Students' Reflective Diaries from a Telemedicine Elective Course Across two Cohorts.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02914-1",
+      "abstract": "BACKGROUND: Telemedicine has shifted from a niche modality to an established component of routine clinical practice in many health systems. Medical curricula are only beginning to address this shift. Reflective writing is increasingly used both as a pedagogical tool in medical education and as a data source for qualitative research on student attitudes. The experiences and conceptual journeys of pre-clinical medical students enrolled in dedicated telemedicine instruction are under-studied, particularly across multiple cohorts spanning the COVID-19 and post-pandemic periods.\nMETHODS: We conducted a reflexive thematic analysis of 81 reflective diaries written by students (predominantly second-year medical students) enrolled in an elective telemedicine course at a single Israeli medical school across two cohorts distinguished by consent procedure: a retrospective cohort (2019-2024, n = 39), in which students who had already submitted diaries as a routine course component were contacted by email in 2025 (after ethical approval was granted) and asked to consent retrospectively to use of their diaries in research; and a prospective cohort (2025, n = 42), in which students were informed at the start of the course that the diaries would be analyzed and were asked to enclose a signed consent form with the diary they submitted. Analysis followed Braun and Clarke's six-phase reflexive thematic analytic framework with an inductive orientation.\nRESULTS: Six overarching themes were identified: (1) a transformative conceptual journey from skepticism or naïveté to conviction; (2) telemedicine as the inevitable trajectory of medicine and a site of professional-identity formation; (3) recognition of telemedicine as a holistic discipline drawing on multiple lenses; (4) a productive tension between equity gains and erosion of the doctor-patient bond; (5) lived experience (as patient, family member, or in prior professional roles) functioning as an explicit interpretive lens; and (6) pedagogy and the medium of delivery, with the Zoom format read by students as enacting the course's argument. The thematic structure was stable across cohorts. Distributional shifts in the prospective (2025) cohort included articulation of artificial-intelligence displacement concerns, focused engagement with breaking-bad-news as a boundary case, named concerns about defensive prescribing, the war (October 2023 onward) as a catalyzing event alongside COVID-19, increased advocacy for converting the course from an elective to a curricular requirement, and emerging attention to online patient and clinician communities as a distinct dimension of digital medicine.\nCONCLUSIONS: This multi-cohort qualitative analysis identifies six stable themes and documents strong, consistent positive engagement with a pre-clinical telemedicine elective across both cohorts. Students describe the course as a formative and highly valuable learning experience, engage substantively with the multi-dimensional character of telemedicine, and read the Zoom delivery format as enacting the course's content - an effect we describe as pedagogical resonance. Differences in the articulation of certain sub-themes (notably AI-displacement concerns and humanistic boundary cases such as breaking bad news) were more prominent in the prospective (2025) cohort and reflect the evolving discourse on digital medicine; these are cross-sectional differences and do not warrant longitudinal or causal inference. Taken together, our findings make a strong case for the inclusion of dedicated telemedicine instruction as a core component of the pre-clinical medical curriculum.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02914-1.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43032035/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-15T23:56:31.743596+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43031859",
+      "title": "\"I Will Meet the Patient Wherever They Are At:\" Using Structural Competency and Simulation to Improve Attitudes and Practices Towards Structurally Vulnerable Patients.",
+      "journal": "Medical science educator",
+      "year": "2026",
+      "doi": "10.1007/s40670-026-02932-z",
+      "abstract": "INTRODUCTION: Structurally vulnerable patients experience worse health outcomes, exacerbated by healthcare workers' negative attitudes and limited understanding of structural barriers to care. Structural competency may improve attitudes towards structurally vulnerable patients, but the impact on attitudes and practices has not been rigorously evaluated, particularly in clinical settings.\nMETHODS: Medical students at Weill Cornell Medical College in New York City participated in a structural competency-informed curriculum aligned with transformative learning theory which incorporates clinical skills training with simulation and reflection during academic years 2022-2023 and 2023-2024. Authors conducted a convergent mixed-methods study using pre-post surveys and thematic analysis of reflections to explore if and how the curriculum impacted students' attitudes and practices towards structurally vulnerable patients. Surveys included the Medical Condition Regard Scale (MCRS) and items accessing self-efficacy in applying the curriculum's learning objectives.\nRESULTS: Of 190 students, 77 (40.5%) completed the pre-survey and 50 (26.3%) completed pre- and post-surveys. The mean pre-course MCRS score (n = 50) was 4.18/6 (SD 0.79) and the mean post-course MCRS score was 4.57/6 (SD 0.75), showing a mean increase of 0.39 (SD 0.49, t-test P < 0.001, Cohen's d = 0.81). Thematic analysis of 21 reflections identified four themes highlighting how students employed patient-centered communication strategies, utilized best practices in discharge planning, engaged in critical self-reflection and reframing, and appreciated how structural barriers shape health.\nCONCLUSION: Findings suggest that integrating education on structural factors with clinical skills training, reinforced through simulation and reflection, can improve self-reported attitudes and perceived self-efficacy in caring for structurally vulnerable patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43031859/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-15T23:56:31.743548+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "43031767",
       "title": "Effectiveness of Simulation-Based Training with Patients with Intellectual Disabilities on Students' Attitudes, Inclusive Health Practices, and Empathy.",
