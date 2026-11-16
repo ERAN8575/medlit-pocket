@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-11-15T23:56:31.744106+00:00",
+  "generated_at": "2026-11-16T23:55:38.879771+00:00",
   "articles": [
+    {
+      "id": "43038179",
+      "title": "Revising the imposter phenomenon: a social perspective on the development and manifestation of the imposter phenomenon among medical students.",
+      "journal": "Medical education online",
+      "year": "2026",
+      "doi": "10.1080/10872981.2026.2762639",
+      "abstract": "Imposter Phenomenon (IP) describes the internal experience of perceived intellectual insincerity, marked by fear of exposure as an intellectual fraud. Research underscores a high prevalence amongst medical students. To date, IP has largely been recognised as an internal, psychological experience. This study expands this perspective by exploring the complex social environments that shape the development, manifestation, and perpetuation of IP. It offers a novel dimension to understanding IP within the context of medical education. A mixed methods approach was employed, combining quantitative data from 315 survey respondents with qualitative insights from focus group discussions. 71.7% of respondents experienced clinically significant IP (CIPS ≥ 62), with female students reporting higher median scores (73.00) than males (66.50, p = .003). Reflexive thematic analysis identified four interrelated contextual factors shaping students' experiences of IP (1) societal expectations and cultures (2) societal stereotypes (3) workplace and school culture (4) meritocratic environments. These factors intersected with internal psychological processes, informing the proposed Doubt-Dread Cycle of self-doubt, perceived inadequacy and fear of failure. This study conceptualises IP as a dynamic interaction between internal dispositions and external social forces, operating on a continuum of severity influenced by an individual's environment. By situating IP within the socio-cultural context of medical education, this study highlights a need for both structural and cultural interventions that distribute responsibility across individuals, institutions, and the broader educational environment. This shared accountability promotes a more equitable model of medical education that acknowledges diverse learner identities, fosters a more supportive professional and educational environment, and ultimately reduces the negative impact of IP for our future doctors in training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43038179/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878943+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43037613",
+      "title": "Educational Impact of a High-Fidelity Simulation Workshop for Autologous Auricular Reconstruction.",
+      "journal": "The Journal of craniofacial surgery",
+      "year": "2026",
+      "doi": "10.1097/SCS.0000000000013611",
+      "abstract": "BACKGROUND: Autologous auricular reconstruction requires immense technical skill and continued experience. This study evaluates the efficacy of a high-fidelity simulation workshop to teach the principles of microtia repair.\nMETHODS: Plastic surgery attending surgeons, residents, and sub-internship students from various institutions were invited to attend a one-day workshop on carving ear frameworks from 2 low-fidelity materials: modeling compound and potatoes. Participants then created a complete ear construct from synthetic chondral cartilage shaped as the 6th to 9th ribs. Participants were asked to complete a microtia repair confidence scale at the start and end of the workshop, and an additional feedback survey after the workshop.\nRESULTS: Thirty participants attended across 2 separate workshops: 1 attending craniofacial surgeon (3%), 23 integrated residents (76.7%), 4 independent residents (13.3%), and 3 medical students (10%). Most (93%) reported no prior operative experience with autologous auricular reconstruction. Mean total confidence scores improved by 54%, from 23.5 ± 8.2 pre-workshop to 36.1 ± 7.1 post-workshop (P<0.001). Participants reported significant knowledge gains regarding ear anatomy (P=0.024), rib cartilage anatomy (P=0.037), microtia classification (P=0.001), preoperative planning (P<0.001), and framework design (P<0.001). Nearly all agreed the workshop was valuable (97%) and that practicing with low-fidelity materials enhanced learning (93%).\nCONCLUSION: This study describes a simulation workshop including low-fidelity and high-fidelity models that significantly increased understanding of microtia repair and confidence performing autologous auricular reconstruction. Integrating this workshop into residency and craniofacial fellowship can help trainees develop the skills and knowledge necessary to perform this complex procedure.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43037613/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878918+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43036392",
+      "title": "AI hallucinations in health professions education: A mixed-methods evaluation of citation, factual, and data accuracy.",
+      "journal": "Digital health",
+      "year": "2026",
+      "doi": "10.1177/20552076261493048",
+      "abstract": "BACKGROUND: Generative AI is transforming health professions education, but AI hallucinations pose risks to academic integrity. Existing evidence is largely descriptive, leaving error mechanisms poorly understood.\nOBJECTIVES: This study evaluated AI hallucination prevalence, severity, and mechanisms across health professions education.\nMETHODS: Using a sequential explanatory mixed-methods design, twenty prompts (citation, factual, data-claim) were submitted to ChatGPT (GPT-5.2, free-tier), yielding 80 responses (four generations per prompt). Data were analyzed collectively. Two PhD-level reviewers with medical and nursing backgrounds assessed outputs using a structured hallucination checklist. Quantitative analyses (chi-square, Kruskal-Wallis) were integrated with qualitative thematic analysis of reviewer justifications.\nRESULTS: Hallucinations occurred in 61.3% of responses; 48.9% of these were severe. Prevalence and severity were highest in citation-focused prompts (96.9%), followed by factual (62.5%) and data-claim prompts (12.5%) (χ2(2) = 41.16, p < .001; η2 = 0.63). Qualitative analysis revealed four mechanisms: fabricated/hybrid citations, bibliographic inconsistencies, unsupported numerical extrapolations, and conceptually inaccurate framework descriptions. Hallucinations frequently blended authentic and fabricated elements. Conclusions: AI hallucinations in health professions education are prevalent, domain-sensitive, and often severe. AI cannot function as an autonomous scholarly authority; structured verification and AI literacy training are essential.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036392/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878892+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43036350",
+      "title": "Facilitators and Barriers to Lifestyle Change Among Medical Students: A Longitudinal Lifestyle Medicine Intervention.",
+      "journal": "American journal of lifestyle medicine",
+      "year": "2026",
+      "doi": "10.1177/15598276261505815",
+      "abstract": "Lifestyle behaviors are major modifiable determinants of noncommunicable chronic diseases. Lifestyle Medicine promotes health through six pillars. Medical students are particularly vulnerable to unhealthy behaviors due to academic workload and stress. This study aims to identify facilitators and barriers to lifestyle change among medical students participating in a structured Lifestyle Medicine intervention. This longitudinal and interventional mixed-methods study followed six medical students from a Brazilian public university during a 4-month intervention including lifestyle education, self-assessment, goal setting, habit tracking, anthropometric assessment, and focus groups. Data were coded using the Consolidated Framework for Implementation Research and subsequently organized according to the Social Determinants of Health model. Self-efficacy emerged as the central facilitator, supported by organization, discipline, motivation, and self-monitoring. Other facilitators included social support, group engagement, and supportive environments. Barriers included emotional and motivational challenges, excessive smartphone use, academic workload, negative family influence, and social media pressure. Body weight and BMI remained stable, while mean muscle mass increased (+0.98 kg) and fat mass decreased (-1.07 kg). Lifestyle change among medical students is influenced by interacting personal, social, and environmental determinants. Integrating lifestyle education into medical curricula may benefit well-being and future patient counseling.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43036350/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878863+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43035813",
+      "title": "Institutional masking: a qualitative study of inaccurate reporting in psychological screening among medical postgraduates under graduation pressure.",
+      "journal": "BMC psychology",
+      "year": "2026",
+      "doi": "10.1186/s40359-026-05398-1",
+      "abstract": "BACKGROUND: Psychological screening is widely used in medical education to identify distressed students. However, medical postgraduates, defined in the Chinese context as currently enrolled Master 's and Doctoral students in clinical or academic medical programs (equivalent to \"graduate students\" in the U.S. system, not post-graduation trainees), often give inaccurate responses to avoid perceived consequences. The mechanisms behind this phenomenon remain unclear.\nPURPOSE: To understand how and why medical postgraduates report inaccurately in psychological screening, and to explore their interactions with institutional support systems during the high-pressure graduation phase.\nMETHODS: A qualitative design with a thematic analysis approach was used. Semi-structured interviews were conducted with 25 final-year medical postgraduates purposively sampled from three Chinese medical schools and 6 (administrators, program coordinators, and counselors) recruited to provide complementary perspectives on screening policies and practices. Sampling continued until data saturation.\nRESULTS: Three main themes emerged: (1) Formalized experience of screening, students knew the \"correct\" answers, viewed screening as institutional compliance rather than support, and feared truthful responses; (2) Structural gaps in the support system, contradictory roles of advisors, perceived inaccessibility of counseling services, and limited peer support; and(3) a core dynamic we term \"institutional masking\", institutions fulfilled administrative duties through screening, students protected themselves by performing \"normality,\" while genuine distress stayed hidden.\nCONCLUSIONS: The findings suggest that inaccurate reporting in psychological screening may be understood not simply as \"non-cooperation\" but as a rational response to institutional distrust, stigma, and lack of meaningful feedback. This dynamic, which we term institutional masking, requires shifting from surveillance-based screening to trust-based support.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035813/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878836+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43035440",
+      "title": "Usability and user experience of an educational electronic prescribing system to train medical students: a mixed-methods approach.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10020-4",
+      "abstract": "BACKGROUND: Prescribing is a core responsibility of physicians, with electronic (e-)prescribing becoming the global standard. However, e-prescribing is insufficiently integrated in medical curricula, creating a gap between education and actual practice. To address this, we developed Edups, an educational electronic prescribing system that enables medical students to practice prescribing safely in a realistic environment. This study evaluated the usability and user experience of Edups among medical students in a real-world educational setting.\nMETHODS: A prospective mixed-methods pilot study was conducted among first- and final-year master's medical students at Erasmus MC University Medical Center (the Netherlands) from October 2023 to April 2024. In total, 136 students were invited to participate in our study after using Edups during two pharmacotherapy classes. Participants were invited to complete the System Usability Scale (SUS; 5-point Likert scale; 0-100) survey and participate in semi-structured interviews. Data were analyzed using descriptive statistics and inductive thematic analysis.\nRESULTS: Of 135 students invited to participate, 91 (67.4%) completed the survey. Of these, 10 (7.4% of the invited cohort) also participated in interviews. The mean SUS-score was 75.0 ± 12.0, indicating good usability with room for improvement. Interviews highlighted Edups' educational relevance, realistic features, and usefulness. Suggested improvements focused on reducing system complexity, improving feature integration and feedback visibility, and providing clearer in-session instructions.\nCONCLUSIONS: Edups bridges a critical gap in medical education by offering a realistic and safe environment to develop prescribing competencies. While participants valued its authenticity and feedback features, targeted usability refinements are required to optimize integration into medical curricula and improve educational impact.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43035440/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-16T23:55:38.878786+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43032910",
       "title": "Preparedness of osteopathic medical students to address vaccine hesitancy: training and confidence.",
