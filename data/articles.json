@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-16T23:55:38.879771+00:00",
+  "generated_at": "2026-11-18T00:00:27.082510+00:00",
   "articles": [
+    {
+      "id": "43043081",
+      "title": "Shortcomings of Resident Education Regarding Female Bladder Pain Syndrome.",
+      "journal": "Military medicine",
+      "year": "2026",
+      "doi": "10.1093/milmed/usag524",
+      "abstract": "INTRODUCTION: The 2011 RAND Interstitial Cystitis Epidemiology study reported 6.5%, or approximately 8 million women, across the United States fit diagnostic criteria for female bladder pain syndrome. Patients with this condition have an increased rate of concurrent chronic pain and mental health disorders, leading to significant loss of function at work and at home. Many women are seen by at least 5 physicians over 4 years before being diagnosed. If not properly diagnosed and treated, this condition can negatively impact the military workforce, operational readiness, and the ability to deploy. Despite the significance and consequences of female bladder pain syndrome, it remains underdiagnosed and undertreated, which is likely exacerbated by a knowledge gap in resident education. Therefore, we sought to identify the impact of an educational intervention on Gynecologic Surgery & Obstetrics and Urology military resident physician knowledge and comfort in treating female bladder pain syndrome.\nMATERIALS AND METHODS: This study received a not-research determination status from the institutional review board at Walter Reed National Military Medical Center and San Antonio Military Medical Center. This is a cross-sectional study with a pre- and post-design. All training levels of Gynecologic Surgery & Obstetrics and Urology residents at both military treatment facilities were eligible to participate. Participants completed non-validated questionnaires assessing knowledge and comfort level in evaluating and treating female bladder pain syndrome. An educational slide-based presentation was given, followed by repeat questionnaire administration.\nRESULTS: Twenty-four residents completed the study from 2022 to 2024 at both institutions. Before the intervention, 71%-83% of residents reported very low or low comfort with evaluation, work-up, counseling, and treatment options for female bladder pain syndrome. Wilcoxon signed-rank test revealed that questionnaire test scores (0-10) across both specialties were significantly improved post-intervention (median 7) compared to pre-intervention (median 5, z = 3.36, P = .0008, with large effect size r = 0.73). Wilcoxon signed-rank test showed that comfort scores across both specialties were significantly improved post-intervention (median 6.5) compared to pre-intervention (median 4, z = 3.80, P = .0001, with large effect size r = 0.92). There was a 29%-38% decrease in residents who felt very low to low comfort post-intervention.\nCONCLUSIONS: Despite female bladder pain syndrome being a familiar condition encountered in Gynecologic Surgery & Obstetrics and Urology, we demonstrate a significant knowledge gap in military resident education, with low comfort levels managing this patient population. A brief and easily adaptable educational intervention significantly improved resident knowledge and comfort level to better diagnose and treat this important patient population. Incorporation of additional educational curricula within military resident education is necessary to increase exposure and improve physician comfort with diagnosis and management of patients with female bladder pain syndrome, particularly as the underlying pathophysiology and novel treatment options continue to be elucidated. A more tailored and expanded curriculum may additionally benefit by optimizing timely access and care with the goals of ultimately improving service member wellness, functionality, and operational readiness while reducing military healthcare costs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43043081/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-18T00:00:27.082173+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": true
+    },
+    {
+      "id": "43042486",
+      "title": "Approaches to conflict management education in health professions: A scoping review.",
+      "journal": "Medical teacher",
+      "year": "2026",
+      "doi": "10.1080/0142159X.2026.2749545",
+      "abstract": "INTRODUCTION: Conflict in healthcare is common and can undermine patient safety, team cohesion, and clinician well-being when poorly managed. Despite its importance, conflict management education is inconsistently implemented and often embedded within broader leadership or communication curricula rather than taught as a distinct professional competency. This scoping review aimed to characterize current educational approaches and identify gaps to inform future curriculum development.\nMETHODS: We conducted a scoping review following Arksey and O'Malley's framework, enhanced by Levac, and reported according to PRISMA-ScR guidelines. Comprehensive search strategies were designed and after duplication removal, 2716 citations underwent title and abstract screening, and 214 full text articles were reviewed. Eighty-seven articles met inclusion criteria. Data extractions captured instructional methods, learner populations, theoretical frameworks, assessment strategies, and educational outcomes. Thematic analysis synthesized conceptual and contextual patterns across studies.\nRESULTS: Studies spanned 15 countries and diverse learner groups. Forty studies focused specifically on conflict management, while 47 incorporated conflict management within broader leadership or communication curricula. Educational approaches frequently used multimodal and experiential instructional approaches, including didactics, case-based discussion, role-play, simulation, improvisation, and virtual reality. Emotional intelligence and reflective practise were frequently integrated to support self-awareness, emotional regulation, and relational skills. Most studies assessed short-term learner outcomes corresponding to Kirkpatrick levels 1-2, while relatively few evaluated behavioural change or organisational impact. Using thematic analysis, the following overarching themes were identified as influencing educational effectiveness: experiential and multimodal learning, challenges in assessing relational competencies, learner readiness and psychological safety, and the influence of organisational support and culture.\nDISCUSSION: Conflict management education is expanding across health professions education but remains heterogeneous in instructional design, theoretical grounding, and evaluation approaches. Effective interventions integrate experiential learning, emotional intelligence, psychological safety, and authentic clinical scenarios. Future work should prioritise theory-informed and organisationally supported approaches capable of evaluating sustained impact within real clinical environments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43042486/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-18T00:00:27.082152+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": true
+    },
+    {
+      "id": "43040936",
+      "title": "Navigating the credibility economy: Non-physician leaders' experiences in medical education.",
+      "journal": "Medical education",
+      "year": "2026",
+      "doi": "10.1111/medu.70360",
+      "abstract": "INTRODUCTION: Non-physician PhD leaders contribute substantially to the educational work of medical education (ME), yet their leadership experiences within physician-dominated settings remain underexamined. As ME increasingly relies on diverse disciplinary expertise to support scholarship and faculty development, understanding how these leaders experience and enact leadership is important. This study explored how non-physician PhD leaders navigate leadership in these environments.\nMETHODS: Using constructivist grounded theory (CGT), we conducted semi-structured Zoom interviews (60-90 min) with 17 non-physician PhD leaders holding formal educational leadership roles in medical schools across North America, Western Europe, Australia and South Africa. CGT enabled examination of how credibility is socially constructed and negotiated in physician-dominated settings. Participants were purposively and theoretically sampled to elaborate emerging concepts. Data collection and analysis proceeded iteratively until theoretical sufficiency was reached. Reflexive practices were integrated throughout analysis.\nRESULTS: Analysis generated credibility economy as the core category explaining how participants navigated physician-dominated environments. This credibility economy comprised two interrelated processes: earning credibility and leveraging credibility. Earning credibility involved demonstrating scholarly expertise, developing linguistic fluency to align with physician discourse and using strategic attunement to read contexts and manage interactions. Leveraging credibility involved addressing structural barriers, cultivating strategic allyship and diplomacy and reframing perceptions of outsider status. Together, these processes illustrated the ongoing, context-dependent work required for non-physician leaders to establish and sustain influence in physician-dominated settings.\nCONCLUSIONS: Non-physician PhD leaders engage in continuous, strategic efforts to be recognized as legitimate contributors within ME's physician-centred structures. Understanding these dynamics can inform mentoring, leadership development and institutional practices that better support non-physician leaders and strengthen the diversity of expertise underpinning ME's educational mission.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43040936/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-18T00:00:27.082102+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": true
+    },
     {
       "id": "43038179",
       "title": "Revising the imposter phenomenon: a social perspective on the development and manifestation of the imposter phenomenon among medical students.",
