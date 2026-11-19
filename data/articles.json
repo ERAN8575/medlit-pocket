@@ -1,6 +1,60 @@
 {
-  "generated_at": "2026-11-19T00:02:08.279167+00:00",
+  "generated_at": "2026-11-19T23:56:48.650456+00:00",
   "articles": [
+    {
+      "id": "43054194",
+      "title": "Governance, leadership and organisational capacity for decentralised medical training: insights from a South African medical school.",
+      "journal": "Frontiers in public health",
+      "year": "2026",
+      "doi": "10.3389/fpubh.2026.1942514",
+      "abstract": "INTRODUCTION: Decentralised medical training has become a strategic approach for strengthening primary healthcare, expanding clinical training capacity and addressing health workforce shortages in South Africa. Despite its growing adoption, limited research has examined the governance, leadership and organisational conditions required for its successful implementation. Guided by Transformational Leadership Theory and Servant Leadership Theory, this study explores the governance structures, leadership practices and institutional readiness necessary to support sustainable decentralised medical training within a South African medical school.\nMETHODS: An exploratory qualitative research design was adopted employing semi-structured interviews with 16 participants from a university and affiliated Department of Health clinical training sites in KwaZulu-Natal. Purposive and snowball sampling techniques were used to recruit participants and data were analysed thematically using NVivo 12.\nRESULTS: The findings demonstrate that effective implementation of decentralised medical training depends on collaborative governance, transparent communication, stakeholder engagement and distributed leadership. The results further highlighted the need for curriculum transformation, faculty development, adequate infrastructure, sustainable funding and strong partnerships between universities and the Department of Health. Organisational readiness was perceived as a multidimensional construct extending beyond the expansion of clinical placement sites.\nDISCUSSION: The findings demonstrate that decentralised medical training is a complex organisational transformation requiring the integration of effective governance, adaptive leadership and institutional capacity. The study extends existing scholarship by proposing an integrated governance and leadership framework that combines Transformational Leadership and Servant Leadership. The findings offer practical guidance for universities and policymakers seeking to strengthen decentralised medical training and improve the responsiveness and sustainability of health professions education in resource-constrained settings.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43054194/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T23:56:48.650326+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43052753",
+      "title": "Near-peer teaching on critical appraisal skills learning: a qualitative study.",
+      "journal": "BMC primary care",
+      "year": "2026",
+      "doi": "10.1186/s12875-026-03526-9",
+      "abstract": "BACKGROUND: Near-peer learning involves guidance and knowledge transfer between individuals of similar experience levels, often employed in medical education. This model is particularly relevant in family medicine residency, where increased workload and limited faculty availability necessitate alternative teaching approaches.\nOBJECTIVE: To explore the contribution of near-peer learning to critical appraisal training within family medicine residency and examine residents' experiences as both mentees and mentors over time.\nMETHODS: This phenomenological qualitative study involved two rounds of semi-structured interviews with seven family medicine residents during their junior and senior years of training. A purposive sampling method was used. Thematic analysis followed the COREQ guidelines, with triangulation and iterative coding to ensure rigor. Participants' experiences with near-peer learning during article review sessions were analyzed, and interviews were transcribed, translated, and reviewed collaboratively.\nRESULTS: Three major themes emerged during the first year: (1) Support, (2) Motivations, and (3) Obstacles. In the third year, a single overarching theme was identified: Mutual Growth Through Near-Peer Interaction. Residents reported that the model promoted cognitive development, emotional support, time management, and communication. Challenges included scheduling conflicts, differing personality traits, and concerns about mentor competence. Transitioning to mentor roles enhanced residents' self-awareness and academic confidence.\nCONCLUSION: This qualitative follow-up study shows that the value of near-peer learning evolves as residents transition from junior-year mentees to senior-year mentors. The shift highlights academic and emotional support, the development of teaching identity, and professional growth. Integrating longitudinal near-peer experiences into family medicine training may strengthen mentorship capacity and collaborative learning environments.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052753/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T23:56:48.650304+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43052599",
+      "title": "Pope Leo XIV: The First American Pope and the Practice of Medicine.",
+      "journal": "Journal of religion and health",
+      "year": "2026",
+      "doi": "10.1007/s10943-026-02838-5",
+      "abstract": "As papal elections provide the Church with an opportunity to renew itself, lessons from this renewal can extend beyond the Church, providing insights that can be applied in other areas such as healthcare. In the early stages of Pope Leo XIV's papacy, several key themes have emerged, many of which relate to issues encountered by the healthcare system in the United States. The key themes of humanity in healthcare, reconciliation, doctrinal firmness, and caring for the marginalized as lessons from Leo XIV to translate to the healthcare setting are presented in this work. These address the challenges of AI in medicine, recognizing the past missteps of organized medicine, having clear and credible medical guidelines, and prioritizing healthcare delivery to the underserved. In this work, thematic analysis and theological reflection are employed to connect the themes of Leo XIV's papacy to pressing challenges in the healthcare setting.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43052599/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T23:56:48.650257+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43048686",
       "title": "Education Research: A Novel Clerkship-Level Approach to Disability Education: Integrating Patient and Professional Identity Through Adaptation and Inclusion.",
