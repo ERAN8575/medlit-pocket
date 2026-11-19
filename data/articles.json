@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-11-18T00:00:27.082510+00:00",
+  "generated_at": "2026-11-19T00:02:08.279167+00:00",
   "articles": [
+    {
+      "id": "43048686",
+      "title": "Education Research: A Novel Clerkship-Level Approach to Disability Education: Integrating Patient and Professional Identity Through Adaptation and Inclusion.",
+      "journal": "Neurology. Education",
+      "year": "2026",
+      "doi": "10.1212/NE9.0000000000200379",
+      "abstract": "BACKGROUND AND OBJECTIVES: Persons with disabilities experience inequities in health care, partly driven by clinicians' limited training in disability-competent communication and accommodations. Disability education remains heterogeneous, with few framing disability as both a patient and physician identity. We developed a clerkship-level curriculum to address this gap. Learner objectives were to differentiate the medical and social models of disability; describe disability-inclusive communication; recognize disability as both a patient and physician identity; identify accessibility barriers and accommodations; and support disability-inclusive care.\nMETHODS: A multidisciplinary team developed a disability curriculum within a required third-year neurology clerkship. Students completed asynchronous preparation and observations, followed by a workshop incorporating team-based simulation and structured debriefing. Anonymous preworkshop and postworkshop surveys assessed understanding, attitudes, and comfort. Quantitative comparisons and exploratory thematic analysis evaluated learner outcomes.\nRESULTS: All 267 enrolled third-year medical students completed the preworkshop survey; 204 completed the postworkshop survey, with attrition reflecting clerkship absences. Significant improvements were observed in understanding of the medical and social models of disability (24.7%-98.5%; +73.8%; 95% CI 67.7%-78.7%), comfort discussing disability with patients (53.6%-98.0%; +44.4%; 95% CI 37.9%-50.6%), discussing accommodations (63.3%-98.0%; +34.7%; 95% CI 28.4%-40.8%), and comfort supporting colleagues with disabilities (35.2%-97.1%; +61.9%; 95% CI 55.1%-67.6%) (all p < 0.0001). Attitudes toward physicians with disabilities were favorable at baseline and remained high (97.0% vs 99.0%; +2.0%; 95% CI -0.9% to 4.9%; p = 0.20). Respondents rated the curriculum excellent or very good (95.6%; 95% CI 91.8%-97.7%). Students agreed that the workshop would benefit future practice (99.0%; 95% CI 96.5%-99.7%) and improve patient outcomes (99.5%; 95% CI 97.2%-99.9%). Exploratory thematic analysis identified 5 themes: open communication and active listening, individualized accommodations, collaborative adaptation, structural accessibility, and the value of time in inclusive care.\nDISCUSSION: The curriculum improved attitudes, comfort, and recognition of disability as both patient and physician identity. Key lessons include the value of experiential, team-based learning; explicit framing beyond deficit-based models; and clinical observation integrated with structured reflection. Future studies should examine longitudinal retention and transfer to clinical practice.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048686/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278807+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43048385",
+      "title": "Faculty Perceptions and Use of Pre-Work in Undergraduate Medical Education.",
+      "journal": "Journal of medical education and curricular development",
+      "year": "2026",
+      "doi": "10.1177/23821205261499200",
+      "abstract": "BACKGROUND: The importance of self-directed learning in medical education has reached near consensus among medical education professionals. Medical students in pre-clerkship courses are frequently asked to engage in independent learning before class sessions by completing pre-work. Despite the prevalence of pre-work, to our knowledge, no study to date has examined the reasons faculty assign pre-work and their expectations for its use.\nMETHODS: Medical school faculty responsible for developing and/or assigning pre-work from institutions across the United States were surveyed to identify patterns in their practices and perspectives related to pre-work. The survey included eleven multiple choice/Likert scale items and two optional, open-ended prompts. Respondents' answers to Likert scale questions were analyzed quantitatively, and comments underwent thematic analysis.\nRESULTS: Ninety faculty responses were analyzed. Respondents reported assigning a variety of resources for pre-work including textbook readings, scientific papers, and videos. Most respondents agreed that pre-work is important for students to learn material on their own (88%), practice independent learning (85%), plan their studying (74%), and self-assess their knowledge (66%). Despite an overwhelming consensus that pre-work is valuable for student learning (99%), barely half of respondents were satisfied with student use of pre-work (52%). They cited variable expectations among faculty for pre-work use, time limitations, differing preferences for learning resources, and a lack of student and faculty investment in pre-work as barriers to successful pre-work implementation.\nCONCLUSION: In this observational study, we identified a near-universal faculty belief in the importance of pre-work but a broad range of expectations for its use and frustration with its implementation. Our findings highlight opportunities and challenges for successful pre-work incorporation in undergraduate medical education curricula.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43048385/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278792+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43047859",
+      "title": "Policing the pipeline: Resident physician voices on discipline, racialized professionalism, and who gets to finish training.",
+      "journal": "Health equity",
+      "year": "2026",
+      "doi": "10.1177/24731242261495348",
+      "abstract": "INTRODUCTION: Residency assessments (e.g., \"professionalism,\" \"communication,\" \"fit\") often rely on locally defined narratives that encode bias. We describe how residents experience evaluation and discipline in U.S. GME and how identity, hierarchy, and culture shape surveillance, escalation, and support.\nMETHODS: Qualitative interview study nested within a national survey of 1,755 residents. Using purposive sampling, we conducted 50 interviews with U.S. medical and surgical residents across race/ethnicity, gender, immigration status, specialty, region, and PGY. A single interviewer conducted videoconference interviews (verbal consent; audio-recorded; professionally transcribed). Two coders performed reflexive thematic analysis in ATLAS.ti; saturation occurred at ∼45 interviews.\nRESULTS: Participants (46% Black; 64% ciswomen; 78% medical specialties) reported three themes: (1) Racism, power, and marginalization: an implicit \"default physician\" (White, cisgender, male) shaped trust, scrutiny, and protection, leaving marginalized residents a higher bar and narrower margin for error. (2) Evaluation and discipline: remediation/probation was often sudden, vague, and personality-focused, with unclear exit criteria and uneven enforcement; structured, skill-focused remediation was uncommon but helpful. (3) Institutional response: Diversity Equity & Inclusion (DEI) efforts were frequently perceived as performative; meaningful support depended on leaders and was not standardized.\nCONCLUSIONS: GME disciplinary structures can selectively police identity and hierarchy rather than promote learning. Aligning GME with its public mission requires transparent standards, skill-based remediation, and accountability for biased processes.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43047859/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278777+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43046052",
+      "title": "Transforming medical ethics education: a scoping review of experiential, digital, and AI-integrated pedagogies.",
+      "journal": "BMC medical ethics",
+      "year": "2026",
+      "doi": "10.1186/s12910-026-01578-1",
+      "abstract": "BACKGROUND: Medical ethics education plays a central role in preparing health professionals for complex clinical decision-making. However, rapid technological advances, evolving healthcare systems, and increasingly intricate ethical dilemmas have highlighted potential limitations of relying exclusively on traditional lecture-based approaches.In response, a wide range of innovative educational strategies has emerged, yet a comprehensive overview of these approaches remains limited. This scoping review aimed to map and synthesize recent innovations in medical ethics education, identify their educational outcomes, and highlight key challenges and emerging trends across health professions education.\nMETHODS: A scoping review was conducted in accordance with established methodological frameworks and the PRISMA Extension for Scoping Reviews (PRISMA-ScR). PubMed, Scopus, Web of Science, and Google Scholar were searched for English-language publications from January 2022 to March 2025. Two reviewers independently conducted the searches, screened titles and abstracts, assessed full-text reports, and charted data using predefined eligibility criteria and a standardized data-charting form. Disagreements at any stage were resolved through discussion; when consensus could not be reached, a third reviewer was consulted. Forty studies were included and synthesized descriptively using narrative and thematic analysis.\nRESULTS: The 40 included studies covered undergraduate, postgraduate, and continuing education across multiple health professions. The reported innovations were organized into four interconnected domains: (1) learner-centered pedagogical strategies, including experiential, case-based, problem-based, game-based, and discussion-based learning; (2) technology-enhanced approaches, including immersive technologies, digital platforms, mobile learning, and AI-related curricula; (3) reflective and authentic assessment approaches, including portfolios and project-based or multimodal assessments; and (4) implementation enablers, particularly faculty development, institutional support, and protected curricular time. Across the included literature, authors reported outcomes related to ethical sensitivity, moral reasoning, learner engagement, reflective capacity, and preparedness for digital and AI-related ethical challenges.\nCONCLUSIONS: Recent literature indicates growing interest in experiential, reflective, context-sensitive, and technology-supported approaches to medical ethics education. The included studies reported potentially beneficial educational outcomes; however, heterogeneity in study designs, settings, learner populations, and outcome measures, together with the absence of formal quality appraisal, limits conclusions about comparative effectiveness and causal impact. Faculty development, institutional support, and longitudinal curricular integration emerged as relevant implementation considerations. Further research using validated measures, longer follow-up, and appropriately controlled designs is needed to clarify which approaches may be beneficial, for whom, and in which contexts.\nREGISTRATION: The review protocol was registered on the Open Science Framework (OSF; DOI: https://doi.org/10.17605/OSF.IO/UQSJC ).",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43046052/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278762+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43044609",
+      "title": "Military-Civilian Partnerships in Disaster Management.",
+      "journal": "The Surgical clinics of North America",
+      "year": "2027",
+      "doi": "10.1016/j.suc.2026.09.002",
+      "abstract": "Military-civilian partnerships (MCPs) are a strategic necessity for modern medicine. By bridging the gap between military medical providers and local civilian hospitals, these alliances ensure both sectors are prepared for the changing environment of large-scale disasters. MCPs enable a two way transfer of knowledge between military and civilian medical providers and institutions. For civilian providers, MCPs offer access to effective triage and complex casualty management. For military providers, providing clinical repetitions helps maintain skills. The future of MCPs and evolving disaster management is critical for the readiness of medical centers.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044609/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278745+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43044533",
+      "title": "A Game-Based Educational Intervention to Develop Diagnostic Reasoning in Undergraduate Surgical Education: The Diagnóstica Bien Board Game.",
+      "journal": "Journal of surgical education",
+      "year": "2026",
+      "doi": "10.1016/j.jsurg.2026.104256",
+      "abstract": "OBJECTIVE: To explore undergraduate medical students' perceptions of Diagnóstica Bien, a game-based educational intervention designed to simulate the diagnostic reasoning process during the evaluation of patients presenting with acute abdominal pain, and to explore its perceived contribution to the development of diagnostic reasoning in undergraduate surgical education.\nMETHODS: The educational intervention was implemented among 92 seventh-semester undergraduate medical students enrolled in a surgical course at a private medical school in Mexico. Diagnóstica Bien is an educational board game designed to reproduce the diagnostic reasoning process through the progressive acquisition of clinical information, hypothesis generation, and refinement of differential diagnoses. Six months later, a convenience sample of 32 students participated in a descriptive mixed-methods evaluation using a structured questionnaire comprising 21 Likert-scale items and open-ended questions. Quantitative data were analyzed descriptively, and qualitative responses were examined using thematic analysis.\nRESULTS: Students reported highly positive perceptions across all educational domains. Mean domain scores ranged from 4.47 ± 1.19 to 4.66 ± 1.02 on a five-point Likert scale. The highest-rated domains were overall acceptance (4.66 ± 1.02), collaborative learning (4.61 ± 1.01), and diagnostic reasoning (4.60 ± 1.01). Qualitative analysis identified four recurring themes: high engagement and motivation, development of diagnostic reasoning, collaborative learning, and suggestions for improvement. Participants consistently described the progressive release of clinical information and peer discussion as key elements supporting diagnostic reasoning.\nCONCLUSIONS: Diagnóstica Bien was highly accepted by undergraduate medical students and was perceived as an engaging educational strategy that supports diagnostic reasoning, collaborative learning, and active participation. By intentionally simulating the diagnostic reasoning process through structured clinical inquiry, the intervention provides a feasible, low-cost, reproducible, and adaptable educational model that may help make diagnostic reasoning more explicit during undergraduate surgical education. Future studies should evaluate its educational effectiveness using objective measures of diagnostic reasoning and clinical performance.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43044533/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278730+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43020507",
+      "title": "Fostering professional vision in clinical ward rounds through digital simulation-based learning with eye-movement modelling examples and personalised feedback: study protocol for four experimental studies.",
+      "journal": "BMJ open",
+      "year": "2026",
+      "doi": "10.1136/bmjopen-2026-127058",
+      "abstract": "INTRODUCTION: Clinical ward round communication is a core competency in medicine. Advanced professional vision (aPV)—comprising visual noticing and knowledge-based reasoning—is foundational to effective ward round performance. Eye movement modelling examples (EMMEs) represent a promising simulation-based approach to training aPV in medical students. This protocol describes four randomised experiments embedded within the EMMA learning environment examining design features of EMME-based training.\nMETHODS AND ANALYSIS: Four pre-registered randomised controlled experiments with pre-test/intervention/post-test design. Studies 2a and 2b (October 2026–January 2027): parallel screening experiments; Study 2a: EMME-based learning with raw fixation visualisation versus attention map visualisation versus minimal control (same ward round videos without gaze visualisation) (pre-post design). Study 2b: video-based learning without EMME gaze visualisation, with textual versus graphical versus combined large language model (LLM)-generated feedback versus minimal control (pre-post design). Study 3 (Q2–Q3 2027): confirmatory 2×2 factorial (4 cells, n≈55 per cell) crossing the best visualisation (Study 2a) with the best LLM feedback (Study 2b). Study 4 (Q1-Q2 2028): EMME-based simulation with embedded prompts versus a priori prompts versus no prompts. Participants are randomly assigned via computerised allocation and are medical students in the clinical phase of their studies (third year onwards) at the Technical University of Munich (TUM) with no prior clinical ward round leadership experience. Study 2a: n=96; Study 2b: n=88; Study 3: n=220; Study 4: n=190 (all studies f=0.25, α=0.05, power=0.80, mixed split-plot Analysis of Variance (ANOVA)).\nETHICS AND DISSEMINATION: Ethical approval was obtained from the Munich Technical University ethics committee (03/2026; grant code 2025-702 S-CT). Dissemination is planned in peer-reviewed journals in the areas of education psychology and medical education. Data of studies 2–4 will be made available following the findability, accessibility, interoperability, and reusability (FAIR) principles () in the TUM Open Data Repository or OSF including metadata and persistent identifier (PID)/digital object identifier (DOI) assignment.\nTRIAL REGISTRATION NUMBER: The four studies will be pre-registered separately prior to participant enrolment at the Open Science Foundation (OSF) Registries (https://osf.io/registries). Registration numbers and dates will be inserted here upon receipt. Each study will be registered as a separate pre-registration entry, given their distinct hypotheses and designs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43020507/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-19T00:02:08.278685+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "sim"
+      ],
+      "priority": false
+    },
     {
       "id": "43043081",
       "title": "Shortcomings of Resident Education Regarding Female Bladder Pain Syndrome.",
