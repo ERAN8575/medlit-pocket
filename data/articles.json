@@ -1,6 +1,116 @@
 {
-  "generated_at": "2026-11-19T23:56:48.650456+00:00",
+  "generated_at": "2026-11-21T03:59:54.672492+00:00",
   "articles": [
+    {
+      "id": "43063397",
+      "title": "In the Eyes of the Commander: Competencies of Effective Military Medical Officers in Operational Settings.",
+      "journal": "Military medicine",
+      "year": "2026",
+      "doi": "10.1093/milmed/usag535",
+      "abstract": "INTRODUCTION: The Military Health System is tasked with preparing physicians to provide clinical care and support operational commanders in complex environments. Prior evaluations of military medical training have largely focused on physician perspectives, with limited attention to the views of operational commanders, the primary stakeholders of deployed medical capability. This study aimed to characterize the competencies commanders identify as most important in military physicians.\nMATERIALS AND METHODS: We conducted semi-structured interviews with 18 current or retired operational commanders with experience leading military physicians in deployed settings. Interviews were recorded, transcribed, and analyzed using thematic analysis as described by Braun and Clarke. Codes were iteratively developed and grouped into themes through investigator consensus. The study was approved by the authors' Institutional Review Board (protocol DBS.2025.860), and all participants provided informed consent.\nRESULTS: Commanders consistently identified clinical competence as a foundational expectation, often describing it as a minimum requirement rather than a distinguishing characteristic. High-performing physicians were differentiated by attributes beyond clinical skill. The most prominent theme was warfighter identity and embedded integration, with commanders emphasizing the importance of physicians who identify with the unit, demonstrate commitment to mission success, and integrate through presence, shared experience, and cultural understanding. Additional themes included operational competence, encompassing mission-specific medical planning and return-to-duty decision-making; interpersonal leadership and communication, including emotional intelligence, teamwork, and the ability to effectively \"lead up\"; and staff competence and command advising, highlighting the physician's role in providing candid, risk-informed recommendations within a command structure. Proactive engagement and ownership of medical readiness were frequently emphasized across themes.\nCONCLUSIONS: Although clinical competence is essential, commanders define physician effectiveness by operational integration, leadership, and mission-focused contribution. These findings suggest that military medical training should extend beyond clinical preparation to include deliberate development of operational understanding, leadership skills, and warfighter identity.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43063397/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.672080+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "qual"
+      ],
+      "priority": true
+    },
+    {
+      "id": "43061459",
+      "title": "Faculty-precepted AI-generated clinical cases in preclinical biochemistry: a mixed-methods study informed by Gagné's instructional design and interpreted through Bourdieu's theory of practice.",
+      "journal": "Frontiers in medicine",
+      "year": "2026",
+      "doi": "10.3389/fmed.2026.1867522",
+      "abstract": "BACKGROUND: Generative artificial intelligence (AI) and large language models are increasingly permeating medical education, yet their integration into foundational biomedical sciences remains inadequately theorised and inconsistently evaluated. Biochemistry instruction, characterised by early curricular placement and perceived remoteness from clinical application, presents a compelling context for investigating whether AI-generated clinical cases can bridge the divide between theory and practice.\nOBJECTIVE: To evaluate the educational impact of AI-generated clinical cases embedded within a spiral undergraduate biochemistry curriculum, examining learner perceptions, academic performance, and alignment with international competency frameworks, interpreted through Gagné's instructional model and Bourdieu's theory of practice.\nMETHODS: We conducted a convergent mixed-methods study within a first-year undergraduate biochemistry course (n = 81). The intervention comprised student-generated, faculty-verified clinical vignettes produced using large language models, delivered through tutorials structured according to Gagné's Nine Events of Instruction. Quantitative data included a purpose-designed questionnaire and comparative grade analysis against a historical cohort. Qualitative data from three performance-stratified focus groups were analysed thematically using Braun and Clarke's framework, with quality appraisal against Standards for Reporting Qualitative ResearchStandards for Reporting Qualitative Research standards. Competency alignment was mapped to six international frameworks.\nRESULTS: Learners reported favourable perceptions across cognitive understanding, clinical relevance, and peer collaboration. A thematic analysis revealed initial apprehension with subsequent adaptation, accuracy concerns necessitating verification literacy, deepened conceptual understanding alongside cognitive load considerations, and implementation challenges requiring faculty scaffolding. The intervention cohort showed enhanced grade distributions, with upward shifts in higher achievement bands. Interpreted through Bourdieu, the findings may be read as reconfiguring learner habitus towards active knowledge construction, introducing technological and verification capital, and intensifying the negotiation of epistemic authority. Competency mapping indicated alignment with knowledge application, communication, and scholarly practice domains. Comparative grade findings are reported descriptively (as proportions and percentage-point differences) and were not inferentially tested; they should be interpreted as exploratory. These outcomes reflect a multi-component instructional design (student-generated, collaborative, AI-assisted, and faculty-verified) and are not attributable to generative AI alone.\nCONCLUSIONS: AI-generated clinical cases represent a promising pedagogical innovation for contextualising foundational biochemistry when embedded within explicit instructional frameworks and verification structures ( Datasheet 1). Differential benefits across performance strata, platform-related accuracy variability, and equity considerations regarding tool access warrant deliberate curricular calibration.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061459/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.672056+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43061318",
+      "title": "America's part-time war surgeons: structural challenges facing reserve military surgeons and implications for medical readiness please add \"A AAST/EAST Position Paper\".",
+      "journal": "Trauma surgery & acute care open",
+      "year": "2026",
+      "doi": "10.1136/tsaco-2026-002583",
+      "abstract": "Reserve military surgeons have historically served as the lifeblood of the US military's medical capability, particularly during major conflicts and mass casualty events. Renewed focus on large-scale combat operations (LSCOs) has returned reserve surgeons to national prominence. However, structural barriers to operational medical readiness and robust medical support exist. These financial, professional, and training-related challenges include: loss of civilian income and financial instability during deployment, impact on civilian practice partners, high variability in medical readiness, limited access to predeployment training and professional military education, limited familiarity with military logistics and operational systems, reduced professional cohesion and military identity. These barriers yield variability in preparedness, obstacles to integration, and, ultimately, potential attrition of experienced surgical personnel. These effects take an undeniable toll on the military's ability to deliver timely, consistent, and high-quality combat casualty care. This article proposes recommendations to improve reserve surgeon readiness, operational integration, retention, and force management. Emphasis is placed on optimizing training platforms, standardizing combat-relevant competencies, improving access to sustainment opportunities, and preserving surgical capabilities necessary for future LSCO.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43061318/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.672027+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43060856",
+      "title": "Evaluating Perceptions of AI-Simulated Patients as an Adjunct to Peer-Based Clinical Case Practice in Undergraduate Medical Education: A Mixed Methods Survey Study.",
+      "journal": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.118211",
+      "abstract": "AI-simulated patients are an emerging educational tool that may provide learners with accessible opportunities to practise clinical consultations independently. This study explored participants' perceptions of AI-simulated patients compared with traditional peer-based practice, focusing on perceived effectiveness, acceptability, usability, and self-reported confidence. A questionnaire-based study was conducted involving final-year medical students and Foundation Year 1 (FY1) doctors. Participants used AI-simulated patient cases and completed a questionnaire comprising quantitative ratings and qualitative free-text responses about their experiences. Quantitative responses were analysed descriptively, while qualitative responses were examined to identify key themes in participants' perceptions. Participants reported their experiences of the usability and perceived educational value of AI-simulated patients, including their perceived benefits and limitations compared with peer-based practice. Qualitative feedback provided further insight into the perceived advantages of independent practice and immediate feedback, alongside limitations in human interaction and communication. These findings reflect participants' self-reported perceptions rather than objectively measured changes in knowledge or clinical performance. AI-simulated patients may offer a useful adjunct to traditional peer-based practice by providing an accessible and flexible means of practising clinical consultations. Although participants' perceptions suggest potential benefits for self-directed learning and confidence, these outcomes were not objectively assessed. Further research incorporating objective measures of knowledge, clinical performance, and communication skills is required to establish the educational effectiveness of AI-simulated patients.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060856/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.672004+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43060764",
+      "title": "Closing the gaps in military surgical education: an American Association for the Surgery of Trauma/Eastern Association for the Surgery of Trauma Military Committee Position Paper.",
+      "journal": "Trauma surgery & acute care open",
+      "year": "2026",
+      "doi": "10.1136/tsaco-2026-002429",
+      "abstract": "Contemporary combat operations and projected large-scale combat operations (LSCO) will challenge military physicians through mass-casualty incidents, challenging operational environments and difficult injury patterns that far exceed the challenges of peacetime practice and recent conflicts. These challenges require not only excellent medical and technical skills but also excellent expeditionary leadership and medical skills. At the same time, the majority of military physicians train in civilian medical schools and in residencies, which lack curricula tailored to military practice. The purpose of this joint American Association for the Surgery of Trauma (AAST) and Eastern Association for the Surgery of Trauma (EAST) position paper is to outline methods to close the gaps between training and the expected realities of LSCO. We describe specific gaps along the continuum of medical education from undergraduate medical education through subspecialty training and continuing medical education. We further review ongoing efforts to close these gaps and outline possible ways to expand on those efforts. Where applicable, we describe alternate methods to further improve readiness for LSCO. These methods include expanding military-civilian partnerships, further implementation of the Joint Expeditionary Medical Officer Program and recommendations for military unique criteria for military medical students, residents and fellows. This position paper outlines recommendations to further develop readiness in preparations for LSCO.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43060764/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.671980+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43057062",
+      "title": "Reconsidering the \"Sink or Swim\" Approach: A First-Year Surgical Resident Resilience Training Needs Assessment.",
+      "journal": "Journal of surgical education",
+      "year": "2026",
+      "doi": "10.1016/j.jsurg.2026.104259",
+      "abstract": "OBJECTIVE: Surgical residents report higher rates of burnout and stress compared to the general population. While resilience training may mitigate these outcomes, few studies have assessed the specific resilience training needs of first-year surgical residents. Therefore, the aim of this study was to describe first-year general surgery resident attitudes towards formal resilience training and identify learner priorities for curricular content and format.\nDESIGN SETTING, AND PARTICIPANTS: A qualitative needs assessment for formal first-year surgical resident resilience training was conducted using semi-structured interviews with categorical and preliminary first-year general surgery residents at 2 academic institutions. Residents were purposively recruited to obtain a diverse participant sample. De-identified interview transcripts were inductively coded by 2 investigators and prominent themes were identified using thematic analysis. Themes were iteratively reviewed and refined with a multidisciplinary team of surgical education experts.\nRESULTS: Fifteen first-year surgical residents participated (participation rate 39%, 15/38). Participants were 53% women, 27% Asian, 27% Black, 53% White, and 20% identified as Hispanic ethnicity, with a mean age of 30.2 years. We identified 6 prominent themes: 1) A need for resilience training to navigate the steep learning curve and workplace environment, 2) Current use of both adaptive and maladaptive coping strategies, 3) Resilience training priorities included communication, emotional regulation, self-awareness, and self-compassion, 4) Preference for small-group, discussion-based sessions grounded in surgical scenarios, 5) Perceived barriers included time constraints and stigma, 6) Anticipated outcomes included protected time for reflection and improved capacity for learning, well-being, and patient care.\nCONCLUSIONS: First-year surgical residents value structured resilience training to support adaptation to the surgical workplace environment. Participants describe key characteristics of the desired resilience program, including content, structure, and anticipated outcomes. These findings provide a framework for a resilience training curriculum tailored to first-year surgical residents. Future work may evaluate the feasibility and efficacy of these interventions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43057062/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-21T03:59:54.671934+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43054194",
       "title": "Governance, leadership and organisational capacity for decentralised medical training: insights from a South African medical school.",
