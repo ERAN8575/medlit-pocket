@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-11-22T03:13:37.918227+00:00",
+  "generated_at": "2026-11-23T03:44:34.318465+00:00",
   "articles": [
+    {
+      "id": "43068063",
+      "title": "Introduction to Medicine: A Curriculum Development Report on a Competency-Based Foundational Behavioral Science Course in Early Medical Education.",
+      "journal": "Advances in medical education and practice",
+      "year": "2026",
+      "doi": "10.2147/AMEP.S637234",
+      "abstract": "BACKGROUND: Medical education traditionally begins with a strong biomedical orientation, often postponing the systematic exploration of professional values and ethical reasoning until later phases of training. Concurrent recognition of the psychosocial, ethical, and professional dimensions of medical competence has increased attention to the earlier and more systematic integration of behavioral sciences into medical education.\nAIM: This curriculum development report describes the design and implementation of Introduction to Medicine, a compulsory first-year, outcome-oriented and competency-based behavioral sciences course at the University of Szeged, Hungary, and presents descriptive student evaluation data collected over three consecutive academic years.\nDESCRIPTION/METHODS: The course is embedded within a spiral curriculum in which behavioral, social, and ethical perspectives are revisited with increasing complexity throughout the first four years of the six-year medical program, culminating in a comprehensive examination at the end of the fourth year. Grounded in the biopsychosocial-spiritual paradigm, the course integrates models of health and disease, population health and prevention, medical ethics, history of medicine, healthcare systems, and doctor-patient relationships. Teaching method combines interactive lectures, case-based discussions, group projects, ethical scenario analysis, structured debates, reflection, and peer feedback. Besides written examination, a reflective Good Doctor essay forms part of the course assessment. Descriptive Student Evaluation of Teaching (SET) data were examined for the 2023/24, 2024/25, and 2025/26 academic years, where cohort sizes were 228, 239, and 254 students, with lecture/practical response rates of 29.4%/58.3%, 33.1%/75.7%, and 23.6%/72.8%, respectively.\nFINDINGS: Student evaluations indicated generally positive ratings for perceived learning contribution and the usefulness of supplementary resources, although ratings varied across academic years and generally declined over time. Mean ratings for perceived learning contribution ranged from 3.97 to 4.48 for lectures and from 4.14 to 4.56 for practical sessions, while ratings for the usefulness of supplementary resources ranged from 4.07 to 4.48 and from 4.12 to 4.42, respectively, on five-point scales. Class attendance was typically reported as having only occasional absences.\nCONCLUSION: The course illustrates how behavioral sciences can be integrated into early medical education through explicit learning outcomes, reflective learning activities, and clinically contextualized teaching. The course design is intended to establish an early conceptual, professional, and reflective foundation for the progressive development of medical competencies. As a single curriculum development report, it does not provide evidence of changes in professional identity formation or patient-centered healthcare. Future research can include longitudinal follow-up of student cohorts, systematic thematic analysis of reflective essays, and validated measures of professional identity and related outcomes. The model may provide a basis for adaptation in other institutions, subject to local curricular, regulatory, and faculty-resource considerations.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43068063/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-23T03:44:34.318193+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43067656",
+      "title": "Palliative care education for medical students in New South Wales, Australia: a mixed methods study of current curricula and expert perspectives.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10713-w",
+      "abstract": "BACKGROUND: Palliative care is a fundamental skill set for all clinicians, and the World Health Organisation has called for its routine integration into healthcare training. In Australia, an ageing population and the legalisation of voluntary assisted dying in New South Wales (NSW) in 2023 amplify the need for consistent, high-quality end-of-life care education. However, little current research describes palliative care education for medical students in NSW. This study aimed to document the status of core and optional palliative care education across NSW medical schools and to explore variation between curricula.\nMETHODS: A convergent parallel mixed methods design was used. One key informant per medical school completed a 39-item online questionnaire on teaching infrastructure, organisation, content, and examination, adapted from previous studies and guided by European Association for Palliative Care (EAPC) recommendations. Questionnaire data were analysed descriptively. In addition, semi-structured expert interviews with key educational personnel were conducted via videoconference between February 2024 and February 2025 and analysed using Braun and Clarke's Reflexive Thematic Analysis. Quantitative and qualitative findings were integrated during interpretation using a joint display.\nRESULTS: Six of seven NSW medical schools participated (response rate 85.7%); eight expert interviews were conducted. All six schools taught palliative care as core content, with an average of 8-17 teaching hours. Lectures were used universally, bedside teaching was offered in four schools. The content was formally examined in four schools, mostly integrated into other disciplines and focused on cognitive learning objectives. Only two schools had a professor/chair for palliative care, and three offered elective clinical placements. Use of curricular guidelines was inconsistent, with two schools reporting none. The RTA generated three themes: 'Inequality in palliative care education (at universities)', 'Education in transition', and 'Palliative care in medical student education - beneficial for every (future) doctor'.\nCONCLUSIONS: Palliative care is core content across all participating NSW medical schools, but its volume, depth, curricular placement, and underlying frameworks vary considerably and largely remain below international recommendations. A national framework, alongside resources such as Palliative Care Curriculum for Undergraduates (PCC4U), could help align teaching quality across universities.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43067656/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-23T03:44:34.318170+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43066452",
+      "title": "Clinical Learning Experiences of Displaced Sudanese Medical Students During Conflict: A Mixed‑Methods Study.",
+      "journal": "Cureus",
+      "year": "2026",
+      "doi": "10.7759/cureus.118320",
+      "abstract": "BACKGROUND: Clinical learning is of paramount importance for developing competent and confident medical graduates. In 2023, final-year medical students from the University of Medical Sciences and Technology (UMST), Sudan, were displaced and continued their learning at Muhimbili National Hospital (MNH), Tanzania, because of a war in their home country.\nAIM: This study aimed to determine the clinical learning experience and satisfaction among students attending Muhimbili Hospital following forced displacement due to conflict in Sudan and to explore the contributors to satisfaction and challenges of the learning experience.\nMETHODS: A mixed‑methods explanatory sequential study design was conducted among 5th‑year students. Quantitative data were collected using the Clinical Learning Evaluation Questionnaire (CLEQ) and a satisfaction questionnaire. Qualitative data were obtained through semi-structured interviews based on the results from the questionnaires.\nRESULTS: Quantitative data were collected from 140 participants. Semi-structured interviews were conducted with 10 participants, achieving thematic saturation. The results were analyzed using Braun and Clarke's inductive thematic analysis. The CLEQ scores reflected suboptimal exposure to diverse cases, limited supervision, and organizational inefficiencies, with average scores of 2.28, 2.7, and 2.9, respectively. Despite these scores, the satisfaction questionnaire yielded low satisfaction with an average score of 3.68 on a Likert scale, and the qualitative findings revealed strong themes of personal and professional growth, cultural adaptation and resilience. The major obstacles highlighted were language barriers, inconsistent supervision, and overcrowding of clinical settings.\nCONCLUSION: Although the clinical learning environment at MNH presented significant challenges, the participants claimed that they gained meaningful personal and professional development there. Strengthening supervision, improving organizational structures, and providing language support may help mitigate the implications of the displacement of medical students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066452/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-23T03:44:34.318148+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43066053",
+      "title": "Navigating Without a Compass: Chinese Medical Students' Perspectives on AI in Clinical Training.",
+      "journal": "Perspectives on medical education",
+      "year": "2026",
+      "doi": "10.5334/pme.2692",
+      "abstract": "INTRODUCTION: Artificial intelligence (AI) is rapidly transforming clinical practice, yet its integration into medical education remains largely unstructured. In China, where AI adoption is accelerating, little is known about how medical students perceive AI's role or what guidance they expect from educators. This study explores Chinese medical students' perspectives on AI in clinical training and their preferences for faculty engagement.\nMETHODS: Using educational cultural hegemony as a theoretical framework, the research team conducted in-depth, semi-structured interviews with 13 medical students across all five years of training at a medical school in China. Interviews addressed three sensitizing scenarios involving AI for clinical documentation, diagnostic assistance, and learning support. Transcripts were analyzed using Braun and Clarke's reflexive thematic analysis.\nRESULTS: Four themes were identified: Learning in the Shadows describes how students use AI covertly due to uncertain policies; Trust but Verify captures students' nuanced stance on AI reliability; The Human Element reveals concerns that AI may erode clinical reasoning and patient-physician relationships within China's high-volume healthcare system; and Educator as Compass describes students' desire for faculty who proactively teach AI literacy and model appropriate use.\nCONCLUSION: Chinese medical students navigate AI use without formal guidance in an ambiguous space between enthusiasm and caution. They seek educators who acknowledge AI's presence and preserve humanistic medicine. Findings underscore the urgent need for curricular integration of AI literacy and faculty development, particularly within hierarchical educational contexts. These findings carry implications beyond China's borders, suggesting that when institutions fail to acknowledge emerging technologies, students adapt independently but not necessarily safely or equitably.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43066053/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-23T03:44:34.318100+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43063397",
       "title": "In the Eyes of the Commander: Competencies of Effective Military Medical Officers in Operational Settings.",
