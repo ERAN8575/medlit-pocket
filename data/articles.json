@@ -1,6 +1,24 @@
 {
-  "generated_at": "2026-11-23T03:44:34.318465+00:00",
+  "generated_at": "2026-11-24T06:58:01.666265+00:00",
   "articles": [
+    {
+      "id": "43069146",
+      "title": "Implementing milestone-based assessment to document surgical competence progression in an obstetrics and gynecology residency program: a mixed-methods study from Latin America.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10264-0",
+      "abstract": "BACKGROUND: Competency-based medical education emphasizes outcomes and developmental progression, yet traditional numeric evaluations often fail to capture changes in surgical competence over time. Surgical milestones offer a structured framework for formative assessment, but their adaptation and use in obstetrics and gynecology surgical training outside high-income settings remains underexplored. This study aimed to adapt, implement, and evaluate surgical milestones in a gynecology residency program, examining their ability to document operative competence progression and their perceived educational value.\nMETHODS: A convergent mixed-methods design was used. Four obstetrics and gynecology surgical milestones were translated and culturally adapted using back-translation and a modified Delphi process. Milestone-based formative assessments were implemented during one-month gynecology and minimally invasive surgery rotations. Quantitative analyses included descriptive statistics, box plots, Wilcoxon signed-rank tests, and Spearman correlation coefficients to compare milestone ratings with the traditional numeric evaluation system of surgical skills. Qualitative data were collected through semi-structured interviews with residents and faculty and analyzed using inductive thematic analysis. Integration was achieved through a joint display.\nRESULTS: Forty-nine residents across all postgraduate years participated. Milestone ratings demonstrated a progressive pattern of surgical competence aligned with training level, with senior residents reaching higher developmental levels across most domains. In contrast, traditional numeric evaluation yielded uniformly high scores (mean score of 8) with minimal variation across training years. Correlations between milestone ratings and traditional numeric scores were weak (ρ range: -0.285 to 0.194), and Wilcoxon tests showed statistically significant differences between the two assessment approaches across all years (p < 0.05). Qualitative analysis identified five domains related to understanding the assessment process, improvement in postgraduate education, constructive criticism, monitoring of competence, and quality-focused practice. Participants highlighted the milestones' role in clarifying expectations, supporting formative feedback, and fostering reflective learning, while also emphasizing the need for coordinated faculty engagement.\nCONCLUSIONS: Adapted surgical milestones provided meaningful documentation of operative competence progression and greater discriminatory capacity than the traditional numeric evaluation in a gynecology residency program. Despite implementation complexity, milestone-based assessment represents a robust approach to evaluating surgical skills and strengthening competency-based surgical education in diverse training contexts.\nTRIAL REGISTRATION: Not applicable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43069146/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-24T06:58:01.665968+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43068063",
       "title": "Introduction to Medicine: A Curriculum Development Report on a Competency-Based Foundational Behavioral Science Course in Early Medical Education.",
