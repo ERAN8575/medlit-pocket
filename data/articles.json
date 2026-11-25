@@ -1,6 +1,61 @@
 {
-  "generated_at": "2026-11-24T06:58:01.666265+00:00",
+  "generated_at": "2026-11-25T05:27:37.153993+00:00",
   "articles": [
+    {
+      "id": "43075012",
+      "title": "Development, implementation, and evaluation of the use of electronic health record simulation in health professions education.",
+      "journal": "Frontiers in digital health",
+      "year": "2026",
+      "doi": "10.3389/fdgth.2026.2015310",
+      "abstract": "INTRODUCTION: Electronic health records (EHRs) are central to healthcare delivery, yet opportunities for learners to develop EHR proficiency in realistic, standardized educational settings remain limited. We describe the development, implementation, and evaluation of a longitudinal EHR curriculum using simulated patient records across health professions programs at a large academic health system.\nMETHODS: From June 2023 through June 2025, Duke University School of Medicine used ACE5, a parallel Epic training environment, to develop simulated patient cases embedded within existing curricula. Eleven simulated patient records (5 pediatric, 6 adult) were incorporated into clinical skills courses, problem-based learning, physician assistant orientation, clerkships, and fourth-year capstone training. Activities taught chart review, documentation, order entry, clinical decision support, preventive care, and patient handoffs. Student perceptions were assessed by anonymous survey and faculty feedback qualitatively.\nRESULTS: A total of 670 medical and physician assistant students participated. Among 25 survey respondents from a nested cohort of 126 medical students, perceived confidence was higher for using the training environment (76%) and chart review tools (72%) than for advanced tasks such as order entry and flowsheet management. About half (52%) reported moderate to substantial perceived knowledge gains, and 96% perceived they were somewhat or extremely likely to use these skills in future practice. Students valued realistic EHR practice and requested more exposure; faculty recognized educational benefit but noted implementation challenges.\nCONCLUSIONS: Longitudinal simulated EHR training is feasible and potentially valuable for developing practical EHR competencies. Sustained exposure, institutional support, and curricular alignment are critical for successful implementation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43075012/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-25T05:27:37.153824+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43074033",
+      "title": "Telehealth in military settings: policy challenges, lessons learned, and a framework for action - an integrative review with implications for health policy in Israel and beyond.",
+      "journal": "Israel journal of health policy research",
+      "year": "2026",
+      "doi": "10.1186/s13584-026-00794-9",
+      "abstract": "BACKGROUND: Military health systems must deliver care to dispersed, mobile and often hard-to-reach populations, and telehealth has become central to how they do so. Yet the evidence on military telehealth has rarely been synthesized with a view to the policy decisions that determine whether it is used appropriately, efficiently and effectively.\nOBJECTIVE: To integrate the evidence on telehealth in military settings worldwide, with particular attention to the Israel Defense Forces (IDF), in order to identify what policymakers need to know and to propose policies that specify what should be done, who should do it, and how.\nMETHODS: Integrative review following the Whittemore and Knafl framework. PubMed, Scopus, Web of Science and Google Scholar were searched for publications from 2010 to 2025, with earlier foundational sources, supplemented by NATO, governmental and institutional publications. Of 418 records identified, 47 sources were included; two further studies were added during peer review.\nRESULTS: Telehealth in military settings consistently improves access to specialist care, reduces unnecessary travel and medical evacuations, sustains care during crises such as the COVID-19 pandemic and armed conflict, and delivers behavioral health treatment with outcomes comparable to in-person care. Its limits are equally consistent: unsuitability for some clinical situations, fragile connectivity, stringent cybersecurity requirements, regulatory gaps, insufficient training, and uneven uptake across groups. In Israel, the IDF has established base-located telemedicine complexes and expanded digital mental health services amid a growing mental health burden since October 7, 2023, but published data on utilization and outcomes are scarce and the regulatory framework for military telehealth is incomplete.\nCONCLUSIONS: The main obstacles to military telehealth are now organizational and regulatory rather than technological. We propose seven policies, each with responsible actors and implementation steps: clinical appropriateness guidelines; a legal framework for telehealth that explicitly covers military care; risk-tiered cybersecurity certification; evaluated investment in remote-examination technologies; mandatory telehealth competency training; equity-oriented deployment with priority for telemental health; and a military telehealth data and surge-preparedness system. These policies are also relevant to civilian health systems.\nCLINICAL TRIAL NUMBER: Not applicable.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43074033/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-25T05:27:37.153795+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43073595",
+      "title": "Resident and Faculty Perspectives on Team-Based Learning in Internal Medicine Residency: A Qualitative Study.",
+      "journal": "Journal of general internal medicine",
+      "year": "2026",
+      "doi": "10.1007/s11606-026-11002-4",
+      "abstract": "BACKGROUND: Team-based learning (TBL) is an active learning strategy associated with increased engagement and knowledge retention in undergraduate medical education. However, adoption in graduate medical education (GME) has been limited. It is unclear why this is the case.\nOBJECTIVE: To explore resident and faculty perspectives on barriers to and strategies for implementing TBL in an internal medicine residency program.\nDESIGN: Qualitative study nested within a prospective mixed-methods educational intervention.\nPARTICIPANTS: Internal medicine residents and faculty at a mid-sized academic medical center in the Pacific Northwest.\nINTERVENTIONS: Nine infectious disease-focused TBL sessions delivered during noon conferences over 5 weeks. Faculty received structured training and coaching in TBL session design and facilitation.\nAPPROACH: Following completion of the intervention, residents and faculty participated in semi-structured focus groups. Audio-recorded sessions were transcribed verbatim and analyzed using inductive thematic analysis with constant comparison by two independent coders. Discrepancies were resolved through consensus.\nKEY RESULTS: Analyses identified three primary domains: perceived learning, group dynamics, and time investment/restrictions. Residents described greater engagement, motivation, and perceived knowledge retention with TBL compared to traditional lectures, attributing these benefits to concise, clinically relevant pre-work and active, case-based discussions. Small-group formats promoted psychological safety and enriched discussion among learners at different training levels. Faculty observed increased resident engagement but described challenges related to time-intensive preparation, uncertainty about learning outcomes, and adapting to a new teaching modality. Structural barriers included inconsistent attendance due to clinical responsibilities, resistance to peer evaluation, and logistical constraints such as room layout and limited protected time.\nCONCLUSIONS: Residents and faculty identified both benefits and challenges to implementing TBL in GME. Successful integration may require deliberate resident orientation, faculty development and coaching, and practical adaptations to session design, scheduling, and learning environments. These findings can inform residency programs seeking to incorporate active learning strategies into existing curricula.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43073595/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-25T05:27:37.153743+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43069146",
       "title": "Implementing milestone-based assessment to document surgical competence progression in an obstetrics and gynecology residency program: a mixed-methods study from Latin America.",
