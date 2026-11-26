@@ -1,6 +1,154 @@
 {
-  "generated_at": "2026-11-25T05:27:37.153993+00:00",
+  "generated_at": "2026-11-26T05:07:47.279011+00:00",
   "articles": [
+    {
+      "id": "43085187",
+      "title": "Undergraduate medical students' receptivity to feedback from standardized patients: A scoping review.",
+      "journal": "Patient education and counseling",
+      "year": "2026",
+      "doi": "10.1016/j.pec.2026.110400",
+      "abstract": "OBJECTIVE: Undergraduate medical students routinely receive feedback from standardized patients (SPs). Many studies have examined SP feedback across simulation formats. However, the literature has not yet been synthesized through the lens of student feedback receptivity. This gap limits our understanding of how students engage with SP feedback. To address this, we conducted a scoping review of students' receptivity to SP feedback.\nMETHODS: We followed Arksey and O'Malley's framework. We searched five databases from January 1993 to July 2023, with a revised search in 2024. Two authors independently screened titles and abstracts and reviewed full texts. We used predefined categories to extract bibliometric data (e.g., students' educational level, authors' country of origin). We used predefined categories to extract qualitative data (e.g., characteristics and factors influencing receptivity to feedback). We consulted two groups, each comprising six second-year medical students, to explore how our findings resonated with their perspectives.\nRESULTS: We included 62 articles. Most studies involved clerkship students (42; 67.7%) and were conducted in Europe (27; 43.5%) or North America (26; 41.9%). In most studies, students received verbal SP feedback (57; 91.9%), often during discussions with tutors and peers (30; 48.4%). We identified three themes: (1) openness to SP feedback in simulation activities; (2) value of SP feedback based on its content and structure; (3) likelihood of drawing upon SP feedback in different contexts.\nCONCLUSION: Medical students value SP feedback because it offers a patient perspective that may be difficult to obtain during their undergraduate training. Students appear more receptive when SPs provide high-quality feedback and when debriefs acknowledge the patient voice in psychologically safe environments. Simulation activities support receptivity when they promote authentic performance and position SP feedback as relevant to future care.\nPRACTICE IMPLICATIONS: Fostering student feedback receptivity requires SP training and simulation practices that support uptake of SP feedback.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43085187/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278789+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43084248",
+      "title": "Usability and Implementation Readiness of an In-House Curriculum Management System in Undergraduate Medical Education: Convergent Mixed Methods Pilot Study.",
+      "journal": "JMIR medical education",
+      "year": "2026",
+      "doi": "10.2196/103902",
+      "abstract": "BACKGROUND: Digital curriculum management systems (CMSs) can support curriculum oversight and mapping, but successful implementation also depends on usability and alignment with institutional workflows and organizational requirements.\nOBJECTIVE: This pilot study compared perceived usability of the existing curriculum management system (CMS1) with a newly developed in-house system (newly developed curriculum management system [CMS2]) and explored users' perceptions of functionality, perceived workflow impact, and implementation readiness before wider institutional rollout.\nMETHODS: In this convergent mixed methods pilot, faculty and administrative staff rated CMS1 based on their prior routine experience and rated CMS2 after orientation and a 2- to 3-week pilot period. Paired System Usability Scale (SUS) scores were compared using paired t tests, 95% CIs, and effect sizes. Fifteen participants also contributed to 14 semistructured interview sessions. Interview data were analyzed using reflexive thematic analysis informed by the Technology Acceptance Model, and quantitative and qualitative findings were integrated using a joint display.\nRESULTS: Fifteen participants (12 faculty and 3 administrative staff) completed paired assessments. Mean SUS scores increased from 55.00 (SD 23.72) for CMS1 to 73.83 (SD 8.65) for CMS2 (mean difference 18.83, 95% CI 3.86-33.81; P=.02; Cohen dz=0.70). Among faculty, mean scores increased from 51.46 (SD 23.68) to 75.63 (SD 7.40). The mean difference was 24.17 (95% CI 7.53-40.80; P=.008; Cohen dz=0.92). Among administrative staff (n=3), mean SUS scores changed from 69.17 (SD 21.84) for CMS1 to 66.67 (SD 11.27) for CMS2 (mean difference -2.50 points); this subgroup was summarized descriptively because of the very small sample. Qualitative findings indicated perceived gains in curriculum visibility, task completion, and competency mapping, alongside constraints related to reporting, role-based access, interoperability, governance, and role-tailored training.\nCONCLUSIONS: CMS2 was associated with higher perceived usability overall and among faculty, while no descriptive improvement was observed among the small administrative staff subgroup. Qualitative and integrated findings indicated that implementation readiness depended not only on interface usability but also on reporting capability, role-aligned permissions, interoperability, governance safeguards, and role-tailored training.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084248/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278774+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43084240",
+      "title": "Standardized Performance Assessment Methodology and Evaluation Framework for Tactical Combat Casualty Care Autonomous Documentation Algorithms: Framework Development and Evaluation.",
+      "journal": "JMIR medical informatics",
+      "year": "2026",
+      "doi": "10.2196/95075",
+      "abstract": "BACKGROUND: The Military Health System mandates medical documentation at all echelons of care; however, care providers in combat situations must prioritize lifesaving measures over record-keeping, leading to information gaps. Effective human-machine teaming solutions designed to autonomously document care delivery will serve as future force multipliers in tactical combat casualty care (TCCC) environments.\nOBJECTIVE: This study proposed a standardized performance evaluation framework for AI algorithms designed to passively document care delivery in the TCCC environment. Common AI performance evaluation methods do not adequately represent the temporal, repetitive, and context-dependent nature of real-world TCCC delivery. Comprehensive assessments are necessary to evaluate AI tools in a manner that reflects the longitudinal and workflow-dependent nature of care delivery.\nMETHODS: To assess performance, the research team leveraged a reserved dataset. In the first phase of the assessment, a standardized, repeatable performance methodology and framework was used to evaluate individual algorithms that detect (1) treatments administered by the care provider, (2) visible medical objects, and (3) injuries and their localizations. Detection effectiveness included 4 metrics: Jaccard Index, also known as intersection over union, precision, recall, and F1-score. Processing efficiency was evaluated by lag time scores. The second phase incorporated a centralized orchestration framework to support representative edge-constrained and synchronized execution, as well as computational resource characterization within a workflow-aware environment. In addition, quantified memory consumption and processing unit resource usage were assessed.\nRESULTS: Results are summarized for a representative algorithm in each category to illustrate the evaluation framework. Medical procedure detection yielded procedure-level mean F1-scores from 0.00 to 0.31 and simulation-level means from 0.00 to 0.33. Higher mean F1-scores were observed for nasopharyngeal airway, chest seal application, and treat a casualty for a cold injury (mean F1=0.28, 0.31, and 0.31, respectively). Medical object detection achieved mean F1-scores of approximately 0.42 (range 0-0.71). Injury detection and localization showed mean F1-scores of approximately 0.27 (range 0-0.60). These results illustrate the ability of the framework to characterize performance variability across algorithms and simulations.\nCONCLUSIONS: The proposed evaluation framework provides standardized, workflow-aware assessment of AI algorithms for core TCCC documentation tasks. While algorithm performance to date is low, the framework captures performance variability across algorithms and supports targeted identification of underperforming areas for iterative AI model refinement. The framework provides a foundation for broader evaluation of clinical and digital health systems that require event-level reasoning and workflow-aware assessment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43084240/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278760+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43083868",
+      "title": "Parent and Caregiver Perspectives on the Reach Out to Youth Health Care Pathway Program: Cross-Sectional Survey Study.",
+      "journal": "JMIR formative research",
+      "year": "2026",
+      "doi": "10.2196/105146",
+      "abstract": "BACKGROUND: Underrepresented minority groups make up a smaller share of physicians than of the US population. While early health care exposure enhances career interest among underrepresented minority youth, limited research examines how parental engagement influences motivation to support children's medical aspirations. The Reach Out To Youth (ROTY) program provides parallel workshops for children and parents to foster family engagement.\nOBJECTIVE: This study evaluated adult family respondents' satisfaction with ROTY, their perceptions of how attainable a health care career is for their children, and their intended engagement to support their children's interest.\nMETHODS: We conducted a cross-sectional, postevent-only survey of adult family members (parents, guardians, and other accompanying adults) attending ROTY events hosted by Michigan State University College of Human Medicine in 2024 and 2025. An 18-item questionnaire assessed demographics, program satisfaction, postevent perceptions of career attainability, and engagement intentions; no baseline survey was administered, so all results describe postevent perceptions rather than measured change. Proportions are reported with counts and 95% CIs. Open-ended feedback underwent inductive thematic analysis.\nRESULTS: Among 73 respondents, 63 (86.3%) were parents or legal guardians, 16 (21.9%) were born outside the United States, and 47 (64.4%) held a bachelor's degree or higher. All respondents (73/73, 100%; 95% CI 95.1%-100%; Clopper-Pearson interval) would recommend ROTY to other families, and 74.0% (54/73) rated it as \"very interesting.\" In total, 71.2% (52/73) of respondents (95% CI 60.8%-81.6%) reported that a health care career seemed more attainable for their children after the event, and the remaining 28.8% (21/73) answered \"maybe.\" Almost all (72/73, 98.6%) intended to continue discussing topics from the event at home. Engaging children in science events was the most endorsed engagement strategy (72/73, 98.6%), and 72.6% (53/73) endorsed the need for greater minority group representation in health care as a reason to encourage health care careers. Thematic analysis of open-ended responses from 39 of 73 (53.4%) respondents identified 8 themes; because responses were multiply coded, theme frequencies overlapped, led by program quality and organization (30/39, 76.9%) and suggestions for improvement (14/39, 35.9%). Respondents' suggestions centered on clearer pre-event communication, expansion to more age groups, and school- and community-based outreach.\nCONCLUSIONS: Respondents attending ROTY reported very high satisfaction, and most rated health care careers as seeming more attainable for their children after the event. Experiential learning, visible diversity, and parallel parent-child programming were among the elements respondents valued. These findings support further evaluation of dual-generation programs with pretest-posttest and longitudinal designs.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43083868/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278744+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual",
+        "sim"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43080530",
+      "title": "Editorial: The relationship between human energy supply and environmental and training factors.",
+      "journal": "Frontiers in sports and active living",
+      "year": "2026",
+      "doi": "10.3389/fspor.2026.2017019",
+      "abstract": "Human energy supply and its interactions with external environments and training strategies represent a cross-cutting topic spanning sports science, environmental physiology and military operational medicine. This paper summarizes a Frontiers Research Topic focused on human energy supply under complex conditions. The Research Topic addresses five research directions: training-induced energy metabolism mechanisms, training equipment for energy optimization, environmental effects on energy expenditure, assessment of energy limits in special environments, and translational research in sport and military scenarios. The included articles adopt diverse methods including metabolomics, ergometer testing and qualitative investigation, covering extreme settings such as cold, high altitude and desert. Contributions originate from research institutions across China, Ireland, Greece and Sweden. This Research Topic advances interdisciplinary communication and provides theoretical support for optimizing athletic performance and military operational efficiency, while identifying existing bottlenecks including ethical constraints and challenges in real-world data acquisition.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080530/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278731+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "military",
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43080270",
+      "title": "Hosting displaced medical students in times of crisis: a multi-national qualitative study adapting the Consolidated Framework for Implementation Research.",
+      "journal": "Frontiers in medicine",
+      "year": "2026",
+      "doi": "10.3389/fmed.2026.1950025",
+      "abstract": "Catastrophic geopolitical conflicts increasingly disrupt the continuity of medical education worldwide, placing immense pressure on clinical training pipelines and forced migration student groups. While short-term, reactive, remote learning models exist, there is a profound lack of evidence-based implementation templates for medical schools within stable host nations to systematically host and integrate displaced clinical student cohorts mid-stream. This study explores the multi-level barriers and facilitators to hosting displaced medical students across diverse international learning environments, seeking to establish a model of educational sanctuary while adapting implementation science theory in crisis contexts. Employing a qualitative multi-site case study design guided by a critical realist ontology, this study analysed 66 semi-structured interviews with displaced Gazan medical students, hosting lecturers, clinical coordinators, and support staff across six national contexts, comprising five physical clinical hosting nations (the United Kingdom, Malaysia, Pakistan, South Africa, and Turkey) and one dedicated remote learning contingency context (Egypt). Transcribed data were analysed using Reflexive Thematic Analysis and mapped onto the Consolidated Framework for Implementation Research (CFIR). The analysis revealed that while restrictive immigration policies, clinical placement caps, and severe cultural distance represent substantial barriers, key facilitators include assessment considerations, flexible placement models, sanctuary institutional cultures, peer networks, and decentralized administrative trust. Strategic administrative approaches, such as considering the classification of displaced students as extended clinical elective visitors rather than full-time matriculants where permitted by relevant immigration, accreditation, institutional, and professional regulations, were perceived by institutional leaders to facilitate accommodating displaced cohorts within legal governance frameworks. This study demonstrates that public sector higher education institutions can act as vital global sanctuary networks to preserve clinical training pipelines. Crucially, the findings propose three exploratory, context-specific adaptations to the 2022 CFIR meta-framework for acute crisis settings: Agile Implementation Over Perfection within the Implementation Process domain, Protective Leadership Shielding within the Inner Setting domain, and Bidirectional Boundary Subversion at the Inner/Outer Setting interface. These exploratory, context-specific observations offer preliminary insights for adapting CFIR construct interpretations from stable clinical settings to dynamic public sector responses during complex humanitarian emergencies.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43080270/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278718+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43079906",
+      "title": "Practical tips for rigorous and contextually responsive qualitative research in resource-disadvantaged health professions education settings.",
+      "journal": "Medical education online",
+      "year": "2026",
+      "doi": "10.1080/10872981.2026.2769244",
+      "abstract": "BACKGROUND: Qualitative research in health professions education requires decisions about resources, relationships, language and knowledge. Limited funding, protected time and methodological support can restrict participation in scholarship. Established guidance provides essential foundations, but researchers still need to judge how recommended practices fit the resources, dependencies and assumptions of their particular settings.\nPURPOSE: We present twelve tips for making defensible qualitative research decisions in resource-disadvantaged health professions education settings, distinguishing practical feasibility from methodological appropriateness and recognising variation within and across countries.\nAPPROACH: This selective methodological synthesis draws on published scholarship and practitioner-researcher experience. Literature encountered through research training, postgraduate teaching and iterative coauthor revision informed the guidance. Written critique led to changes in the selection, organisation and emphasis of the tips. The development account distinguishes published evidence, conceptual guidance and proposed applications, while acknowledging selective access, author judgement and the absence of a systematic search or formal quality appraisal.\nSYNTHESIS: The tips address study scope, locally meaningful questions, theoretical fit, equitable collaboration, reflexivity, recruitment, language, ethical oversight, confidentiality, analysis, interpretation and dissemination. A table identifies the decision emphasised by each tip. Linked episodes from a hypothetical feedback study illustrate choices about recruitment dependencies, language competence, recognisable quotations and explanations of participants' accounts; recruitment is presented as a completed decision record. They make alternatives and trade-offs explicit, including circumstances requiring support, redesign or deferral. Contextual expertise may refine an explanation without establishing a new theory or treating resource constraints as advantages. Optional AI assistance is considered against affordability, connectivity, confidentiality, human verification and methodological fit.\nCONCLUSIONS: Rigour depends on coherent, transparent choices appropriate to the question, setting and claims. The tips offer proposed applications for contextual judgement rather than a validated methodology. Institutional and sector-level responsibility for funding, protected time and research support remains essential; individual adaptability cannot replace that investment.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079906/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278704+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
+    {
+      "id": "43079458",
+      "title": "Preparing medical graduates for Australian rural practice: a qualitative evaluation of shorter longitudinal integrated clerkships in small communities.",
+      "journal": "BMC medical education",
+      "year": "2026",
+      "doi": "10.1186/s12909-026-10202-0",
+      "abstract": "BACKGROUND: Rural Australia is experiencing a medical workforce crisis. Strategies to increase the proportion of medical graduates who work rurally have been effective for larger rural towns and regional centres, however smaller rural communities still face critical workforce shortages. Longitudinal Integrated Clerkships (LIC) have been found to be effective in increasing student rural medicine exposure. There is evidence for the efficacy of 12-month placements with respect to readiness to practice as a medical graduate and to improve rural retention. However, longer placements limit the number of students able to access a LIC experience. One strategy to provide rural training opportunities for more students in small rural communities is to reduce the duration of LIC placement.\nMETHODS: This study evaluated the impact of a 6-month LIC program in small rural communities (population <10,000) on student preparedness for internship and long-term ambition to remain a rural medical practitioner, as well as the challenges and benefits of this program. Qualitative interviews with general practitioner supervisors and students/ recent graduates of the LIC program were undertaken, and reflexive thematic analysis was conducted.\nRESULTS: Interviews were conducted with 10 students/graduates, and 3 supervisors. Themes arising from the analysis included: learning environment, LIC program structure and work readiness. These themes supported LIC principles of continuity of relationships, transformational experiences, and development of professional identity.\nCONCLUSIONS: The results of this study provide qualitative support for a shorter, 6-month LIC program in small rural communities to facilitate student aspirations for rural practice and provide preparation for internship in the Australian context. These findings have implications for further development of LIC placements in small communities to expand rural training opportunities for medical students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/43079458/",
+      "source": "PubMed abstract",
+      "updated": "2026-11-26T05:07:47.278656+00:00",
+      "quick": "中文摘要尚未產生。英文原始摘要請見下方；設定 OPENAI_API_KEY 後會逐批補上中文摘要。",
+      "deep": "【研究設計與方法學】\n目前尚未完成 AI 方法學評讀。閱讀全文時請確認：研究設計、抽樣策略、資料來源、資料分析步驟、研究者反身性與研究限制。",
+      "ai_status": "pending",
+      "tags": [
+        "qual"
+      ],
+      "priority": false
+    },
     {
       "id": "43075012",
       "title": "Development, implementation, and evaluation of the use of electronic health record simulation in health professions education.",
